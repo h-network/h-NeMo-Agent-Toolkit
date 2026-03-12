@@ -72,6 +72,7 @@ ragas = ["nvidia-nat-ragas == {version}"]
 ragaai = ["nvidia-nat-ragaai == {version}"]
 mysql = ["nvidia-nat-mysql == {version}"]
 redis = ["nvidia-nat-redis == {version}"]
+redis-orchestration = ["nvidia-nat-redis-orchestration == {version}"]
 s3 = ["nvidia-nat-s3 == {version}"]
 security = ["nvidia-nat-security == {version}"]
 semantic-kernel = ["nvidia-nat-semantic-kernel == {version}"]
@@ -108,6 +109,7 @@ most = [
   "nvidia-nat-profiler == {version}",
   "nvidia-nat-ragas == {version}",
   "nvidia-nat-redis == {version}",
+  "nvidia-nat-redis-orchestration == {version}",
   "nvidia-nat-s3 == {version}",
   "nvidia-nat-security == {version}",
   "nvidia-nat-semantic-kernel == {version}",
@@ -246,6 +248,7 @@ nvidia-nat-ragas = { path = "packages/nvidia_nat_ragas", editable = true }
 nvidia-nat-ragaai = { path = "packages/nvidia_nat_ragaai", editable = true }
 nvidia-nat-mysql = { path = "packages/nvidia_nat_mysql", editable = true }
 nvidia-nat-redis = { path = "packages/nvidia_nat_redis", editable = true }
+nvidia-nat-redis-orchestration = { path = "packages/nvidia_nat_redis_orchestration", editable = true }
 nvidia-nat-s3 = { path = "packages/nvidia_nat_s3", editable = true }
 nvidia-nat-security = { path = "packages/nvidia_nat_security", editable = true }
 nvidia-nat-semantic-kernel = { path = "packages/nvidia_nat_semantic_kernel", editable = true }
