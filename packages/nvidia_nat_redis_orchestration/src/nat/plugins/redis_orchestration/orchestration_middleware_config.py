@@ -68,3 +68,40 @@ class RedisOrchestrationConfig(DynamicMiddlewareConfig, name="redis_orchestratio
         default=None,
         description="Instance identifier for multi-instance deployments. Auto-generated UUID if omitted.",
     )
+
+    # --- Session Continuity ---
+
+    enable_session_continuity: bool = Field(
+        default=False,
+        description="Enable conversation session persistence in Redis.",
+    )
+
+    session_ttl: int = Field(
+        default=86400,
+        gt=0,
+        description="TTL in seconds for session data (default 24h).",
+    )
+
+    session_max_turns: int = Field(
+        default=200,
+        gt=0,
+        description="Maximum conversation turns per session before rotation.",
+    )
+
+    session_max_bytes: int = Field(
+        default=1_048_576,
+        gt=0,
+        description="Maximum total bytes per session before rotation (default 1MB).",
+    )
+
+    session_compaction_threshold: int = Field(
+        default=50,
+        gt=0,
+        description="Turn count that triggers compaction of old turns.",
+    )
+
+    session_compaction_keep_recent: int = Field(
+        default=10,
+        gt=0,
+        description="Number of recent turns to retain after compaction.",
+    )

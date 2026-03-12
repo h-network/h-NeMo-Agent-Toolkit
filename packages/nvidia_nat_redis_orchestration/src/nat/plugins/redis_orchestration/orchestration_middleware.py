@@ -12,7 +12,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-"""Redis orchestration middleware — state tracking + external abort."""
+"""Redis orchestration middleware — state tracking, external abort, session continuity."""
 
 from __future__ import annotations
 
@@ -33,21 +33,27 @@ from nat.middleware.middleware import FunctionMiddlewareContext
 from .abort_controller import AbortController
 from .exceptions import TaskAbortedError
 from .orchestration_middleware_config import RedisOrchestrationConfig
+from .session_store import SessionStore
 from .state_tracker import TaskStateTracker
 
 logger = logging.getLogger(__name__)
 
 
 class RedisOrchestrationMiddleware(DynamicFunctionMiddleware):
-    """Middleware that tracks task execution state in Redis and supports external abort.
+    """Middleware that tracks task execution state in Redis, supports external abort,
+    and provides session continuity for conversation history.
 
     Wraps each intercepted function call with:
     * **State tracking** — sets ``running`` before execution, then ``completed`` /
-      ``failed`` / ``timed_out`` / ``aborted`` on exit.  State is stored as a
-      Redis string with a configurable TTL and published to a Pub/Sub channel.
+      ``failed`` / ``timed_out`` / ``aborted`` on exit.
     * **External abort** — subscribes to a per-task Pub/Sub channel so that
       external callers can cancel execution in flight.
+    * **Session continuity** — persists conversation turns (user input + assistant
+      response) to Redis lists with TTL and size-based rotation.
     """
+
+    # LLM method names from COMPONENT_FUNCTION_ALLOWLISTS — unique to LLM components.
+    _LLM_METHODS: frozenset[str] = frozenset({"invoke", "ainvoke", "stream", "astream"})
 
     def __init__(
         self,
@@ -63,11 +69,24 @@ class RedisOrchestrationMiddleware(DynamicFunctionMiddleware):
 
         self._state_tracker: TaskStateTracker | None = None
         self._abort_controller: AbortController | None = None
+        self._session_store: SessionStore | None = None
 
         if config.enable_state_tracking:
             self._state_tracker = TaskStateTracker(client, config.key_prefix, config.state_ttl, instance_id)
         if config.enable_abort:
             self._abort_controller = AbortController(client, config.key_prefix)
+        if config.enable_session_continuity:
+            self._session_store = SessionStore(
+                client, config.key_prefix,
+                session_ttl=config.session_ttl,
+                max_turns=config.session_max_turns,
+                max_bytes=config.session_max_bytes,
+            )
+
+    @property
+    def session_store(self) -> SessionStore | None:
+        """Access the session store for direct programmatic use."""
+        return self._session_store
 
     # ------------------------------------------------------------------
     # Single invocation
@@ -102,6 +121,10 @@ class RedisOrchestrationMiddleware(DynamicFunctionMiddleware):
 
             if self._state_tracker:
                 await self._state_tracker.set_completed(task_id)
+
+            # Session capture — persist LLM turns
+            await self._capture_session_turn(context, args, result)
+
             return result
 
         except TaskAbortedError:
@@ -147,16 +170,26 @@ class RedisOrchestrationMiddleware(DynamicFunctionMiddleware):
                 self._abort_controller.listen_for_abort(task_id, abort_event),
             )
 
+        accumulated_content: list[str] = []
+
         try:
             async for chunk in super().function_middleware_stream(
                 *args, call_next=call_next, context=context, **kwargs,
             ):
                 if abort_event.is_set():
                     raise TaskAbortedError(task_id)
+                # Accumulate content for session capture
+                if self._session_store:
+                    accumulated_content.append(self._extract_chunk_text(chunk))
                 yield chunk
 
             if self._state_tracker:
                 await self._state_tracker.set_completed(task_id)
+
+            # Session capture — persist streamed response
+            if accumulated_content:
+                full_response = "".join(accumulated_content)
+                await self._capture_session_turn(context, args, full_response)
 
         except TaskAbortedError:
             if self._state_tracker:
@@ -214,6 +247,112 @@ class RedisOrchestrationMiddleware(DynamicFunctionMiddleware):
         # Execution completed normally — clean up the abort waiter.
         abort_wait.cancel()
         return execution_task.result()
+
+    # ------------------------------------------------------------------
+    # Session continuity helpers
+    # ------------------------------------------------------------------
+
+    def _get_session_id(self) -> str | None:
+        """Derive session ID from the current execution context."""
+        if not self._session_store:
+            return None
+        try:
+            from nat.builder.context import Context
+            ctx = Context.get()
+            return SessionStore.derive_session_id(
+                conversation_id=getattr(ctx, "conversation_id", None),
+                user_id=getattr(ctx, "user_id", None),
+            )
+        except Exception:
+            return None
+
+    def _is_llm_call(self, context: FunctionMiddlewareContext) -> bool:
+        """Check if the intercepted call is an LLM invocation."""
+        return context.name in self._LLM_METHODS
+
+    async def _capture_session_turn(
+        self,
+        context: FunctionMiddlewareContext,
+        args: tuple[Any, ...],
+        result: Any,
+    ) -> None:
+        """Capture user input + assistant response as session turns.
+
+        Only activates for LLM calls (invoke/ainvoke/stream/astream).
+        """
+        if not self._session_store or not self._is_llm_call(context):
+            return
+
+        session_id = self._get_session_id()
+        if not session_id:
+            return
+
+        try:
+            # Extract user message from LLM input args
+            user_text = self._extract_user_message(args)
+            if user_text:
+                await self._session_store.add_user_turn(session_id, user_text)
+
+            # Extract assistant response
+            assistant_text = self._extract_assistant_response(result)
+            if assistant_text:
+                await self._session_store.add_assistant_turn(session_id, assistant_text)
+        except Exception:
+            logger.debug("Session capture failed for session %s", session_id, exc_info=True)
+
+    @staticmethod
+    def _extract_user_message(args: tuple[Any, ...]) -> str | None:
+        """Extract the last user message from LLM input args.
+
+        LLM ainvoke receives args[0] as a list of message objects
+        (LangChain BaseMessage) or a list of dicts with role/content.
+        We find the last user/human message.
+        """
+        if not args:
+            return None
+        messages = args[0]
+        if not isinstance(messages, list) or not messages:
+            # Could be a string prompt
+            if isinstance(messages, str):
+                return messages
+            return None
+
+        # Walk backwards to find the last user message
+        for msg in reversed(messages):
+            # LangChain BaseMessage — has .type and .content
+            if hasattr(msg, "type") and hasattr(msg, "content"):
+                if msg.type in ("human", "user"):
+                    return str(msg.content)
+            # Dict format — {"role": "user", "content": "..."}
+            elif isinstance(msg, dict):
+                if msg.get("role") in ("user", "human"):
+                    return str(msg.get("content", ""))
+        return None
+
+    @staticmethod
+    def _extract_assistant_response(result: Any) -> str | None:
+        """Extract text content from an LLM response.
+
+        Handles LangChain AIMessage objects and plain strings.
+        """
+        if result is None:
+            return None
+        if isinstance(result, str):
+            return result if result.strip() else None
+        # LangChain AIMessage — has .content attribute
+        if hasattr(result, "content"):
+            content = result.content
+            return str(content) if content else None
+        return str(result) if result else None
+
+    @staticmethod
+    def _extract_chunk_text(chunk: Any) -> str:
+        """Extract text from a streaming chunk."""
+        if isinstance(chunk, str):
+            return chunk
+        if hasattr(chunk, "content"):
+            return str(chunk.content) if chunk.content else ""
+        return str(chunk) if chunk else ""
 
 
 __all__ = ["RedisOrchestrationMiddleware"]
