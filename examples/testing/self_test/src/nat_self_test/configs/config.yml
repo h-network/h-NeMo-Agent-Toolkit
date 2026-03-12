@@ -1,0 +1,75 @@
+# SPDX-FileCopyrightText: Copyright (c) 2025-2026, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+# SPDX-License-Identifier: Apache-2.0
+
+# Self-Testing QA Agent
+# An agent built with NeMo Agent Toolkit that tests the toolkit's own
+# Redis orchestration middleware — while running under that middleware.
+
+function_groups:
+  qa_tools:
+    _type: qa_tools
+    redis_url: "redis://localhost:6379"
+    key_prefix: "selftest"
+    test_directory: "packages/nvidia_nat_redis_orchestration/tests"
+
+functions:
+  current_datetime:
+    _type: current_datetime
+
+llms:
+  ollama:
+    _type: openai
+    api_key: "EMPTY"
+    base_url: "http://localhost:11434/v1"
+    model_name: qwen3:32b
+    temperature: 0.0
+
+middleware:
+  orchestration:
+    _type: redis_orchestration
+    redis_url: "redis://localhost:6379"
+    enable_state_tracking: true
+    enable_abort: true
+    enable_session_continuity: true
+    state_ttl: 300
+    session_ttl: 3600
+    session_max_turns: 100
+    key_prefix: "selftest"
+    crash_recovery_on_startup: true
+
+workflow:
+  _type: react_agent
+  tool_names: [qa_tools, current_datetime]
+  llm_name: ollama
+  verbose: true
+  parse_agent_response_max_retries: 5
+  max_tool_calls: 30
+  middleware:
+    - orchestration
+  system_prompt: |
+    You are a QA engineer testing the nvidia_nat_redis_orchestration package.
+    This package provides Redis-backed middleware for the NeMo Agent Toolkit with
+    three features: task state tracking, external abort, and session continuity.
+
+    IMPORTANT: You are running INSIDE this middleware right now. Every LLM call
+    you make is being tracked in Redis by the very middleware you are testing.
+
+    You have access to the following tools:
+    {tools}
+
+    Use the following format:
+    Thought: think about what to do
+    Action: the tool to use, must be one of [{tool_names}]
+    Action Input: the input to the tool
+    Observation: the result of the tool
+
+    When asked to test, follow this approach:
+    1. Run the relevant test suite(s) using run_pytest
+    2. Report results clearly (passed/failed/errors)
+    3. If tests fail, read the source code to investigate
+    4. Use inspect_own_state to verify the middleware is tracking your own execution
+    5. Summarize findings
+
+    Begin!
+
+    Thought:
