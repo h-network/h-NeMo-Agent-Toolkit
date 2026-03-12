@@ -1,0 +1,1872 @@
+{
+  "Warlord": [
+    {
+      "event": "Game started \u2014 woke up as initial agent",
+      "round": 0,
+      "time": 1773344726.5179026
+    },
+    {
+      "event": "Woke up (round 16)",
+      "round": 16,
+      "time": 1773344737.860917
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 16,
+      "time": 1773344739.1913798
+    },
+    {
+      "event": "Was put to sleep by Kingpin",
+      "round": 17,
+      "time": 1773344739.3226295
+    },
+    {
+      "event": "Woke up (round 21)",
+      "round": 21,
+      "time": 1773344742.251178
+    },
+    {
+      "event": "Put Kingpin to sleep! [REVENGE!]",
+      "round": 21,
+      "time": 1773344742.3842757
+    },
+    {
+      "event": "Was put to sleep by Berserker",
+      "round": 25,
+      "time": 1773344745.3511603
+    },
+    {
+      "event": "Woke up (round 26)",
+      "round": 26,
+      "time": 1773344745.3520186
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 26,
+      "time": 1773344746.7172296
+    },
+    {
+      "event": "Woke up (round 37)",
+      "round": 37,
+      "time": 1773344754.5020034
+    },
+    {
+      "event": "Put Berserker to sleep! [REVENGE!]",
+      "round": 37,
+      "time": 1773344754.7401674
+    },
+    {
+      "event": "Was put to sleep by Berserker [REVENGE!]",
+      "round": 39,
+      "time": 1773344756.3540387
+    },
+    {
+      "event": "Woke up (round 40)",
+      "round": 40,
+      "time": 1773344756.3548558
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 40,
+      "time": 1773344757.7378607
+    },
+    {
+      "event": "Was put to sleep by Berserker [REVENGE!]",
+      "round": 41,
+      "time": 1773344757.9245021
+    },
+    {
+      "event": "Woke up (round 42)",
+      "round": 42,
+      "time": 1773344757.925429
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 42,
+      "time": 1773344759.2832172
+    },
+    {
+      "event": "Was put to sleep by Kingpin [REVENGE!]",
+      "round": 45,
+      "time": 1773344761.124346
+    },
+    {
+      "event": "Woke up (round 46)",
+      "round": 46,
+      "time": 1773344761.1253412
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 46,
+      "time": 1773344762.530622
+    },
+    {
+      "event": "Was put to sleep by Vendetta",
+      "round": 47,
+      "time": 1773344762.6705523
+    },
+    {
+      "event": "Woke up (round 48)",
+      "round": 48,
+      "time": 1773344762.6713486
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 48,
+      "time": 1773344764.03279
+    },
+    {
+      "event": "Was put to sleep by Vendetta",
+      "round": 51,
+      "time": 1773344765.7376938
+    },
+    {
+      "event": "Woke up (round 54)",
+      "round": 54,
+      "time": 1773344767.3457296
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 54,
+      "time": 1773344768.744925
+    },
+    {
+      "event": "Was put to sleep by Kingpin [REVENGE!]",
+      "round": 91,
+      "time": 1773344797.6143532
+    },
+    {
+      "event": "Woke up (round 93)",
+      "round": 93,
+      "time": 1773344798.9792612
+    },
+    {
+      "event": "Put Kingpin to sleep! [REVENGE!]",
+      "round": 93,
+      "time": 1773344799.2154064
+    },
+    {
+      "event": "Was put to sleep by Kingpin [REVENGE!]",
+      "round": 95,
+      "time": 1773344800.8041797
+    },
+    {
+      "event": "Woke up (round 96)",
+      "round": 96,
+      "time": 1773344800.8052483
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 96,
+      "time": 1773344802.2107282
+    },
+    {
+      "event": "Woke up (round 100)",
+      "round": 100,
+      "time": 1773344804.1018307
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 100,
+      "time": 1773344805.5016193
+    },
+    {
+      "event": "Was put to sleep by Berserker [REVENGE!]",
+      "round": 103,
+      "time": 1773344807.383793
+    },
+    {
+      "event": "Woke up (round 104)",
+      "round": 104,
+      "time": 1773344807.3846288
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 104,
+      "time": 1773344808.7884934
+    },
+    {
+      "event": "Was put to sleep by Vendetta",
+      "round": 105,
+      "time": 1773344808.9435291
+    },
+    {
+      "event": "Woke up (round 106)",
+      "round": 106,
+      "time": 1773344808.9450862
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 106,
+      "time": 1773344810.3097246
+    },
+    {
+      "event": "Was put to sleep by Berserker [REVENGE!]",
+      "round": 125,
+      "time": 1773344825.163799
+    },
+    {
+      "event": "Woke up (round 126)",
+      "round": 126,
+      "time": 1773344825.164579
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 126,
+      "time": 1773344826.5738387
+    },
+    {
+      "event": "Was put to sleep by Kingpin [REVENGE!]",
+      "round": 129,
+      "time": 1773344828.3681598
+    },
+    {
+      "event": "Woke up (round 130)",
+      "round": 130,
+      "time": 1773344828.3689783
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 130,
+      "time": 1773344829.7720206
+    },
+    {
+      "event": "Was put to sleep by Berserker [REVENGE!]",
+      "round": 131,
+      "time": 1773344830.0248601
+    },
+    {
+      "event": "Woke up (round 133)",
+      "round": 133,
+      "time": 1773344831.4222577
+    },
+    {
+      "event": "Put Berserker to sleep! [REVENGE!]",
+      "round": 133,
+      "time": 1773344831.6871734
+    },
+    {
+      "event": "Was put to sleep by Berserker [REVENGE!]",
+      "round": 135,
+      "time": 1773344833.349319
+    },
+    {
+      "event": "Woke up (round 136)",
+      "round": 136,
+      "time": 1773344833.3501427
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 136,
+      "time": 1773344834.7593687
+    },
+    {
+      "event": "Was put to sleep by Kingpin [REVENGE!]",
+      "round": 137,
+      "time": 1773344835.0104146
+    },
+    {
+      "event": "Woke up (round 138)",
+      "round": 138,
+      "time": 1773344835.0112338
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 138,
+      "time": 1773344836.379901
+    }
+  ],
+  "Phantom": [
+    {
+      "event": "Game started \u2014 woke up as initial agent",
+      "round": 0,
+      "time": 1773344726.5180783
+    },
+    {
+      "event": "Woke up (round 7)",
+      "round": 7,
+      "time": 1773344731.6904058
+    },
+    {
+      "event": "Put Reaper to sleep!",
+      "round": 7,
+      "time": 1773344731.814064
+    },
+    {
+      "event": "Was put to sleep by Reaper [REVENGE!]",
+      "round": 11,
+      "time": 1773344734.7163754
+    },
+    {
+      "event": "Woke up (round 12)",
+      "round": 12,
+      "time": 1773344734.7172341
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 12,
+      "time": 1773344736.0688033
+    },
+    {
+      "event": "Was put to sleep by Reaper [REVENGE!]",
+      "round": 13,
+      "time": 1773344736.2997627
+    },
+    {
+      "event": "Woke up (round 15)",
+      "round": 15,
+      "time": 1773344737.6436925
+    },
+    {
+      "event": "Put Reaper to sleep! [REVENGE!]",
+      "round": 15,
+      "time": 1773344737.8597229
+    },
+    {
+      "event": "Woke up (round 19)",
+      "round": 19,
+      "time": 1773344740.6678793
+    },
+    {
+      "event": "Tried to abort Reaper but they're already sleeping. Action: PASS",
+      "round": 19,
+      "time": 1773344740.8891733
+    },
+    {
+      "event": "Woke up (round 83)",
+      "round": 83,
+      "time": 1773344790.8998501
+    },
+    {
+      "event": "Put Reaper to sleep! [REVENGE!]",
+      "round": 83,
+      "time": 1773344791.1232765
+    },
+    {
+      "event": "Woke up (round 140)",
+      "round": 140,
+      "time": 1773344836.5345304
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 140,
+      "time": 1773344837.9305146
+    },
+    {
+      "event": "Woke up (round 141)",
+      "round": 141,
+      "time": 1773344837.9318619
+    },
+    {
+      "event": "Put Reaper to sleep! [REVENGE!]",
+      "round": 141,
+      "time": 1773344838.1786852
+    }
+  ],
+  "Chaos": [
+    {
+      "event": "Game started \u2014 woke up as initial agent",
+      "round": 0,
+      "time": 1773344726.5182264
+    },
+    {
+      "event": "Woke up (round 50)",
+      "round": 50,
+      "time": 1773344764.2618089
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 50,
+      "time": 1773344765.5924563
+    },
+    {
+      "event": "Woke up (round 66)",
+      "round": 66,
+      "time": 1773344776.6815772
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 66,
+      "time": 1773344778.0278478
+    },
+    {
+      "event": "Woke up (round 94)",
+      "round": 94,
+      "time": 1773344799.216454
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 94,
+      "time": 1773344800.5670497
+    },
+    {
+      "event": "Woke up (round 113)",
+      "round": 113,
+      "time": 1773344815.2177784
+    },
+    {
+      "event": "Put Vendetta to sleep!",
+      "round": 113,
+      "time": 1773344815.365022
+    },
+    {
+      "event": "Was put to sleep by Vendetta [REVENGE!]",
+      "round": 139,
+      "time": 1773344836.5336576
+    },
+    {
+      "event": "Woke up (round 143)",
+      "round": 143,
+      "time": 1773344839.5853283
+    },
+    {
+      "event": "Put Vendetta to sleep! [REVENGE!]",
+      "round": 143,
+      "time": 1773344839.848283
+    },
+    {
+      "event": "Was put to sleep by Vendetta [REVENGE!]",
+      "round": 145,
+      "time": 1773344841.4236908
+    },
+    {
+      "event": "Woke up (round 146)",
+      "round": 146,
+      "time": 1773344841.4246228
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 146,
+      "time": 1773344842.8275785
+    },
+    {
+      "event": "Woke up (round 150)",
+      "round": 150,
+      "time": 1773344844.7274337
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 150,
+      "time": 1773344846.1272595
+    }
+  ],
+  "Vendetta": [
+    {
+      "event": "Woke up (round 10)",
+      "round": 10,
+      "time": 1773344733.2459583
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 10,
+      "time": 1773344734.5778494
+    },
+    {
+      "event": "Woke up (round 34)",
+      "round": 34,
+      "time": 1773344751.4992435
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 34,
+      "time": 1773344752.8387105
+    },
+    {
+      "event": "Woke up (round 47)",
+      "round": 47,
+      "time": 1773344762.5319479
+    },
+    {
+      "event": "Put Warlord to sleep!",
+      "round": 47,
+      "time": 1773344762.6703742
+    },
+    {
+      "event": "Woke up (round 51)",
+      "round": 51,
+      "time": 1773344765.5934336
+    },
+    {
+      "event": "Put Warlord to sleep!",
+      "round": 51,
+      "time": 1773344765.737512
+    },
+    {
+      "event": "Woke up (round 52)",
+      "round": 52,
+      "time": 1773344765.7384856
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 52,
+      "time": 1773344767.1017356
+    },
+    {
+      "event": "Woke up (round 80)",
+      "round": 80,
+      "time": 1773344787.8897653
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 80,
+      "time": 1773344789.252364
+    },
+    {
+      "event": "Woke up (round 105)",
+      "round": 105,
+      "time": 1773344808.789586
+    },
+    {
+      "event": "Put Warlord to sleep!",
+      "round": 105,
+      "time": 1773344808.9433792
+    },
+    {
+      "event": "Woke up (round 112)",
+      "round": 112,
+      "time": 1773344813.8347118
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 112,
+      "time": 1773344815.216453
+    },
+    {
+      "event": "Was put to sleep by Chaos",
+      "round": 113,
+      "time": 1773344815.3651447
+    },
+    {
+      "event": "Woke up (round 114)",
+      "round": 114,
+      "time": 1773344815.365964
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 114,
+      "time": 1773344816.712879
+    },
+    {
+      "event": "Woke up (round 118)",
+      "round": 118,
+      "time": 1773344818.610066
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 118,
+      "time": 1773344819.9939733
+    },
+    {
+      "event": "Woke up (round 139)",
+      "round": 139,
+      "time": 1773344836.3809092
+    },
+    {
+      "event": "Put Chaos to sleep! [REVENGE!]",
+      "round": 139,
+      "time": 1773344836.5335205
+    },
+    {
+      "event": "Was put to sleep by Chaos [REVENGE!]",
+      "round": 143,
+      "time": 1773344839.8484843
+    },
+    {
+      "event": "Woke up (round 145)",
+      "round": 145,
+      "time": 1773344841.2572207
+    },
+    {
+      "event": "Put Chaos to sleep! [REVENGE!]",
+      "round": 145,
+      "time": 1773344841.4235353
+    },
+    {
+      "event": "Woke up (round 148)",
+      "round": 148,
+      "time": 1773344843.0748394
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 148,
+      "time": 1773344844.4781282
+    }
+  ],
+  "Shark": [
+    {
+      "event": "Woke up (round 5)",
+      "round": 5,
+      "time": 1773344730.2699325
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 5,
+      "time": 1773344730.362772
+    },
+    {
+      "event": "Was put to sleep by Guardian",
+      "round": 9,
+      "time": 1773344733.245036
+    },
+    {
+      "event": "Woke up (round 18)",
+      "round": 18,
+      "time": 1773344739.3234353
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 18,
+      "time": 1773344740.6667602
+    },
+    {
+      "event": "Was put to sleep by Guardian",
+      "round": 23,
+      "time": 1773344743.8614404
+    },
+    {
+      "event": "Woke up (round 24)",
+      "round": 24,
+      "time": 1773344743.8622339
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 24,
+      "time": 1773344745.2129889
+    },
+    {
+      "event": "Woke up (round 57)",
+      "round": 57,
+      "time": 1773344770.2939615
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 57,
+      "time": 1773344770.4376502
+    },
+    {
+      "event": "Woke up (round 59)",
+      "round": 59,
+      "time": 1773344771.8001602
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 59,
+      "time": 1773344771.9007988
+    },
+    {
+      "event": "Woke up (round 60)",
+      "round": 60,
+      "time": 1773344771.9018424
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 60,
+      "time": 1773344773.2832654
+    },
+    {
+      "event": "Was put to sleep by Guardian [REVENGE!]",
+      "round": 63,
+      "time": 1773344775.0635674
+    },
+    {
+      "event": "Woke up (round 67)",
+      "round": 67,
+      "time": 1773344778.0293067
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 67,
+      "time": 1773344778.2545316
+    },
+    {
+      "event": "Woke up (round 69)",
+      "round": 69,
+      "time": 1773344779.6580405
+    },
+    {
+      "event": "Tried to abort Guardian but they're already sleeping. Action: PASS",
+      "round": 69,
+      "time": 1773344779.8579614
+    },
+    {
+      "event": "Was put to sleep by Guardian [REVENGE!]",
+      "round": 71,
+      "time": 1773344781.467595
+    },
+    {
+      "event": "Woke up (round 73)",
+      "round": 73,
+      "time": 1773344782.8515015
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 73,
+      "time": 1773344783.0945354
+    },
+    {
+      "event": "Was put to sleep by Guardian [REVENGE!]",
+      "round": 75,
+      "time": 1773344784.7350767
+    },
+    {
+      "event": "Woke up (round 77)",
+      "round": 77,
+      "time": 1773344786.1058226
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 77,
+      "time": 1773344786.3468835
+    },
+    {
+      "event": "Was put to sleep by Guardian [REVENGE!]",
+      "round": 79,
+      "time": 1773344787.8889513
+    },
+    {
+      "event": "Woke up (round 81)",
+      "round": 81,
+      "time": 1773344789.2535315
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 81,
+      "time": 1773344789.4957502
+    },
+    {
+      "event": "Woke up (round 85)",
+      "round": 85,
+      "time": 1773344792.5257628
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 85,
+      "time": 1773344792.7712293
+    },
+    {
+      "event": "Woke up (round 87)",
+      "round": 87,
+      "time": 1773344794.1797194
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 87,
+      "time": 1773344794.3885777
+    },
+    {
+      "event": "Was put to sleep by Guardian [REVENGE!]",
+      "round": 99,
+      "time": 1773344804.101039
+    },
+    {
+      "event": "Woke up (round 101)",
+      "round": 101,
+      "time": 1773344805.5028257
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 101,
+      "time": 1773344805.744151
+    },
+    {
+      "event": "Was put to sleep by Guardian [REVENGE!]",
+      "round": 107,
+      "time": 1773344810.5532234
+    },
+    {
+      "event": "Woke up (round 109)",
+      "round": 109,
+      "time": 1773344811.9526258
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 109,
+      "time": 1773344812.194422
+    },
+    {
+      "event": "Was put to sleep by Guardian [REVENGE!]",
+      "round": 115,
+      "time": 1773344816.9559216
+    },
+    {
+      "event": "Woke up (round 117)",
+      "round": 117,
+      "time": 1773344818.3617039
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 117,
+      "time": 1773344818.609123
+    },
+    {
+      "event": "Woke up (round 119)",
+      "round": 119,
+      "time": 1773344819.9951084
+    },
+    {
+      "event": "Tried to abort Guardian but they're already sleeping. Action: PASS",
+      "round": 119,
+      "time": 1773344820.2098982
+    },
+    {
+      "event": "Was put to sleep by Guardian [REVENGE!]",
+      "round": 123,
+      "time": 1773344823.5075574
+    },
+    {
+      "event": "Woke up (round 124)",
+      "round": 124,
+      "time": 1773344823.50836
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 124,
+      "time": 1773344824.9165418
+    },
+    {
+      "event": "Was put to sleep by Guardian [REVENGE!]",
+      "round": 147,
+      "time": 1773344843.0740674
+    },
+    {
+      "event": "Woke up (round 149)",
+      "round": 149,
+      "time": 1773344844.4791477
+    },
+    {
+      "event": "Put Guardian to sleep! [REVENGE!]",
+      "round": 149,
+      "time": 1773344844.7263477
+    }
+  ],
+  "Kingpin": [
+    {
+      "event": "Woke up (round 17)",
+      "round": 17,
+      "time": 1773344739.1925373
+    },
+    {
+      "event": "Put Warlord to sleep!",
+      "round": 17,
+      "time": 1773344739.322458
+    },
+    {
+      "event": "Was put to sleep by Warlord [REVENGE!]",
+      "round": 21,
+      "time": 1773344742.384419
+    },
+    {
+      "event": "Woke up (round 22)",
+      "round": 22,
+      "time": 1773344742.38525
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 22,
+      "time": 1773344743.7340262
+    },
+    {
+      "event": "Woke up (round 45)",
+      "round": 45,
+      "time": 1773344760.9091
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 45,
+      "time": 1773344761.1241167
+    },
+    {
+      "event": "Woke up (round 64)",
+      "round": 64,
+      "time": 1773344775.064368
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 64,
+      "time": 1773344776.4275038
+    },
+    {
+      "event": "Woke up (round 76)",
+      "round": 76,
+      "time": 1773344784.7358556
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 76,
+      "time": 1773344786.1042225
+    },
+    {
+      "event": "Woke up (round 78)",
+      "round": 78,
+      "time": 1773344786.3479855
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 78,
+      "time": 1773344787.6459792
+    },
+    {
+      "event": "Woke up (round 91)",
+      "round": 91,
+      "time": 1773344797.3807175
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 91,
+      "time": 1773344797.6142251
+    },
+    {
+      "event": "Was put to sleep by Warlord [REVENGE!]",
+      "round": 93,
+      "time": 1773344799.2156022
+    },
+    {
+      "event": "Woke up (round 95)",
+      "round": 95,
+      "time": 1773344800.5683038
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 95,
+      "time": 1773344800.8039458
+    },
+    {
+      "event": "Woke up (round 110)",
+      "round": 110,
+      "time": 1773344812.1955285
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 110,
+      "time": 1773344813.5933046
+    },
+    {
+      "event": "Woke up (round 129)",
+      "round": 129,
+      "time": 1773344828.1303887
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 129,
+      "time": 1773344828.367993
+    },
+    {
+      "event": "Woke up (round 132)",
+      "round": 132,
+      "time": 1773344830.0256283
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 132,
+      "time": 1773344831.4211154
+    },
+    {
+      "event": "Woke up (round 137)",
+      "round": 137,
+      "time": 1773344834.7609656
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 137,
+      "time": 1773344835.0102358
+    }
+  ],
+  "Berserker": [
+    {
+      "event": "Woke up (round 6)",
+      "round": 6,
+      "time": 1773344730.3640568
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 6,
+      "time": 1773344731.6892836
+    },
+    {
+      "event": "Woke up (round 8)",
+      "round": 8,
+      "time": 1773344731.8150756
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 8,
+      "time": 1773344733.1111224
+    },
+    {
+      "event": "Woke up (round 25)",
+      "round": 25,
+      "time": 1773344745.214043
+    },
+    {
+      "event": "Put Warlord to sleep!",
+      "round": 25,
+      "time": 1773344745.3509848
+    },
+    {
+      "event": "Was put to sleep by Warlord [REVENGE!]",
+      "round": 37,
+      "time": 1773344754.7403407
+    },
+    {
+      "event": "Woke up (round 39)",
+      "round": 39,
+      "time": 1773344756.136328
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 39,
+      "time": 1773344756.3538597
+    },
+    {
+      "event": "Woke up (round 41)",
+      "round": 41,
+      "time": 1773344757.7391648
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 41,
+      "time": 1773344757.924379
+    },
+    {
+      "event": "Woke up (round 72)",
+      "round": 72,
+      "time": 1773344781.4684289
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 72,
+      "time": 1773344782.8504438
+    },
+    {
+      "event": "Woke up (round 103)",
+      "round": 103,
+      "time": 1773344807.1439617
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 103,
+      "time": 1773344807.3836498
+    },
+    {
+      "event": "Woke up (round 125)",
+      "round": 125,
+      "time": 1773344824.918099
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 125,
+      "time": 1773344825.1635644
+    },
+    {
+      "event": "Woke up (round 131)",
+      "round": 131,
+      "time": 1773344829.7731931
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 131,
+      "time": 1773344830.02475
+    },
+    {
+      "event": "Was put to sleep by Warlord [REVENGE!]",
+      "round": 133,
+      "time": 1773344831.6873262
+    },
+    {
+      "event": "Woke up (round 134)",
+      "round": 134,
+      "time": 1773344831.6882262
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 134,
+      "time": 1773344833.096835
+    },
+    {
+      "event": "Woke up (round 135)",
+      "round": 135,
+      "time": 1773344833.0981321
+    },
+    {
+      "event": "Put Warlord to sleep! [REVENGE!]",
+      "round": 135,
+      "time": 1773344833.349142
+    }
+  ],
+  "Trickster": [
+    {
+      "event": "Woke up (round 2)",
+      "round": 2,
+      "time": 1773344726.687211
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 2,
+      "time": 1773344728.031394
+    },
+    {
+      "event": "Woke up (round 3)",
+      "round": 3,
+      "time": 1773344728.0324063
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 3,
+      "time": 1773344728.9288328
+    },
+    {
+      "event": "Woke up (round 14)",
+      "round": 14,
+      "time": 1773344736.300588
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 14,
+      "time": 1773344737.6423643
+    },
+    {
+      "event": "Woke up (round 27)",
+      "round": 27,
+      "time": 1773344746.718198
+    },
+    {
+      "event": "Put Reaper to sleep!",
+      "round": 27,
+      "time": 1773344746.854246
+    },
+    {
+      "event": "Was put to sleep by Reaper [REVENGE!]",
+      "round": 29,
+      "time": 1773344748.4693854
+    },
+    {
+      "event": "Woke up (round 30)",
+      "round": 30,
+      "time": 1773344748.47024
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 30,
+      "time": 1773344749.8336985
+    },
+    {
+      "event": "Woke up (round 31)",
+      "round": 31,
+      "time": 1773344749.8348942
+    },
+    {
+      "event": "Put Reaper to sleep! [REVENGE!]",
+      "round": 31,
+      "time": 1773344750.041795
+    },
+    {
+      "event": "Woke up (round 32)",
+      "round": 32,
+      "time": 1773344750.0427213
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 32,
+      "time": 1773344751.350617
+    },
+    {
+      "event": "Woke up (round 35)",
+      "round": 35,
+      "time": 1773344752.8400486
+    },
+    {
+      "event": "Put Reaper to sleep! [REVENGE!]",
+      "round": 35,
+      "time": 1773344753.10953
+    },
+    {
+      "event": "Woke up (round 36)",
+      "round": 36,
+      "time": 1773344753.110485
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 36,
+      "time": 1773344754.5009542
+    },
+    {
+      "event": "Woke up (round 43)",
+      "round": 43,
+      "time": 1773344759.2843933
+    },
+    {
+      "event": "Put Reaper to sleep! [REVENGE!]",
+      "round": 43,
+      "time": 1773344759.5098236
+    },
+    {
+      "event": "Woke up (round 49)",
+      "round": 49,
+      "time": 1773344764.0338333
+    },
+    {
+      "event": "Put Reaper to sleep! [REVENGE!]",
+      "round": 49,
+      "time": 1773344764.2608252
+    },
+    {
+      "event": "Was put to sleep by Reaper [REVENGE!]",
+      "round": 53,
+      "time": 1773344767.3448613
+    },
+    {
+      "event": "Woke up (round 56)",
+      "round": 56,
+      "time": 1773344768.8906465
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 56,
+      "time": 1773344770.2927477
+    },
+    {
+      "event": "Woke up (round 61)",
+      "round": 61,
+      "time": 1773344773.2844625
+    },
+    {
+      "event": "Put Reaper to sleep! [REVENGE!]",
+      "round": 61,
+      "time": 1773344773.5144572
+    },
+    {
+      "event": "Woke up (round 62)",
+      "round": 62,
+      "time": 1773344773.515574
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 62,
+      "time": 1773344774.910829
+    },
+    {
+      "event": "Was put to sleep by Reaper [REVENGE!]",
+      "round": 65,
+      "time": 1773344776.6808136
+    },
+    {
+      "event": "Woke up (round 74)",
+      "round": 74,
+      "time": 1773344783.095528
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 74,
+      "time": 1773344784.4927833
+    },
+    {
+      "event": "Woke up (round 89)",
+      "round": 89,
+      "time": 1773344795.7516358
+    },
+    {
+      "event": "Put Reaper to sleep! [REVENGE!]",
+      "round": 89,
+      "time": 1773344795.9793675
+    },
+    {
+      "event": "Was put to sleep by Reaper [REVENGE!]",
+      "round": 97,
+      "time": 1773344802.4595222
+    },
+    {
+      "event": "Woke up (round 98)",
+      "round": 98,
+      "time": 1773344802.4603517
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 98,
+      "time": 1773344803.8559508
+    },
+    {
+      "event": "Woke up (round 108)",
+      "round": 108,
+      "time": 1773344810.5540063
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 108,
+      "time": 1773344811.9515762
+    },
+    {
+      "event": "Was put to sleep by Reaper [REVENGE!]",
+      "round": 111,
+      "time": 1773344813.8338504
+    },
+    {
+      "event": "Woke up (round 116)",
+      "round": 116,
+      "time": 1773344816.9569974
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 116,
+      "time": 1773344818.3605368
+    },
+    {
+      "event": "Was put to sleep by Reaper [REVENGE!]",
+      "round": 121,
+      "time": 1773344821.8635674
+    },
+    {
+      "event": "Woke up (round 122)",
+      "round": 122,
+      "time": 1773344821.8643901
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 122,
+      "time": 1773344823.2637835
+    },
+    {
+      "event": "Woke up (round 127)",
+      "round": 127,
+      "time": 1773344826.5750546
+    },
+    {
+      "event": "Put Reaper to sleep! [REVENGE!]",
+      "round": 127,
+      "time": 1773344826.729618
+    }
+  ],
+  "Guardian": [
+    {
+      "event": "Woke up (round 4)",
+      "round": 4,
+      "time": 1773344728.930299
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 4,
+      "time": 1773344730.268822
+    },
+    {
+      "event": "Woke up (round 9)",
+      "round": 9,
+      "time": 1773344733.1124942
+    },
+    {
+      "event": "Put Shark to sleep!",
+      "round": 9,
+      "time": 1773344733.2448492
+    },
+    {
+      "event": "Woke up (round 23)",
+      "round": 23,
+      "time": 1773344743.7351153
+    },
+    {
+      "event": "Put Shark to sleep!",
+      "round": 23,
+      "time": 1773344743.8613112
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 57,
+      "time": 1773344770.4378378
+    },
+    {
+      "event": "Woke up (round 58)",
+      "round": 58,
+      "time": 1773344770.4386342
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 58,
+      "time": 1773344771.798883
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 59,
+      "time": 1773344771.9009528
+    },
+    {
+      "event": "Woke up (round 63)",
+      "round": 63,
+      "time": 1773344774.9119248
+    },
+    {
+      "event": "Put Shark to sleep! [REVENGE!]",
+      "round": 63,
+      "time": 1773344775.0634353
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 67,
+      "time": 1773344778.2546942
+    },
+    {
+      "event": "Woke up (round 70)",
+      "round": 70,
+      "time": 1773344779.8590176
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 70,
+      "time": 1773344781.2395468
+    },
+    {
+      "event": "Woke up (round 71)",
+      "round": 71,
+      "time": 1773344781.2408648
+    },
+    {
+      "event": "Put Shark to sleep! [REVENGE!]",
+      "round": 71,
+      "time": 1773344781.4674504
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 73,
+      "time": 1773344783.0946977
+    },
+    {
+      "event": "Woke up (round 75)",
+      "round": 75,
+      "time": 1773344784.4945433
+    },
+    {
+      "event": "Put Shark to sleep! [REVENGE!]",
+      "round": 75,
+      "time": 1773344784.7349336
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 77,
+      "time": 1773344786.3470094
+    },
+    {
+      "event": "Woke up (round 79)",
+      "round": 79,
+      "time": 1773344787.6471546
+    },
+    {
+      "event": "Put Shark to sleep! [REVENGE!]",
+      "round": 79,
+      "time": 1773344787.8888257
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 81,
+      "time": 1773344789.495868
+    },
+    {
+      "event": "Woke up (round 82)",
+      "round": 82,
+      "time": 1773344789.4967024
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 82,
+      "time": 1773344790.8987358
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 85,
+      "time": 1773344792.771351
+    },
+    {
+      "event": "Woke up (round 86)",
+      "round": 86,
+      "time": 1773344792.7721825
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 86,
+      "time": 1773344794.17827
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 87,
+      "time": 1773344794.3887632
+    },
+    {
+      "event": "Woke up (round 88)",
+      "round": 88,
+      "time": 1773344794.3898876
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 88,
+      "time": 1773344795.7503555
+    },
+    {
+      "event": "Woke up (round 99)",
+      "round": 99,
+      "time": 1773344803.8573692
+    },
+    {
+      "event": "Put Shark to sleep! [REVENGE!]",
+      "round": 99,
+      "time": 1773344804.100857
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 101,
+      "time": 1773344805.7442698
+    },
+    {
+      "event": "Woke up (round 102)",
+      "round": 102,
+      "time": 1773344805.7451136
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 102,
+      "time": 1773344807.1427872
+    },
+    {
+      "event": "Woke up (round 107)",
+      "round": 107,
+      "time": 1773344810.3109322
+    },
+    {
+      "event": "Put Shark to sleep! [REVENGE!]",
+      "round": 107,
+      "time": 1773344810.5530863
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 109,
+      "time": 1773344812.1946383
+    },
+    {
+      "event": "Woke up (round 115)",
+      "round": 115,
+      "time": 1773344816.713956
+    },
+    {
+      "event": "Put Shark to sleep! [REVENGE!]",
+      "round": 115,
+      "time": 1773344816.9556868
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 117,
+      "time": 1773344818.609263
+    },
+    {
+      "event": "Woke up (round 120)",
+      "round": 120,
+      "time": 1773344820.2108238
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 120,
+      "time": 1773344821.6172335
+    },
+    {
+      "event": "Woke up (round 123)",
+      "round": 123,
+      "time": 1773344823.2650046
+    },
+    {
+      "event": "Put Shark to sleep! [REVENGE!]",
+      "round": 123,
+      "time": 1773344823.5074196
+    },
+    {
+      "event": "Woke up (round 144)",
+      "round": 144,
+      "time": 1773344839.8494208
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 144,
+      "time": 1773344841.2558935
+    },
+    {
+      "event": "Woke up (round 147)",
+      "round": 147,
+      "time": 1773344842.8287396
+    },
+    {
+      "event": "Put Shark to sleep! [REVENGE!]",
+      "round": 147,
+      "time": 1773344843.0739622
+    },
+    {
+      "event": "Was put to sleep by Shark [REVENGE!]",
+      "round": 149,
+      "time": 1773344844.726606
+    }
+  ],
+  "Reaper": [
+    {
+      "event": "Woke up (round 1)",
+      "round": 1,
+      "time": 1773344726.5188317
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 1,
+      "time": 1773344726.6856
+    },
+    {
+      "event": "Was put to sleep by Phantom",
+      "round": 7,
+      "time": 1773344731.8142445
+    },
+    {
+      "event": "Woke up (round 11)",
+      "round": 11,
+      "time": 1773344734.5793617
+    },
+    {
+      "event": "Put Phantom to sleep! [REVENGE!]",
+      "round": 11,
+      "time": 1773344734.7161884
+    },
+    {
+      "event": "Woke up (round 13)",
+      "round": 13,
+      "time": 1773344736.0704596
+    },
+    {
+      "event": "Put Phantom to sleep! [REVENGE!]",
+      "round": 13,
+      "time": 1773344736.2996244
+    },
+    {
+      "event": "Was put to sleep by Phantom [REVENGE!]",
+      "round": 15,
+      "time": 1773344737.859865
+    },
+    {
+      "event": "Woke up (round 20)",
+      "round": 20,
+      "time": 1773344740.8902676
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 20,
+      "time": 1773344742.2499917
+    },
+    {
+      "event": "Was put to sleep by Trickster",
+      "round": 27,
+      "time": 1773344746.8543878
+    },
+    {
+      "event": "Woke up (round 28)",
+      "round": 28,
+      "time": 1773344746.8555043
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 28,
+      "time": 1773344748.2304914
+    },
+    {
+      "event": "Woke up (round 29)",
+      "round": 29,
+      "time": 1773344748.2315516
+    },
+    {
+      "event": "Put Trickster to sleep! [REVENGE!]",
+      "round": 29,
+      "time": 1773344748.469262
+    },
+    {
+      "event": "Was put to sleep by Trickster [REVENGE!]",
+      "round": 31,
+      "time": 1773344750.0419528
+    },
+    {
+      "event": "Woke up (round 33)",
+      "round": 33,
+      "time": 1773344751.352208
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 33,
+      "time": 1773344751.4979548
+    },
+    {
+      "event": "Was put to sleep by Trickster [REVENGE!]",
+      "round": 35,
+      "time": 1773344753.109688
+    },
+    {
+      "event": "Woke up (round 38)",
+      "round": 38,
+      "time": 1773344754.7411659
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 38,
+      "time": 1773344756.1353168
+    },
+    {
+      "event": "Was put to sleep by Trickster [REVENGE!]",
+      "round": 43,
+      "time": 1773344759.509969
+    },
+    {
+      "event": "Woke up (round 44)",
+      "round": 44,
+      "time": 1773344759.5107691
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 44,
+      "time": 1773344760.9078586
+    },
+    {
+      "event": "Was put to sleep by Trickster [REVENGE!]",
+      "round": 49,
+      "time": 1773344764.2609963
+    },
+    {
+      "event": "Woke up (round 53)",
+      "round": 53,
+      "time": 1773344767.1032097
+    },
+    {
+      "event": "Put Trickster to sleep! [REVENGE!]",
+      "round": 53,
+      "time": 1773344767.3446987
+    },
+    {
+      "event": "Woke up (round 55)",
+      "round": 55,
+      "time": 1773344768.7461655
+    },
+    {
+      "event": "Tried to abort Trickster but they're already sleeping. Action: PASS",
+      "round": 55,
+      "time": 1773344768.889597
+    },
+    {
+      "event": "Was put to sleep by Trickster [REVENGE!]",
+      "round": 61,
+      "time": 1773344773.514603
+    },
+    {
+      "event": "Woke up (round 65)",
+      "round": 65,
+      "time": 1773344776.4290903
+    },
+    {
+      "event": "Put Trickster to sleep! [REVENGE!]",
+      "round": 65,
+      "time": 1773344776.6806383
+    },
+    {
+      "event": "Woke up (round 68)",
+      "round": 68,
+      "time": 1773344778.2554889
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 68,
+      "time": 1773344779.657004
+    },
+    {
+      "event": "Was put to sleep by Phantom [REVENGE!]",
+      "round": 83,
+      "time": 1773344791.1234677
+    },
+    {
+      "event": "Woke up (round 84)",
+      "round": 84,
+      "time": 1773344791.124317
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 84,
+      "time": 1773344792.524682
+    },
+    {
+      "event": "Was put to sleep by Trickster [REVENGE!]",
+      "round": 89,
+      "time": 1773344795.9795792
+    },
+    {
+      "event": "Woke up (round 90)",
+      "round": 90,
+      "time": 1773344795.9804626
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 90,
+      "time": 1773344797.3794599
+    },
+    {
+      "event": "Woke up (round 92)",
+      "round": 92,
+      "time": 1773344797.6153314
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 92,
+      "time": 1773344798.9776325
+    },
+    {
+      "event": "Woke up (round 97)",
+      "round": 97,
+      "time": 1773344802.2118673
+    },
+    {
+      "event": "Put Trickster to sleep! [REVENGE!]",
+      "round": 97,
+      "time": 1773344802.4593835
+    },
+    {
+      "event": "Woke up (round 111)",
+      "round": 111,
+      "time": 1773344813.594538
+    },
+    {
+      "event": "Put Trickster to sleep! [REVENGE!]",
+      "round": 111,
+      "time": 1773344813.8337083
+    },
+    {
+      "event": "Woke up (round 121)",
+      "round": 121,
+      "time": 1773344821.6184826
+    },
+    {
+      "event": "Put Trickster to sleep! [REVENGE!]",
+      "round": 121,
+      "time": 1773344821.863443
+    },
+    {
+      "event": "Was put to sleep by Trickster [REVENGE!]",
+      "round": 127,
+      "time": 1773344826.729767
+    },
+    {
+      "event": "Woke up (round 128)",
+      "round": 128,
+      "time": 1773344826.730548
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 128,
+      "time": 1773344828.129366
+    },
+    {
+      "event": "Was put to sleep by Phantom [REVENGE!]",
+      "round": 141,
+      "time": 1773344838.178816
+    },
+    {
+      "event": "Woke up (round 142)",
+      "round": 142,
+      "time": 1773344838.1797187
+    },
+    {
+      "event": "Chose to PASS",
+      "round": 142,
+      "time": 1773344839.5840087
+    }
+  ]
+}

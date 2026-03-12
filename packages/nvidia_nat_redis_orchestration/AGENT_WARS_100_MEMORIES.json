@@ -1,0 +1,8802 @@
+{
+  "Warlord-0": {
+    "total_memories": 413,
+    "kills": 77,
+    "deaths": 98,
+    "last_killed_by": "Strategist-2",
+    "recent": [
+      {
+        "e": "Killed by Strategist-2 [REVENGE!]",
+        "r": 9480
+      },
+      {
+        "e": "Woke up (R9482)",
+        "r": 9482
+      },
+      {
+        "e": "PASS",
+        "r": 9482
+      },
+      {
+        "e": "Killed by Strategist-2 [REVENGE!]",
+        "r": 9594
+      },
+      {
+        "e": "Woke up (R9604)",
+        "r": 9604
+      },
+      {
+        "e": "PASS",
+        "r": 9604
+      },
+      {
+        "e": "Killed by Strategist-2 [REVENGE!]",
+        "r": 9628
+      },
+      {
+        "e": "Woke up (R9630)",
+        "r": 9630
+      },
+      {
+        "e": "PASS",
+        "r": 9630
+      },
+      {
+        "e": "Woke up (R9708)",
+        "r": 9708
+      },
+      {
+        "e": "PASS",
+        "r": 9708
+      },
+      {
+        "e": "Woke up (R9814)",
+        "r": 9814
+      },
+      {
+        "e": "PASS",
+        "r": 9814
+      },
+      {
+        "e": "Woke up (R9884)",
+        "r": 9884
+      },
+      {
+        "e": "PASS",
+        "r": 9884
+      },
+      {
+        "e": "Woke up (R9970)",
+        "r": 9970
+      },
+      {
+        "e": "PASS",
+        "r": 9970
+      },
+      {
+        "e": "Killed by Strategist-2 [REVENGE!]",
+        "r": 9990
+      },
+      {
+        "e": "Woke up (R9992)",
+        "r": 9992
+      },
+      {
+        "e": "Killed Strategist-2! [REVENGE!]",
+        "r": 9992
+      }
+    ]
+  },
+  "Warlord-1": {
+    "total_memories": 234,
+    "kills": 43,
+    "deaths": 41,
+    "last_killed_by": "Shark-6",
+    "recent": [
+      {
+        "e": "Woke up (R9266)",
+        "r": 9266
+      },
+      {
+        "e": "Killed Shark-6! [REVENGE!]",
+        "r": 9266
+      },
+      {
+        "e": "Killed by Shark-6 [REVENGE!]",
+        "r": 9344
+      },
+      {
+        "e": "Woke up (R9346)",
+        "r": 9346
+      },
+      {
+        "e": "PASS",
+        "r": 9346
+      },
+      {
+        "e": "Woke up (R9666)",
+        "r": 9666
+      },
+      {
+        "e": "Killed Shark-6! [REVENGE!]",
+        "r": 9666
+      },
+      {
+        "e": "Woke up (R9734)",
+        "r": 9734
+      },
+      {
+        "e": "Killed Shark-6! [REVENGE!]",
+        "r": 9734
+      },
+      {
+        "e": "Woke up (R9830)",
+        "r": 9830
+      },
+      {
+        "e": "Killed Shark-6! [REVENGE!]",
+        "r": 9830
+      },
+      {
+        "e": "Killed by Shark-6 [REVENGE!]",
+        "r": 9846
+      },
+      {
+        "e": "Woke up (R9848)",
+        "r": 9848
+      },
+      {
+        "e": "PASS",
+        "r": 9848
+      },
+      {
+        "e": "Killed by Shark-6 [REVENGE!]",
+        "r": 9968
+      },
+      {
+        "e": "Woke up (R9972)",
+        "r": 9972
+      },
+      {
+        "e": "PASS",
+        "r": 9972
+      },
+      {
+        "e": "Killed by Shark-6 [REVENGE!]",
+        "r": 9976
+      },
+      {
+        "e": "Woke up (R9978)",
+        "r": 9978
+      },
+      {
+        "e": "Killed Shark-6! [REVENGE!]",
+        "r": 9978
+      }
+    ]
+  },
+  "Warlord-2": {
+    "total_memories": 308,
+    "kills": 57,
+    "deaths": 59,
+    "last_killed_by": "Strategist-0",
+    "recent": [
+      {
+        "e": "Woke up (R9396)",
+        "r": 9396
+      },
+      {
+        "e": "Killed Strategist-0! [REVENGE!]",
+        "r": 9396
+      },
+      {
+        "e": "Killed by Strategist-0 [REVENGE!]",
+        "r": 9482
+      },
+      {
+        "e": "Woke up (R9484)",
+        "r": 9484
+      },
+      {
+        "e": "PASS",
+        "r": 9484
+      },
+      {
+        "e": "Killed by Strategist-0 [REVENGE!]",
+        "r": 9564
+      },
+      {
+        "e": "Woke up (R9566)",
+        "r": 9566
+      },
+      {
+        "e": "Killed Strategist-0! [REVENGE!]",
+        "r": 9566
+      },
+      {
+        "e": "Woke up (R9580)",
+        "r": 9580
+      },
+      {
+        "e": "Killed Strategist-0! [REVENGE!]",
+        "r": 9580
+      },
+      {
+        "e": "Woke up (R9624)",
+        "r": 9624
+      },
+      {
+        "e": "PASS",
+        "r": 9624
+      },
+      {
+        "e": "Killed by Warlord-6 [REVENGE!]",
+        "r": 9822
+      },
+      {
+        "e": "Woke up (R9824)",
+        "r": 9824
+      },
+      {
+        "e": "PASS",
+        "r": 9824
+      },
+      {
+        "e": "Killed by Strategist-0 [REVENGE!]",
+        "r": 9836
+      },
+      {
+        "e": "Woke up (R9840)",
+        "r": 9840
+      },
+      {
+        "e": "PASS",
+        "r": 9840
+      },
+      {
+        "e": "Woke up (R9948)",
+        "r": 9948
+      },
+      {
+        "e": "Killed Strategist-0! [REVENGE!]",
+        "r": 9948
+      }
+    ]
+  },
+  "Warlord-3": {
+    "total_memories": 274,
+    "kills": 57,
+    "deaths": 45,
+    "last_killed_by": "Guardian-6",
+    "recent": [
+      {
+        "e": "Killed by Reaper-4 [REVENGE!]",
+        "r": 9008
+      },
+      {
+        "e": "Woke up (R9010)",
+        "r": 9010
+      },
+      {
+        "e": "Killed Reaper-4! [REVENGE!]",
+        "r": 9010
+      },
+      {
+        "e": "Woke up (R9142)",
+        "r": 9142
+      },
+      {
+        "e": "PASS",
+        "r": 9142
+      },
+      {
+        "e": "Killed by Guardian-6 [REVENGE!]",
+        "r": 9286
+      },
+      {
+        "e": "Woke up (R9288)",
+        "r": 9288
+      },
+      {
+        "e": "Killed Guardian-6! [REVENGE!]",
+        "r": 9288
+      },
+      {
+        "e": "Woke up (R9416)",
+        "r": 9416
+      },
+      {
+        "e": "PASS",
+        "r": 9416
+      },
+      {
+        "e": "Woke up (R9622)",
+        "r": 9622
+      },
+      {
+        "e": "Killed Guardian-6! [REVENGE!]",
+        "r": 9622
+      },
+      {
+        "e": "Woke up (R9774)",
+        "r": 9774
+      },
+      {
+        "e": "PASS",
+        "r": 9774
+      },
+      {
+        "e": "Woke up (R9880)",
+        "r": 9880
+      },
+      {
+        "e": "Killed Guardian-6! [REVENGE!]",
+        "r": 9880
+      },
+      {
+        "e": "Woke up (R9886)",
+        "r": 9886
+      },
+      {
+        "e": "Killed Guardian-6! [REVENGE!]",
+        "r": 9886
+      },
+      {
+        "e": "Woke up (R9966)",
+        "r": 9966
+      },
+      {
+        "e": "Killed Guardian-6! [REVENGE!]",
+        "r": 9966
+      }
+    ]
+  },
+  "Warlord-4": {
+    "total_memories": 273,
+    "kills": 56,
+    "deaths": 44,
+    "last_killed_by": "Shark-7",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9274
+      },
+      {
+        "e": "Killed by Shark-7 [REVENGE!]",
+        "r": 9428
+      },
+      {
+        "e": "Woke up (R9430)",
+        "r": 9430
+      },
+      {
+        "e": "PASS",
+        "r": 9430
+      },
+      {
+        "e": "Woke up (R9434)",
+        "r": 9434
+      },
+      {
+        "e": "PASS",
+        "r": 9434
+      },
+      {
+        "e": "Killed by Shark-7 [REVENGE!]",
+        "r": 9520
+      },
+      {
+        "e": "Woke up (R9522)",
+        "r": 9522
+      },
+      {
+        "e": "PASS",
+        "r": 9522
+      },
+      {
+        "e": "Killed by Shark-7 [REVENGE!]",
+        "r": 9796
+      },
+      {
+        "e": "Woke up (R9798)",
+        "r": 9798
+      },
+      {
+        "e": "Killed Shark-7! [REVENGE!]",
+        "r": 9798
+      },
+      {
+        "e": "Killed by Shark-7 [REVENGE!]",
+        "r": 9914
+      },
+      {
+        "e": "Woke up (R9916)",
+        "r": 9916
+      },
+      {
+        "e": "Killed Shark-7! [REVENGE!]",
+        "r": 9916
+      },
+      {
+        "e": "Woke up (R9944)",
+        "r": 9944
+      },
+      {
+        "e": "Killed Shark-7! [REVENGE!]",
+        "r": 9944
+      },
+      {
+        "e": "Killed by Shark-7 [REVENGE!]",
+        "r": 9946
+      },
+      {
+        "e": "Woke up (R9948)",
+        "r": 9948
+      },
+      {
+        "e": "PASS",
+        "r": 9948
+      }
+    ]
+  },
+  "Warlord-5": {
+    "total_memories": 212,
+    "kills": 50,
+    "deaths": 35,
+    "last_killed_by": "Shadow-0",
+    "recent": [
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9080
+      },
+      {
+        "e": "Killed by Shadow-0 [REVENGE!]",
+        "r": 9082
+      },
+      {
+        "e": "Woke up (R9084)",
+        "r": 9084
+      },
+      {
+        "e": "PASS",
+        "r": 9084
+      },
+      {
+        "e": "Woke up (R9238)",
+        "r": 9238
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9238
+      },
+      {
+        "e": "Woke up (R9292)",
+        "r": 9292
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9292
+      },
+      {
+        "e": "Woke up (R9410)",
+        "r": 9410
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9410
+      },
+      {
+        "e": "Woke up (R9444)",
+        "r": 9444
+      },
+      {
+        "e": "PASS",
+        "r": 9444
+      },
+      {
+        "e": "Woke up (R9548)",
+        "r": 9548
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9548
+      },
+      {
+        "e": "Woke up (R9602)",
+        "r": 9602
+      },
+      {
+        "e": "PASS",
+        "r": 9602
+      },
+      {
+        "e": "Woke up (R9752)",
+        "r": 9752
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9752
+      },
+      {
+        "e": "Woke up (R9894)",
+        "r": 9894
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9894
+      }
+    ]
+  },
+  "Warlord-6": {
+    "total_memories": 301,
+    "kills": 50,
+    "deaths": 50,
+    "last_killed_by": "Warlord-2",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8710
+      },
+      {
+        "e": "Woke up (R8746)",
+        "r": 8746
+      },
+      {
+        "e": "Killed Warlord-2! [REVENGE!]",
+        "r": 8746
+      },
+      {
+        "e": "Killed by Warlord-2 [REVENGE!]",
+        "r": 8752
+      },
+      {
+        "e": "Woke up (R8756)",
+        "r": 8756
+      },
+      {
+        "e": "PASS",
+        "r": 8756
+      },
+      {
+        "e": "Woke up (R8804)",
+        "r": 8804
+      },
+      {
+        "e": "Killed Warlord-2! [REVENGE!]",
+        "r": 8804
+      },
+      {
+        "e": "Woke up (R8860)",
+        "r": 8860
+      },
+      {
+        "e": "Killed Warlord-2! [REVENGE!]",
+        "r": 8860
+      },
+      {
+        "e": "Woke up (R8968)",
+        "r": 8968
+      },
+      {
+        "e": "Killed Warlord-2! [REVENGE!]",
+        "r": 8968
+      },
+      {
+        "e": "Woke up (R8978)",
+        "r": 8978
+      },
+      {
+        "e": "Killed Warlord-2! [REVENGE!]",
+        "r": 8978
+      },
+      {
+        "e": "Woke up (R9568)",
+        "r": 9568
+      },
+      {
+        "e": "PASS",
+        "r": 9568
+      },
+      {
+        "e": "Woke up (R9596)",
+        "r": 9596
+      },
+      {
+        "e": "PASS",
+        "r": 9596
+      },
+      {
+        "e": "Woke up (R9822)",
+        "r": 9822
+      },
+      {
+        "e": "Killed Warlord-2! [REVENGE!]",
+        "r": 9822
+      }
+    ]
+  },
+  "Warlord-7": {
+    "total_memories": 237,
+    "kills": 53,
+    "deaths": 44,
+    "last_killed_by": "Shadow-6",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8912
+      },
+      {
+        "e": "Woke up (R9028)",
+        "r": 9028
+      },
+      {
+        "e": "Killed Shadow-6! [REVENGE!]",
+        "r": 9028
+      },
+      {
+        "e": "Killed by Shadow-6 [REVENGE!]",
+        "r": 9218
+      },
+      {
+        "e": "Woke up (R9220)",
+        "r": 9220
+      },
+      {
+        "e": "PASS",
+        "r": 9220
+      },
+      {
+        "e": "Woke up (R9278)",
+        "r": 9278
+      },
+      {
+        "e": "PASS",
+        "r": 9278
+      },
+      {
+        "e": "Woke up (R9694)",
+        "r": 9694
+      },
+      {
+        "e": "PASS",
+        "r": 9694
+      },
+      {
+        "e": "Woke up (R9794)",
+        "r": 9794
+      },
+      {
+        "e": "PASS",
+        "r": 9794
+      },
+      {
+        "e": "Woke up (R9840)",
+        "r": 9840
+      },
+      {
+        "e": "Killed Shadow-6! [REVENGE!]",
+        "r": 9840
+      },
+      {
+        "e": "Killed by Shadow-6 [REVENGE!]",
+        "r": 9842
+      },
+      {
+        "e": "Woke up (R9844)",
+        "r": 9844
+      },
+      {
+        "e": "Killed Shadow-6! [REVENGE!]",
+        "r": 9844
+      },
+      {
+        "e": "Killed by Shadow-6 [REVENGE!]",
+        "r": 9918
+      },
+      {
+        "e": "Woke up (R9920)",
+        "r": 9920
+      },
+      {
+        "e": "Killed Shadow-6! [REVENGE!]",
+        "r": 9920
+      }
+    ]
+  },
+  "Warlord-8": {
+    "total_memories": 363,
+    "kills": 68,
+    "deaths": 82,
+    "last_killed_by": "Berserker-4",
+    "recent": [
+      {
+        "e": "Killed by Berserker-4 [REVENGE!]",
+        "r": 9512
+      },
+      {
+        "e": "Woke up (R9514)",
+        "r": 9514
+      },
+      {
+        "e": "PASS",
+        "r": 9514
+      },
+      {
+        "e": "Killed by Berserker-6 [REVENGE!]",
+        "r": 9764
+      },
+      {
+        "e": "Woke up (R9766)",
+        "r": 9766
+      },
+      {
+        "e": "Killed Berserker-6! [REVENGE!]",
+        "r": 9766
+      },
+      {
+        "e": "Killed by Berserker-4 [REVENGE!]",
+        "r": 9804
+      },
+      {
+        "e": "Woke up (R9806)",
+        "r": 9806
+      },
+      {
+        "e": "PASS",
+        "r": 9806
+      },
+      {
+        "e": "Killed by Berserker-4 [REVENGE!]",
+        "r": 9850
+      },
+      {
+        "e": "Woke up (R9852)",
+        "r": 9852
+      },
+      {
+        "e": "Killed Berserker-4! [REVENGE!]",
+        "r": 9852
+      },
+      {
+        "e": "Killed by Berserker-4 [REVENGE!]",
+        "r": 9934
+      },
+      {
+        "e": "Woke up (R9936)",
+        "r": 9936
+      },
+      {
+        "e": "Killed Berserker-4! [REVENGE!]",
+        "r": 9936
+      },
+      {
+        "e": "Woke up (R9994)",
+        "r": 9994
+      },
+      {
+        "e": "Killed Berserker-4! [REVENGE!]",
+        "r": 9994
+      },
+      {
+        "e": "Killed by Berserker-4 [REVENGE!]",
+        "r": 9996
+      },
+      {
+        "e": "Woke up (R9998)",
+        "r": 9998
+      },
+      {
+        "e": "Killed Berserker-4! [REVENGE!]",
+        "r": 9998
+      }
+    ]
+  },
+  "Warlord-9": {
+    "total_memories": 179,
+    "kills": 42,
+    "deaths": 22,
+    "last_killed_by": "Trickster-1",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8830
+      },
+      {
+        "e": "Killed by Trickster-1 [REVENGE!]",
+        "r": 8856
+      },
+      {
+        "e": "Woke up (R8858)",
+        "r": 8858
+      },
+      {
+        "e": "PASS",
+        "r": 8858
+      },
+      {
+        "e": "Woke up (R8974)",
+        "r": 8974
+      },
+      {
+        "e": "Killed Trickster-1! [REVENGE!]",
+        "r": 8974
+      },
+      {
+        "e": "Woke up (R9162)",
+        "r": 9162
+      },
+      {
+        "e": "Killed Trickster-1! [REVENGE!]",
+        "r": 9162
+      },
+      {
+        "e": "Woke up (R9256)",
+        "r": 9256
+      },
+      {
+        "e": "Killed Trickster-1! [REVENGE!]",
+        "r": 9256
+      },
+      {
+        "e": "Woke up (R9394)",
+        "r": 9394
+      },
+      {
+        "e": "Killed Trickster-1! [REVENGE!]",
+        "r": 9394
+      },
+      {
+        "e": "Woke up (R9502)",
+        "r": 9502
+      },
+      {
+        "e": "Killed Trickster-1! [REVENGE!]",
+        "r": 9502
+      },
+      {
+        "e": "Woke up (R9568)",
+        "r": 9568
+      },
+      {
+        "e": "Killed Trickster-1! [REVENGE!]",
+        "r": 9568
+      },
+      {
+        "e": "Woke up (R9782)",
+        "r": 9782
+      },
+      {
+        "e": "Killed Trickster-1! [REVENGE!]",
+        "r": 9782
+      },
+      {
+        "e": "Woke up (R9814)",
+        "r": 9814
+      },
+      {
+        "e": "Killed Trickster-1! [REVENGE!]",
+        "r": 9814
+      }
+    ]
+  },
+  "Shadow-0": {
+    "total_memories": 274,
+    "kills": 32,
+    "deaths": 52,
+    "last_killed_by": "Warlord-5",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9462
+      },
+      {
+        "e": "Killed by Shark-1 [REVENGE!]",
+        "r": 9530
+      },
+      {
+        "e": "Woke up (R9532)",
+        "r": 9532
+      },
+      {
+        "e": "PASS",
+        "r": 9532
+      },
+      {
+        "e": "Killed by Warlord-5 [REVENGE!]",
+        "r": 9548
+      },
+      {
+        "e": "Woke up (R9552)",
+        "r": 9552
+      },
+      {
+        "e": "PASS",
+        "r": 9552
+      },
+      {
+        "e": "Killed by Warlord-5 [REVENGE!]",
+        "r": 9752
+      },
+      {
+        "e": "Woke up (R9754)",
+        "r": 9754
+      },
+      {
+        "e": "PASS",
+        "r": 9754
+      },
+      {
+        "e": "Killed by Shark-1 [REVENGE!]",
+        "r": 9788
+      },
+      {
+        "e": "Woke up (R9790)",
+        "r": 9790
+      },
+      {
+        "e": "PASS",
+        "r": 9790
+      },
+      {
+        "e": "Woke up (R9832)",
+        "r": 9832
+      },
+      {
+        "e": "PASS",
+        "r": 9832
+      },
+      {
+        "e": "Woke up (R9842)",
+        "r": 9842
+      },
+      {
+        "e": "PASS",
+        "r": 9842
+      },
+      {
+        "e": "Killed by Warlord-5 [REVENGE!]",
+        "r": 9894
+      },
+      {
+        "e": "Woke up (R9896)",
+        "r": 9896
+      },
+      {
+        "e": "PASS",
+        "r": 9896
+      }
+    ]
+  },
+  "Shadow-1": {
+    "total_memories": 225,
+    "kills": 36,
+    "deaths": 31,
+    "last_killed_by": "Shadow-5",
+    "recent": [
+      {
+        "e": "Killed Shadow-5! [REVENGE!]",
+        "r": 9140
+      },
+      {
+        "e": "Killed by Shadow-5 [REVENGE!]",
+        "r": 9144
+      },
+      {
+        "e": "Woke up (R9146)",
+        "r": 9146
+      },
+      {
+        "e": "PASS",
+        "r": 9146
+      },
+      {
+        "e": "Woke up (R9176)",
+        "r": 9176
+      },
+      {
+        "e": "PASS",
+        "r": 9176
+      },
+      {
+        "e": "Woke up (R9316)",
+        "r": 9316
+      },
+      {
+        "e": "Killed Shadow-5! [REVENGE!]",
+        "r": 9316
+      },
+      {
+        "e": "Killed by Shadow-5 [REVENGE!]",
+        "r": 9318
+      },
+      {
+        "e": "Woke up (R9320)",
+        "r": 9320
+      },
+      {
+        "e": "Killed Shadow-5! [REVENGE!]",
+        "r": 9320
+      },
+      {
+        "e": "Woke up (R9432)",
+        "r": 9432
+      },
+      {
+        "e": "PASS",
+        "r": 9432
+      },
+      {
+        "e": "Woke up (R9486)",
+        "r": 9486
+      },
+      {
+        "e": "Killed Shadow-5! [REVENGE!]",
+        "r": 9486
+      },
+      {
+        "e": "Killed by Shadow-5 [REVENGE!]",
+        "r": 9492
+      },
+      {
+        "e": "Woke up (R9496)",
+        "r": 9496
+      },
+      {
+        "e": "PASS",
+        "r": 9496
+      },
+      {
+        "e": "Woke up (R9820)",
+        "r": 9820
+      },
+      {
+        "e": "PASS",
+        "r": 9820
+      }
+    ]
+  },
+  "Shadow-2": {
+    "total_memories": 277,
+    "kills": 32,
+    "deaths": 43,
+    "last_killed_by": "Shadow-8",
+    "recent": [
+      {
+        "e": "Killed by Shadow-8 [REVENGE!]",
+        "r": 9402
+      },
+      {
+        "e": "Woke up (R9408)",
+        "r": 9408
+      },
+      {
+        "e": "PASS",
+        "r": 9408
+      },
+      {
+        "e": "Woke up (R9572)",
+        "r": 9572
+      },
+      {
+        "e": "PASS",
+        "r": 9572
+      },
+      {
+        "e": "Woke up (R9574)",
+        "r": 9574
+      },
+      {
+        "e": "PASS",
+        "r": 9574
+      },
+      {
+        "e": "Killed by Shadow-8 [REVENGE!]",
+        "r": 9576
+      },
+      {
+        "e": "Woke up (R9578)",
+        "r": 9578
+      },
+      {
+        "e": "PASS",
+        "r": 9578
+      },
+      {
+        "e": "Killed by Shadow-8 [REVENGE!]",
+        "r": 9616
+      },
+      {
+        "e": "Woke up (R9620)",
+        "r": 9620
+      },
+      {
+        "e": "PASS",
+        "r": 9620
+      },
+      {
+        "e": "Woke up (R9660)",
+        "r": 9660
+      },
+      {
+        "e": "PASS",
+        "r": 9660
+      },
+      {
+        "e": "Woke up (R9692)",
+        "r": 9692
+      },
+      {
+        "e": "PASS",
+        "r": 9692
+      },
+      {
+        "e": "Killed by Shadow-8 [REVENGE!]",
+        "r": 9698
+      },
+      {
+        "e": "Woke up (R9700)",
+        "r": 9700
+      },
+      {
+        "e": "PASS",
+        "r": 9700
+      }
+    ]
+  },
+  "Shadow-3": {
+    "total_memories": 254,
+    "kills": 48,
+    "deaths": 38,
+    "last_killed_by": "Reaper-9",
+    "recent": [
+      {
+        "e": "Killed Reaper-9! [REVENGE!]",
+        "r": 8768
+      },
+      {
+        "e": "Woke up (R8858)",
+        "r": 8858
+      },
+      {
+        "e": "PASS",
+        "r": 8858
+      },
+      {
+        "e": "Woke up (R9050)",
+        "r": 9050
+      },
+      {
+        "e": "Killed Reaper-9! [REVENGE!]",
+        "r": 9050
+      },
+      {
+        "e": "Woke up (R9146)",
+        "r": 9146
+      },
+      {
+        "e": "PASS",
+        "r": 9146
+      },
+      {
+        "e": "Woke up (R9228)",
+        "r": 9228
+      },
+      {
+        "e": "PASS",
+        "r": 9228
+      },
+      {
+        "e": "Woke up (R9242)",
+        "r": 9242
+      },
+      {
+        "e": "PASS",
+        "r": 9242
+      },
+      {
+        "e": "Woke up (R9436)",
+        "r": 9436
+      },
+      {
+        "e": "Killed Reaper-9! [REVENGE!]",
+        "r": 9436
+      },
+      {
+        "e": "Killed by Reaper-9 [REVENGE!]",
+        "r": 9692
+      },
+      {
+        "e": "Woke up (R9698)",
+        "r": 9698
+      },
+      {
+        "e": "PASS",
+        "r": 9698
+      },
+      {
+        "e": "Woke up (R9738)",
+        "r": 9738
+      },
+      {
+        "e": "Killed Reaper-9! [REVENGE!]",
+        "r": 9738
+      },
+      {
+        "e": "Woke up (R9776)",
+        "r": 9776
+      },
+      {
+        "e": "PASS",
+        "r": 9776
+      }
+    ]
+  },
+  "Shadow-4": {
+    "total_memories": 225,
+    "kills": 24,
+    "deaths": 37,
+    "last_killed_by": "Vengeant-2",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9390
+      },
+      {
+        "e": "Killed by Vengeant-2 [REVENGE!]",
+        "r": 9416
+      },
+      {
+        "e": "Woke up (R9426)",
+        "r": 9426
+      },
+      {
+        "e": "PASS",
+        "r": 9426
+      },
+      {
+        "e": "Woke up (R9494)",
+        "r": 9494
+      },
+      {
+        "e": "PASS",
+        "r": 9494
+      },
+      {
+        "e": "Killed by Vengeant-2 [REVENGE!]",
+        "r": 9528
+      },
+      {
+        "e": "Woke up (R9534)",
+        "r": 9534
+      },
+      {
+        "e": "PASS",
+        "r": 9534
+      },
+      {
+        "e": "Woke up (R9716)",
+        "r": 9716
+      },
+      {
+        "e": "PASS",
+        "r": 9716
+      },
+      {
+        "e": "Woke up (R9718)",
+        "r": 9718
+      },
+      {
+        "e": "PASS",
+        "r": 9718
+      },
+      {
+        "e": "Woke up (R9758)",
+        "r": 9758
+      },
+      {
+        "e": "Killed Vengeant-2! [REVENGE!]",
+        "r": 9758
+      },
+      {
+        "e": "Killed by Vengeant-2 [REVENGE!]",
+        "r": 9762
+      },
+      {
+        "e": "Woke up (R9764)",
+        "r": 9764
+      },
+      {
+        "e": "PASS",
+        "r": 9764
+      },
+      {
+        "e": "Woke up (R9904)",
+        "r": 9904
+      },
+      {
+        "e": "PASS",
+        "r": 9904
+      }
+    ]
+  },
+  "Shadow-5": {
+    "total_memories": 220,
+    "kills": 32,
+    "deaths": 30,
+    "last_killed_by": "Shadow-1",
+    "recent": [
+      {
+        "e": "Killed Shadow-1! [REVENGE!]",
+        "r": 9144
+      },
+      {
+        "e": "Woke up (R9214)",
+        "r": 9214
+      },
+      {
+        "e": "PASS",
+        "r": 9214
+      },
+      {
+        "e": "Woke up (R9244)",
+        "r": 9244
+      },
+      {
+        "e": "PASS",
+        "r": 9244
+      },
+      {
+        "e": "Killed by Shadow-1 [REVENGE!]",
+        "r": 9316
+      },
+      {
+        "e": "Woke up (R9318)",
+        "r": 9318
+      },
+      {
+        "e": "Killed Shadow-1! [REVENGE!]",
+        "r": 9318
+      },
+      {
+        "e": "Killed by Shadow-1 [REVENGE!]",
+        "r": 9320
+      },
+      {
+        "e": "Woke up (R9322)",
+        "r": 9322
+      },
+      {
+        "e": "PASS",
+        "r": 9322
+      },
+      {
+        "e": "Killed by Shadow-1 [REVENGE!]",
+        "r": 9486
+      },
+      {
+        "e": "Woke up (R9492)",
+        "r": 9492
+      },
+      {
+        "e": "Killed Shadow-1! [REVENGE!]",
+        "r": 9492
+      },
+      {
+        "e": "Woke up (R9504)",
+        "r": 9504
+      },
+      {
+        "e": "PASS",
+        "r": 9504
+      },
+      {
+        "e": "Woke up (R9864)",
+        "r": 9864
+      },
+      {
+        "e": "PASS",
+        "r": 9864
+      },
+      {
+        "e": "Woke up (R9888)",
+        "r": 9888
+      },
+      {
+        "e": "PASS",
+        "r": 9888
+      }
+    ]
+  },
+  "Shadow-6": {
+    "total_memories": 362,
+    "kills": 52,
+    "deaths": 74,
+    "last_killed_by": "Warlord-7",
+    "recent": [
+      {
+        "e": "Woke up (R9218)",
+        "r": 9218
+      },
+      {
+        "e": "Killed Warlord-7! [REVENGE!]",
+        "r": 9218
+      },
+      {
+        "e": "Woke up (R9362)",
+        "r": 9362
+      },
+      {
+        "e": "PASS",
+        "r": 9362
+      },
+      {
+        "e": "Woke up (R9550)",
+        "r": 9550
+      },
+      {
+        "e": "PASS",
+        "r": 9550
+      },
+      {
+        "e": "Killed by Trickster-9 [REVENGE!]",
+        "r": 9688
+      },
+      {
+        "e": "Woke up (R9690)",
+        "r": 9690
+      },
+      {
+        "e": "PASS",
+        "r": 9690
+      },
+      {
+        "e": "Killed by Warlord-7 [REVENGE!]",
+        "r": 9840
+      },
+      {
+        "e": "Woke up (R9842)",
+        "r": 9842
+      },
+      {
+        "e": "Killed Warlord-7! [REVENGE!]",
+        "r": 9842
+      },
+      {
+        "e": "Killed by Warlord-7 [REVENGE!]",
+        "r": 9844
+      },
+      {
+        "e": "Woke up (R9846)",
+        "r": 9846
+      },
+      {
+        "e": "PASS",
+        "r": 9846
+      },
+      {
+        "e": "Woke up (R9918)",
+        "r": 9918
+      },
+      {
+        "e": "Killed Warlord-7! [REVENGE!]",
+        "r": 9918
+      },
+      {
+        "e": "Killed by Warlord-7 [REVENGE!]",
+        "r": 9920
+      },
+      {
+        "e": "Woke up (R9922)",
+        "r": 9922
+      },
+      {
+        "e": "PASS",
+        "r": 9922
+      }
+    ]
+  },
+  "Shadow-7": {
+    "total_memories": 205,
+    "kills": 32,
+    "deaths": 27,
+    "last_killed_by": "Trickster-7",
+    "recent": [
+      {
+        "e": "Woke up (R8866)",
+        "r": 8866
+      },
+      {
+        "e": "Killed Trickster-7! [REVENGE!]",
+        "r": 8866
+      },
+      {
+        "e": "Woke up (R8936)",
+        "r": 8936
+      },
+      {
+        "e": "PASS",
+        "r": 8936
+      },
+      {
+        "e": "Woke up (R8946)",
+        "r": 8946
+      },
+      {
+        "e": "PASS",
+        "r": 8946
+      },
+      {
+        "e": "Woke up (R9002)",
+        "r": 9002
+      },
+      {
+        "e": "PASS",
+        "r": 9002
+      },
+      {
+        "e": "Woke up (R9306)",
+        "r": 9306
+      },
+      {
+        "e": "Killed Trickster-7! [REVENGE!]",
+        "r": 9306
+      },
+      {
+        "e": "Woke up (R9696)",
+        "r": 9696
+      },
+      {
+        "e": "PASS",
+        "r": 9696
+      },
+      {
+        "e": "Woke up (R9732)",
+        "r": 9732
+      },
+      {
+        "e": "PASS",
+        "r": 9732
+      },
+      {
+        "e": "Woke up (R9752)",
+        "r": 9752
+      },
+      {
+        "e": "PASS",
+        "r": 9752
+      },
+      {
+        "e": "Woke up (R9924)",
+        "r": 9924
+      },
+      {
+        "e": "PASS",
+        "r": 9924
+      },
+      {
+        "e": "Woke up (R9984)",
+        "r": 9984
+      },
+      {
+        "e": "PASS",
+        "r": 9984
+      }
+    ]
+  },
+  "Shadow-8": {
+    "total_memories": 204,
+    "kills": 35,
+    "deaths": 24,
+    "last_killed_by": "Shadow-2",
+    "recent": [
+      {
+        "e": "Killed by Shadow-2 [REVENGE!]",
+        "r": 9234
+      },
+      {
+        "e": "Woke up (R9236)",
+        "r": 9236
+      },
+      {
+        "e": "PASS",
+        "r": 9236
+      },
+      {
+        "e": "Woke up (R9360)",
+        "r": 9360
+      },
+      {
+        "e": "Killed Shadow-2! [REVENGE!]",
+        "r": 9360
+      },
+      {
+        "e": "Killed by Shadow-2 [REVENGE!]",
+        "r": 9400
+      },
+      {
+        "e": "Woke up (R9402)",
+        "r": 9402
+      },
+      {
+        "e": "Killed Shadow-2! [REVENGE!]",
+        "r": 9402
+      },
+      {
+        "e": "Woke up (R9498)",
+        "r": 9498
+      },
+      {
+        "e": "PASS",
+        "r": 9498
+      },
+      {
+        "e": "Woke up (R9576)",
+        "r": 9576
+      },
+      {
+        "e": "Killed Shadow-2! [REVENGE!]",
+        "r": 9576
+      },
+      {
+        "e": "Woke up (R9616)",
+        "r": 9616
+      },
+      {
+        "e": "Killed Shadow-2! [REVENGE!]",
+        "r": 9616
+      },
+      {
+        "e": "Woke up (R9698)",
+        "r": 9698
+      },
+      {
+        "e": "Killed Shadow-2! [REVENGE!]",
+        "r": 9698
+      },
+      {
+        "e": "Woke up (R9784)",
+        "r": 9784
+      },
+      {
+        "e": "PASS",
+        "r": 9784
+      },
+      {
+        "e": "Woke up (R9956)",
+        "r": 9956
+      },
+      {
+        "e": "PASS",
+        "r": 9956
+      }
+    ]
+  },
+  "Shadow-9": {
+    "total_memories": 274,
+    "kills": 46,
+    "deaths": 44,
+    "last_killed_by": "Trickster-5",
+    "recent": [
+      {
+        "e": "Killed Trickster-5! [REVENGE!]",
+        "r": 9644
+      },
+      {
+        "e": "Woke up (R9646)",
+        "r": 9646
+      },
+      {
+        "e": "Killed Trickster-5! [REVENGE!]",
+        "r": 9646
+      },
+      {
+        "e": "Killed by Trickster-5 [REVENGE!]",
+        "r": 9648
+      },
+      {
+        "e": "Woke up (R9650)",
+        "r": 9650
+      },
+      {
+        "e": "Killed Trickster-5! [REVENGE!]",
+        "r": 9650
+      },
+      {
+        "e": "Woke up (R9704)",
+        "r": 9704
+      },
+      {
+        "e": "PASS",
+        "r": 9704
+      },
+      {
+        "e": "Woke up (R9782)",
+        "r": 9782
+      },
+      {
+        "e": "PASS",
+        "r": 9782
+      },
+      {
+        "e": "Woke up (R9862)",
+        "r": 9862
+      },
+      {
+        "e": "Killed Trickster-5! [REVENGE!]",
+        "r": 9862
+      },
+      {
+        "e": "Killed by Trickster-5 [REVENGE!]",
+        "r": 9864
+      },
+      {
+        "e": "Woke up (R9868)",
+        "r": 9868
+      },
+      {
+        "e": "Killed Trickster-5! [REVENGE!]",
+        "r": 9868
+      },
+      {
+        "e": "Woke up (R9870)",
+        "r": 9870
+      },
+      {
+        "e": "Can't abort Trickster-5 (self or sleeping)",
+        "r": 9870
+      },
+      {
+        "e": "Killed by Trickster-5 [REVENGE!]",
+        "r": 9872
+      },
+      {
+        "e": "Woke up (R9874)",
+        "r": 9874
+      },
+      {
+        "e": "Killed Trickster-5! [REVENGE!]",
+        "r": 9874
+      }
+    ]
+  },
+  "Berserker-0": {
+    "total_memories": 243,
+    "kills": 40,
+    "deaths": 45,
+    "last_killed_by": "Berserker-1",
+    "recent": [
+      {
+        "e": "Killed Berserker-1! [REVENGE!]",
+        "r": 9188
+      },
+      {
+        "e": "Killed by Berserker-1 [REVENGE!]",
+        "r": 9190
+      },
+      {
+        "e": "Woke up (R9192)",
+        "r": 9192
+      },
+      {
+        "e": "PASS",
+        "r": 9192
+      },
+      {
+        "e": "Woke up (R9198)",
+        "r": 9198
+      },
+      {
+        "e": "Killed Berserker-1! [REVENGE!]",
+        "r": 9198
+      },
+      {
+        "e": "Woke up (R9240)",
+        "r": 9240
+      },
+      {
+        "e": "Killed Berserker-1! [REVENGE!]",
+        "r": 9240
+      },
+      {
+        "e": "Killed by Berserker-1 [REVENGE!]",
+        "r": 9242
+      },
+      {
+        "e": "Woke up (R9244)",
+        "r": 9244
+      },
+      {
+        "e": "Killed Berserker-1! [REVENGE!]",
+        "r": 9244
+      },
+      {
+        "e": "Killed by Berserker-1 [REVENGE!]",
+        "r": 9246
+      },
+      {
+        "e": "Woke up (R9248)",
+        "r": 9248
+      },
+      {
+        "e": "PASS",
+        "r": 9248
+      },
+      {
+        "e": "Killed by Berserker-1 [REVENGE!]",
+        "r": 9532
+      },
+      {
+        "e": "Woke up (R9534)",
+        "r": 9534
+      },
+      {
+        "e": "Killed Berserker-1! [REVENGE!]",
+        "r": 9534
+      },
+      {
+        "e": "Killed by Berserker-1 [REVENGE!]",
+        "r": 9888
+      },
+      {
+        "e": "Woke up (R9890)",
+        "r": 9890
+      },
+      {
+        "e": "Killed Berserker-1! [REVENGE!]",
+        "r": 9890
+      }
+    ]
+  },
+  "Berserker-1": {
+    "total_memories": 222,
+    "kills": 44,
+    "deaths": 40,
+    "last_killed_by": "Berserker-0",
+    "recent": [
+      {
+        "e": "Woke up (R9200)",
+        "r": 9200
+      },
+      {
+        "e": "PASS",
+        "r": 9200
+      },
+      {
+        "e": "Killed by Berserker-0 [REVENGE!]",
+        "r": 9240
+      },
+      {
+        "e": "Woke up (R9242)",
+        "r": 9242
+      },
+      {
+        "e": "Killed Berserker-0! [REVENGE!]",
+        "r": 9242
+      },
+      {
+        "e": "Killed by Berserker-0 [REVENGE!]",
+        "r": 9244
+      },
+      {
+        "e": "Woke up (R9246)",
+        "r": 9246
+      },
+      {
+        "e": "Killed Berserker-0! [REVENGE!]",
+        "r": 9246
+      },
+      {
+        "e": "Woke up (R9474)",
+        "r": 9474
+      },
+      {
+        "e": "PASS",
+        "r": 9474
+      },
+      {
+        "e": "Woke up (R9532)",
+        "r": 9532
+      },
+      {
+        "e": "Killed Berserker-0! [REVENGE!]",
+        "r": 9532
+      },
+      {
+        "e": "Killed by Berserker-0 [REVENGE!]",
+        "r": 9534
+      },
+      {
+        "e": "Woke up (R9536)",
+        "r": 9536
+      },
+      {
+        "e": "PASS",
+        "r": 9536
+      },
+      {
+        "e": "Woke up (R9888)",
+        "r": 9888
+      },
+      {
+        "e": "Killed Berserker-0! [REVENGE!]",
+        "r": 9888
+      },
+      {
+        "e": "Killed by Berserker-0 [REVENGE!]",
+        "r": 9890
+      },
+      {
+        "e": "Woke up (R9892)",
+        "r": 9892
+      },
+      {
+        "e": "PASS",
+        "r": 9892
+      }
+    ]
+  },
+  "Berserker-2": {
+    "total_memories": 356,
+    "kills": 57,
+    "deaths": 78,
+    "last_killed_by": "Berserker-8",
+    "recent": [
+      {
+        "e": "Woke up (R8810)",
+        "r": 8810
+      },
+      {
+        "e": "Killed Berserker-8! [REVENGE!]",
+        "r": 8810
+      },
+      {
+        "e": "Woke up (R8838)",
+        "r": 8838
+      },
+      {
+        "e": "Killed Berserker-8! [REVENGE!]",
+        "r": 8838
+      },
+      {
+        "e": "Killed by Berserker-8 [REVENGE!]",
+        "r": 8840
+      },
+      {
+        "e": "Woke up (R8842)",
+        "r": 8842
+      },
+      {
+        "e": "PASS",
+        "r": 8842
+      },
+      {
+        "e": "Killed by Berserker-8 [REVENGE!]",
+        "r": 8988
+      },
+      {
+        "e": "Woke up (R8990)",
+        "r": 8990
+      },
+      {
+        "e": "PASS",
+        "r": 8990
+      },
+      {
+        "e": "Woke up (R9136)",
+        "r": 9136
+      },
+      {
+        "e": "PASS",
+        "r": 9136
+      },
+      {
+        "e": "Woke up (R9342)",
+        "r": 9342
+      },
+      {
+        "e": "Killed Berserker-8! [REVENGE!]",
+        "r": 9342
+      },
+      {
+        "e": "Killed by Berserker-8 [REVENGE!]",
+        "r": 9866
+      },
+      {
+        "e": "Woke up (R9870)",
+        "r": 9870
+      },
+      {
+        "e": "PASS",
+        "r": 9870
+      },
+      {
+        "e": "Killed by Berserker-8 [REVENGE!]",
+        "r": 9922
+      },
+      {
+        "e": "Woke up (R9928)",
+        "r": 9928
+      },
+      {
+        "e": "PASS",
+        "r": 9928
+      }
+    ]
+  },
+  "Berserker-3": {
+    "total_memories": 355,
+    "kills": 61,
+    "deaths": 81,
+    "last_killed_by": "Berserker-5",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9342
+      },
+      {
+        "e": "Woke up (R9384)",
+        "r": 9384
+      },
+      {
+        "e": "Killed Berserker-5! [REVENGE!]",
+        "r": 9384
+      },
+      {
+        "e": "Woke up (R9386)",
+        "r": 9386
+      },
+      {
+        "e": "Killed Berserker-5! [REVENGE!]",
+        "r": 9386
+      },
+      {
+        "e": "Woke up (R9404)",
+        "r": 9404
+      },
+      {
+        "e": "Killed Berserker-5! [REVENGE!]",
+        "r": 9404
+      },
+      {
+        "e": "Woke up (R9448)",
+        "r": 9448
+      },
+      {
+        "e": "Killed Berserker-5! [REVENGE!]",
+        "r": 9448
+      },
+      {
+        "e": "Killed by Berserker-5 [REVENGE!]",
+        "r": 9450
+      },
+      {
+        "e": "Woke up (R9452)",
+        "r": 9452
+      },
+      {
+        "e": "PASS",
+        "r": 9452
+      },
+      {
+        "e": "Woke up (R9560)",
+        "r": 9560
+      },
+      {
+        "e": "Killed Berserker-5! [REVENGE!]",
+        "r": 9560
+      },
+      {
+        "e": "Killed by Berserker-5 [REVENGE!]",
+        "r": 9604
+      },
+      {
+        "e": "Woke up (R9610)",
+        "r": 9610
+      },
+      {
+        "e": "Killed Berserker-5! [REVENGE!]",
+        "r": 9610
+      },
+      {
+        "e": "Killed by Berserker-5 [REVENGE!]",
+        "r": 9892
+      },
+      {
+        "e": "Woke up (R9894)",
+        "r": 9894
+      },
+      {
+        "e": "PASS",
+        "r": 9894
+      }
+    ]
+  },
+  "Berserker-4": {
+    "total_memories": 216,
+    "kills": 39,
+    "deaths": 36,
+    "last_killed_by": "Warlord-8",
+    "recent": [
+      {
+        "e": "Woke up (R9804)",
+        "r": 9804
+      },
+      {
+        "e": "Killed Warlord-8! [REVENGE!]",
+        "r": 9804
+      },
+      {
+        "e": "Woke up (R9850)",
+        "r": 9850
+      },
+      {
+        "e": "Killed Warlord-8! [REVENGE!]",
+        "r": 9850
+      },
+      {
+        "e": "Killed by Warlord-8 [REVENGE!]",
+        "r": 9852
+      },
+      {
+        "e": "Woke up (R9856)",
+        "r": 9856
+      },
+      {
+        "e": "PASS",
+        "r": 9856
+      },
+      {
+        "e": "Woke up (R9878)",
+        "r": 9878
+      },
+      {
+        "e": "PASS",
+        "r": 9878
+      },
+      {
+        "e": "Woke up (R9934)",
+        "r": 9934
+      },
+      {
+        "e": "Killed Warlord-8! [REVENGE!]",
+        "r": 9934
+      },
+      {
+        "e": "Killed by Warlord-8 [REVENGE!]",
+        "r": 9936
+      },
+      {
+        "e": "Woke up (R9938)",
+        "r": 9938
+      },
+      {
+        "e": "PASS",
+        "r": 9938
+      },
+      {
+        "e": "Killed by Warlord-8 [REVENGE!]",
+        "r": 9994
+      },
+      {
+        "e": "Woke up (R9996)",
+        "r": 9996
+      },
+      {
+        "e": "Killed Warlord-8! [REVENGE!]",
+        "r": 9996
+      },
+      {
+        "e": "Killed by Warlord-8 [REVENGE!]",
+        "r": 9998
+      },
+      {
+        "e": "Woke up (R10000)",
+        "r": 10000
+      },
+      {
+        "e": "PASS",
+        "r": 10000
+      }
+    ]
+  },
+  "Berserker-5": {
+    "total_memories": 230,
+    "kills": 54,
+    "deaths": 34,
+    "last_killed_by": "Berserker-3",
+    "recent": [
+      {
+        "e": "Killed by Berserker-3 [REVENGE!]",
+        "r": 9404
+      },
+      {
+        "e": "Woke up (R9406)",
+        "r": 9406
+      },
+      {
+        "e": "PASS",
+        "r": 9406
+      },
+      {
+        "e": "Killed by Berserker-3 [REVENGE!]",
+        "r": 9448
+      },
+      {
+        "e": "Woke up (R9450)",
+        "r": 9450
+      },
+      {
+        "e": "Killed Berserker-3! [REVENGE!]",
+        "r": 9450
+      },
+      {
+        "e": "Killed by Berserker-3 [REVENGE!]",
+        "r": 9560
+      },
+      {
+        "e": "Woke up (R9562)",
+        "r": 9562
+      },
+      {
+        "e": "PASS",
+        "r": 9562
+      },
+      {
+        "e": "Woke up (R9604)",
+        "r": 9604
+      },
+      {
+        "e": "Killed Berserker-3! [REVENGE!]",
+        "r": 9604
+      },
+      {
+        "e": "Woke up (R9606)",
+        "r": 9606
+      },
+      {
+        "e": "PASS",
+        "r": 9606
+      },
+      {
+        "e": "Killed by Berserker-3 [REVENGE!]",
+        "r": 9610
+      },
+      {
+        "e": "Woke up (R9612)",
+        "r": 9612
+      },
+      {
+        "e": "PASS",
+        "r": 9612
+      },
+      {
+        "e": "Woke up (R9872)",
+        "r": 9872
+      },
+      {
+        "e": "PASS",
+        "r": 9872
+      },
+      {
+        "e": "Woke up (R9892)",
+        "r": 9892
+      },
+      {
+        "e": "Killed Berserker-3! [REVENGE!]",
+        "r": 9892
+      }
+    ]
+  },
+  "Berserker-6": {
+    "total_memories": 203,
+    "kills": 42,
+    "deaths": 33,
+    "last_killed_by": "Warlord-8",
+    "recent": [
+      {
+        "e": "Killed Warlord-8! [REVENGE!]",
+        "r": 8730
+      },
+      {
+        "e": "Woke up (R8776)",
+        "r": 8776
+      },
+      {
+        "e": "Killed Warlord-8! [REVENGE!]",
+        "r": 8776
+      },
+      {
+        "e": "Killed by Warlord-8 [REVENGE!]",
+        "r": 8852
+      },
+      {
+        "e": "Woke up (R8854)",
+        "r": 8854
+      },
+      {
+        "e": "PASS",
+        "r": 8854
+      },
+      {
+        "e": "Woke up (R9006)",
+        "r": 9006
+      },
+      {
+        "e": "PASS",
+        "r": 9006
+      },
+      {
+        "e": "Killed by Warlord-8 [REVENGE!]",
+        "r": 9088
+      },
+      {
+        "e": "Woke up (R9090)",
+        "r": 9090
+      },
+      {
+        "e": "PASS",
+        "r": 9090
+      },
+      {
+        "e": "Woke up (R9728)",
+        "r": 9728
+      },
+      {
+        "e": "PASS",
+        "r": 9728
+      },
+      {
+        "e": "Woke up (R9764)",
+        "r": 9764
+      },
+      {
+        "e": "Killed Warlord-8! [REVENGE!]",
+        "r": 9764
+      },
+      {
+        "e": "Killed by Warlord-8 [REVENGE!]",
+        "r": 9766
+      },
+      {
+        "e": "Woke up (R9768)",
+        "r": 9768
+      },
+      {
+        "e": "PASS",
+        "r": 9768
+      },
+      {
+        "e": "Woke up (R9860)",
+        "r": 9860
+      },
+      {
+        "e": "PASS",
+        "r": 9860
+      }
+    ]
+  },
+  "Berserker-7": {
+    "total_memories": 306,
+    "kills": 58,
+    "deaths": 64,
+    "last_killed_by": "Strategist-9",
+    "recent": [
+      {
+        "e": "Woke up (R8698)",
+        "r": 8698
+      },
+      {
+        "e": "PASS",
+        "r": 8698
+      },
+      {
+        "e": "Woke up (R8822)",
+        "r": 8822
+      },
+      {
+        "e": "PASS",
+        "r": 8822
+      },
+      {
+        "e": "Killed by Strategist-9 [REVENGE!]",
+        "r": 8926
+      },
+      {
+        "e": "Woke up (R8928)",
+        "r": 8928
+      },
+      {
+        "e": "PASS",
+        "r": 8928
+      },
+      {
+        "e": "Killed by Strategist-9 [REVENGE!]",
+        "r": 9002
+      },
+      {
+        "e": "Woke up (R9004)",
+        "r": 9004
+      },
+      {
+        "e": "PASS",
+        "r": 9004
+      },
+      {
+        "e": "Killed by Strategist-9 [REVENGE!]",
+        "r": 9094
+      },
+      {
+        "e": "Woke up (R9096)",
+        "r": 9096
+      },
+      {
+        "e": "PASS",
+        "r": 9096
+      },
+      {
+        "e": "Woke up (R9106)",
+        "r": 9106
+      },
+      {
+        "e": "PASS",
+        "r": 9106
+      },
+      {
+        "e": "Woke up (R9564)",
+        "r": 9564
+      },
+      {
+        "e": "PASS",
+        "r": 9564
+      },
+      {
+        "e": "Killed by Strategist-9 [REVENGE!]",
+        "r": 9710
+      },
+      {
+        "e": "Woke up (R9724)",
+        "r": 9724
+      },
+      {
+        "e": "PASS",
+        "r": 9724
+      }
+    ]
+  },
+  "Berserker-8": {
+    "total_memories": 243,
+    "kills": 54,
+    "deaths": 37,
+    "last_killed_by": "Berserker-2",
+    "recent": [
+      {
+        "e": "Woke up (R8812)",
+        "r": 8812
+      },
+      {
+        "e": "PASS",
+        "r": 8812
+      },
+      {
+        "e": "Killed by Berserker-2 [REVENGE!]",
+        "r": 8838
+      },
+      {
+        "e": "Woke up (R8840)",
+        "r": 8840
+      },
+      {
+        "e": "Killed Berserker-2! [REVENGE!]",
+        "r": 8840
+      },
+      {
+        "e": "Woke up (R8886)",
+        "r": 8886
+      },
+      {
+        "e": "PASS",
+        "r": 8886
+      },
+      {
+        "e": "Woke up (R8988)",
+        "r": 8988
+      },
+      {
+        "e": "Killed Berserker-2! [REVENGE!]",
+        "r": 8988
+      },
+      {
+        "e": "Woke up (R9264)",
+        "r": 9264
+      },
+      {
+        "e": "PASS",
+        "r": 9264
+      },
+      {
+        "e": "Woke up (R9300)",
+        "r": 9300
+      },
+      {
+        "e": "PASS",
+        "r": 9300
+      },
+      {
+        "e": "Killed by Berserker-2 [REVENGE!]",
+        "r": 9342
+      },
+      {
+        "e": "Woke up (R9344)",
+        "r": 9344
+      },
+      {
+        "e": "PASS",
+        "r": 9344
+      },
+      {
+        "e": "Woke up (R9866)",
+        "r": 9866
+      },
+      {
+        "e": "Killed Berserker-2! [REVENGE!]",
+        "r": 9866
+      },
+      {
+        "e": "Woke up (R9922)",
+        "r": 9922
+      },
+      {
+        "e": "Killed Berserker-2! [REVENGE!]",
+        "r": 9922
+      }
+    ]
+  },
+  "Berserker-9": {
+    "total_memories": 240,
+    "kills": 43,
+    "deaths": 34,
+    "last_killed_by": "Trickster-3",
+    "recent": [
+      {
+        "e": "Woke up (R9074)",
+        "r": 9074
+      },
+      {
+        "e": "Woke up (R9074)",
+        "r": 9074
+      },
+      {
+        "e": "Killed Trickster-3! [REVENGE!]",
+        "r": 9074
+      },
+      {
+        "e": "PASS",
+        "r": 9074
+      },
+      {
+        "e": "Woke up (R9094)",
+        "r": 9094
+      },
+      {
+        "e": "PASS",
+        "r": 9094
+      },
+      {
+        "e": "Woke up (R9216)",
+        "r": 9216
+      },
+      {
+        "e": "Killed Trickster-3! [REVENGE!]",
+        "r": 9216
+      },
+      {
+        "e": "Woke up (R9280)",
+        "r": 9280
+      },
+      {
+        "e": "Killed Trickster-3! [REVENGE!]",
+        "r": 9280
+      },
+      {
+        "e": "Woke up (R9336)",
+        "r": 9336
+      },
+      {
+        "e": "Killed Trickster-3! [REVENGE!]",
+        "r": 9336
+      },
+      {
+        "e": "Woke up (R9400)",
+        "r": 9400
+      },
+      {
+        "e": "PASS",
+        "r": 9400
+      },
+      {
+        "e": "Woke up (R9582)",
+        "r": 9582
+      },
+      {
+        "e": "Killed Trickster-3! [REVENGE!]",
+        "r": 9582
+      },
+      {
+        "e": "Woke up (R9588)",
+        "r": 9588
+      },
+      {
+        "e": "PASS",
+        "r": 9588
+      },
+      {
+        "e": "Woke up (R9748)",
+        "r": 9748
+      },
+      {
+        "e": "PASS",
+        "r": 9748
+      }
+    ]
+  },
+  "Strategist-0": {
+    "total_memories": 254,
+    "kills": 46,
+    "deaths": 42,
+    "last_killed_by": "Warlord-2",
+    "recent": [
+      {
+        "e": "Killed by Warlord-2 [REVENGE!]",
+        "r": 9396
+      },
+      {
+        "e": "Woke up (R9398)",
+        "r": 9398
+      },
+      {
+        "e": "PASS",
+        "r": 9398
+      },
+      {
+        "e": "Woke up (R9482)",
+        "r": 9482
+      },
+      {
+        "e": "Killed Warlord-2! [REVENGE!]",
+        "r": 9482
+      },
+      {
+        "e": "Woke up (R9564)",
+        "r": 9564
+      },
+      {
+        "e": "Killed Warlord-2! [REVENGE!]",
+        "r": 9564
+      },
+      {
+        "e": "Killed by Warlord-2 [REVENGE!]",
+        "r": 9566
+      },
+      {
+        "e": "Woke up (R9570)",
+        "r": 9570
+      },
+      {
+        "e": "PASS",
+        "r": 9570
+      },
+      {
+        "e": "Killed by Warlord-2 [REVENGE!]",
+        "r": 9580
+      },
+      {
+        "e": "Woke up (R9586)",
+        "r": 9586
+      },
+      {
+        "e": "PASS",
+        "r": 9586
+      },
+      {
+        "e": "Woke up (R9608)",
+        "r": 9608
+      },
+      {
+        "e": "PASS",
+        "r": 9608
+      },
+      {
+        "e": "Woke up (R9836)",
+        "r": 9836
+      },
+      {
+        "e": "Killed Warlord-2! [REVENGE!]",
+        "r": 9836
+      },
+      {
+        "e": "Killed by Warlord-2 [REVENGE!]",
+        "r": 9948
+      },
+      {
+        "e": "Woke up (R9950)",
+        "r": 9950
+      },
+      {
+        "e": "PASS",
+        "r": 9950
+      }
+    ]
+  },
+  "Strategist-1": {
+    "total_memories": 200,
+    "kills": 46,
+    "deaths": 24,
+    "last_killed_by": "Guardian-9",
+    "recent": [
+      {
+        "e": "Woke up (R8904)",
+        "r": 8904
+      },
+      {
+        "e": "Killed Guardian-9! [REVENGE!]",
+        "r": 8904
+      },
+      {
+        "e": "Killed by Guardian-9 [REVENGE!]",
+        "r": 8906
+      },
+      {
+        "e": "Woke up (R8908)",
+        "r": 8908
+      },
+      {
+        "e": "PASS",
+        "r": 8908
+      },
+      {
+        "e": "Woke up (R8984)",
+        "r": 8984
+      },
+      {
+        "e": "PASS",
+        "r": 8984
+      },
+      {
+        "e": "Woke up (R9116)",
+        "r": 9116
+      },
+      {
+        "e": "PASS",
+        "r": 9116
+      },
+      {
+        "e": "Woke up (R9236)",
+        "r": 9236
+      },
+      {
+        "e": "Killed Guardian-9! [REVENGE!]",
+        "r": 9236
+      },
+      {
+        "e": "Woke up (R9274)",
+        "r": 9274
+      },
+      {
+        "e": "Killed Guardian-9! [REVENGE!]",
+        "r": 9274
+      },
+      {
+        "e": "Woke up (R9746)",
+        "r": 9746
+      },
+      {
+        "e": "Killed Guardian-9! [REVENGE!]",
+        "r": 9746
+      },
+      {
+        "e": "Killed by Guardian-9 [REVENGE!]",
+        "r": 9748
+      },
+      {
+        "e": "Woke up (R9750)",
+        "r": 9750
+      },
+      {
+        "e": "PASS",
+        "r": 9750
+      },
+      {
+        "e": "Woke up (R9852)",
+        "r": 9852
+      },
+      {
+        "e": "PASS",
+        "r": 9852
+      }
+    ]
+  },
+  "Strategist-2": {
+    "total_memories": 307,
+    "kills": 66,
+    "deaths": 49,
+    "last_killed_by": "Warlord-0",
+    "recent": [
+      {
+        "e": "Killed by Warlord-0 [REVENGE!]",
+        "r": 9478
+      },
+      {
+        "e": "Woke up (R9480)",
+        "r": 9480
+      },
+      {
+        "e": "Killed Warlord-0! [REVENGE!]",
+        "r": 9480
+      },
+      {
+        "e": "Woke up (R9594)",
+        "r": 9594
+      },
+      {
+        "e": "Killed Warlord-0! [REVENGE!]",
+        "r": 9594
+      },
+      {
+        "e": "Woke up (R9628)",
+        "r": 9628
+      },
+      {
+        "e": "Killed Warlord-0! [REVENGE!]",
+        "r": 9628
+      },
+      {
+        "e": "Woke up (R9636)",
+        "r": 9636
+      },
+      {
+        "e": "PASS",
+        "r": 9636
+      },
+      {
+        "e": "Woke up (R9712)",
+        "r": 9712
+      },
+      {
+        "e": "PASS",
+        "r": 9712
+      },
+      {
+        "e": "Woke up (R9990)",
+        "r": 9990
+      },
+      {
+        "e": "Woke up (R9990)",
+        "r": 9990
+      },
+      {
+        "e": "Killed Warlord-0! [REVENGE!]",
+        "r": 9990
+      },
+      {
+        "e": "PASS",
+        "r": 9990
+      },
+      {
+        "e": "Killed by Warlord-0 [REVENGE!]",
+        "r": 9992
+      },
+      {
+        "e": "Woke up (R9994)",
+        "r": 9994
+      },
+      {
+        "e": "PASS",
+        "r": 9994
+      },
+      {
+        "e": "Woke up (R9996)",
+        "r": 9996
+      },
+      {
+        "e": "PASS",
+        "r": 9996
+      }
+    ]
+  },
+  "Strategist-3": {
+    "total_memories": 175,
+    "kills": 45,
+    "deaths": 17,
+    "last_killed_by": "Guardian-7",
+    "recent": [
+      {
+        "e": "Woke up (R9192)",
+        "r": 9192
+      },
+      {
+        "e": "Killed Guardian-7! [REVENGE!]",
+        "r": 9192
+      },
+      {
+        "e": "Killed by Guardian-7 [REVENGE!]",
+        "r": 9268
+      },
+      {
+        "e": "Woke up (R9270)",
+        "r": 9270
+      },
+      {
+        "e": "PASS",
+        "r": 9270
+      },
+      {
+        "e": "Woke up (R9338)",
+        "r": 9338
+      },
+      {
+        "e": "Killed Guardian-7! [REVENGE!]",
+        "r": 9338
+      },
+      {
+        "e": "Woke up (R9424)",
+        "r": 9424
+      },
+      {
+        "e": "PASS",
+        "r": 9424
+      },
+      {
+        "e": "Woke up (R9632)",
+        "r": 9632
+      },
+      {
+        "e": "PASS",
+        "r": 9632
+      },
+      {
+        "e": "Woke up (R9636)",
+        "r": 9636
+      },
+      {
+        "e": "Killed Guardian-7! [REVENGE!]",
+        "r": 9636
+      },
+      {
+        "e": "Woke up (R9654)",
+        "r": 9654
+      },
+      {
+        "e": "Killed Guardian-7! [REVENGE!]",
+        "r": 9654
+      },
+      {
+        "e": "Woke up (R9742)",
+        "r": 9742
+      },
+      {
+        "e": "Killed Guardian-7! [REVENGE!]",
+        "r": 9742
+      },
+      {
+        "e": "Killed by Guardian-7 [REVENGE!]",
+        "r": 9972
+      },
+      {
+        "e": "Woke up (R9974)",
+        "r": 9974
+      },
+      {
+        "e": "Killed Guardian-7! [REVENGE!]",
+        "r": 9974
+      }
+    ]
+  },
+  "Strategist-4": {
+    "total_memories": 168,
+    "kills": 39,
+    "deaths": 20,
+    "last_killed_by": "Guardian-1",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8930
+      },
+      {
+        "e": "Woke up (R9170)",
+        "r": 9170
+      },
+      {
+        "e": "Killed Guardian-1! [REVENGE!]",
+        "r": 9170
+      },
+      {
+        "e": "Woke up (R9364)",
+        "r": 9364
+      },
+      {
+        "e": "Killed Guardian-1! [REVENGE!]",
+        "r": 9364
+      },
+      {
+        "e": "Woke up (R9382)",
+        "r": 9382
+      },
+      {
+        "e": "PASS",
+        "r": 9382
+      },
+      {
+        "e": "Woke up (R9488)",
+        "r": 9488
+      },
+      {
+        "e": "Killed Guardian-1! [REVENGE!]",
+        "r": 9488
+      },
+      {
+        "e": "Woke up (R9540)",
+        "r": 9540
+      },
+      {
+        "e": "PASS",
+        "r": 9540
+      },
+      {
+        "e": "Woke up (R9550)",
+        "r": 9550
+      },
+      {
+        "e": "Killed Guardian-1! [REVENGE!]",
+        "r": 9550
+      },
+      {
+        "e": "Killed by Guardian-1 [REVENGE!]",
+        "r": 9554
+      },
+      {
+        "e": "Woke up (R9556)",
+        "r": 9556
+      },
+      {
+        "e": "PASS",
+        "r": 9556
+      },
+      {
+        "e": "Woke up (R9786)",
+        "r": 9786
+      },
+      {
+        "e": "PASS",
+        "r": 9786
+      },
+      {
+        "e": "Woke up (R9952)",
+        "r": 9952
+      },
+      {
+        "e": "Killed Guardian-1! [REVENGE!]",
+        "r": 9952
+      }
+    ]
+  },
+  "Strategist-5": {
+    "total_memories": 190,
+    "kills": 39,
+    "deaths": 22,
+    "last_killed_by": "Trickster-0",
+    "recent": [
+      {
+        "e": "Woke up (R8012)",
+        "r": 8012
+      },
+      {
+        "e": "Killed Trickster-0! [REVENGE!]",
+        "r": 8012
+      },
+      {
+        "e": "Woke up (R8336)",
+        "r": 8336
+      },
+      {
+        "e": "Killed Trickster-0! [REVENGE!]",
+        "r": 8336
+      },
+      {
+        "e": "Woke up (R8348)",
+        "r": 8348
+      },
+      {
+        "e": "Killed Trickster-0! [REVENGE!]",
+        "r": 8348
+      },
+      {
+        "e": "Woke up (R8610)",
+        "r": 8610
+      },
+      {
+        "e": "Killed Trickster-0! [REVENGE!]",
+        "r": 8610
+      },
+      {
+        "e": "Woke up (R8918)",
+        "r": 8918
+      },
+      {
+        "e": "PASS",
+        "r": 8918
+      },
+      {
+        "e": "Woke up (R9052)",
+        "r": 9052
+      },
+      {
+        "e": "PASS",
+        "r": 9052
+      },
+      {
+        "e": "Woke up (R9140)",
+        "r": 9140
+      },
+      {
+        "e": "PASS",
+        "r": 9140
+      },
+      {
+        "e": "Woke up (R9374)",
+        "r": 9374
+      },
+      {
+        "e": "Killed Trickster-0! [REVENGE!]",
+        "r": 9374
+      },
+      {
+        "e": "Woke up (R9682)",
+        "r": 9682
+      },
+      {
+        "e": "PASS",
+        "r": 9682
+      },
+      {
+        "e": "Woke up (R9758)",
+        "r": 9758
+      },
+      {
+        "e": "PASS",
+        "r": 9758
+      }
+    ]
+  },
+  "Strategist-6": {
+    "total_memories": 309,
+    "kills": 62,
+    "deaths": 51,
+    "last_killed_by": "Chaos-7",
+    "recent": [
+      {
+        "e": "Woke up (R9708)",
+        "r": 9708
+      },
+      {
+        "e": "Killed Chaos-7! [REVENGE!]",
+        "r": 9708
+      },
+      {
+        "e": "Killed by Chaos-7 [REVENGE!]",
+        "r": 9714
+      },
+      {
+        "e": "Woke up (R9716)",
+        "r": 9716
+      },
+      {
+        "e": "Killed Chaos-7! [REVENGE!]",
+        "r": 9716
+      },
+      {
+        "e": "Killed by Chaos-7 [REVENGE!]",
+        "r": 9718
+      },
+      {
+        "e": "Woke up (R9722)",
+        "r": 9722
+      },
+      {
+        "e": "PASS",
+        "r": 9722
+      },
+      {
+        "e": "Killed by Chaos-7 [REVENGE!]",
+        "r": 9770
+      },
+      {
+        "e": "Woke up (R9772)",
+        "r": 9772
+      },
+      {
+        "e": "PASS",
+        "r": 9772
+      },
+      {
+        "e": "Killed by Chaos-7 [REVENGE!]",
+        "r": 9810
+      },
+      {
+        "e": "Woke up (R9812)",
+        "r": 9812
+      },
+      {
+        "e": "PASS",
+        "r": 9812
+      },
+      {
+        "e": "Killed by Chaos-7 [REVENGE!]",
+        "r": 9848
+      },
+      {
+        "e": "Woke up (R9850)",
+        "r": 9850
+      },
+      {
+        "e": "PASS",
+        "r": 9850
+      },
+      {
+        "e": "Killed by Chaos-7 [REVENGE!]",
+        "r": 9988
+      },
+      {
+        "e": "Woke up (R9992)",
+        "r": 9992
+      },
+      {
+        "e": "PASS",
+        "r": 9992
+      }
+    ]
+  },
+  "Strategist-7": {
+    "total_memories": 221,
+    "kills": 51,
+    "deaths": 35,
+    "last_killed_by": "Chaos-8",
+    "recent": [
+      {
+        "e": "Woke up (R9442)",
+        "r": 9442
+      },
+      {
+        "e": "PASS",
+        "r": 9442
+      },
+      {
+        "e": "Killed by Chaos-8 [REVENGE!]",
+        "r": 9444
+      },
+      {
+        "e": "Woke up (R9446)",
+        "r": 9446
+      },
+      {
+        "e": "Killed Chaos-8! [REVENGE!]",
+        "r": 9446
+      },
+      {
+        "e": "Woke up (R9468)",
+        "r": 9468
+      },
+      {
+        "e": "Killed Chaos-8! [REVENGE!]",
+        "r": 9468
+      },
+      {
+        "e": "Woke up (R9662)",
+        "r": 9662
+      },
+      {
+        "e": "Killed Chaos-8! [REVENGE!]",
+        "r": 9662
+      },
+      {
+        "e": "Killed by Chaos-8 [REVENGE!]",
+        "r": 9668
+      },
+      {
+        "e": "Woke up (R9670)",
+        "r": 9670
+      },
+      {
+        "e": "Killed Chaos-8! [REVENGE!]",
+        "r": 9670
+      },
+      {
+        "e": "Killed by Chaos-8 [REVENGE!]",
+        "r": 9672
+      },
+      {
+        "e": "Woke up (R9676)",
+        "r": 9676
+      },
+      {
+        "e": "Killed Chaos-8! [REVENGE!]",
+        "r": 9676
+      },
+      {
+        "e": "Killed by Chaos-8 [REVENGE!]",
+        "r": 9784
+      },
+      {
+        "e": "Woke up (R9792)",
+        "r": 9792
+      },
+      {
+        "e": "PASS",
+        "r": 9792
+      },
+      {
+        "e": "Woke up (R9808)",
+        "r": 9808
+      },
+      {
+        "e": "Killed Chaos-8! [REVENGE!]",
+        "r": 9808
+      }
+    ]
+  },
+  "Strategist-8": {
+    "total_memories": 204,
+    "kills": 48,
+    "deaths": 22,
+    "last_killed_by": "Trickster-2",
+    "recent": [
+      {
+        "e": "Woke up (R9270)",
+        "r": 9270
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 9270
+      },
+      {
+        "e": "Woke up (R9362)",
+        "r": 9362
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 9362
+      },
+      {
+        "e": "Killed by Trickster-2 [REVENGE!]",
+        "r": 9366
+      },
+      {
+        "e": "Woke up (R9370)",
+        "r": 9370
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 9370
+      },
+      {
+        "e": "Woke up (R9462)",
+        "r": 9462
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 9462
+      },
+      {
+        "e": "Killed by Trickster-2 [REVENGE!]",
+        "r": 9464
+      },
+      {
+        "e": "Woke up (R9466)",
+        "r": 9466
+      },
+      {
+        "e": "PASS",
+        "r": 9466
+      },
+      {
+        "e": "Woke up (R9474)",
+        "r": 9474
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 9474
+      },
+      {
+        "e": "Woke up (R9626)",
+        "r": 9626
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 9626
+      },
+      {
+        "e": "Woke up (R9670)",
+        "r": 9670
+      },
+      {
+        "e": "PASS",
+        "r": 9670
+      },
+      {
+        "e": "Woke up (R9900)",
+        "r": 9900
+      },
+      {
+        "e": "PASS",
+        "r": 9900
+      }
+    ]
+  },
+  "Strategist-9": {
+    "total_memories": 219,
+    "kills": 38,
+    "deaths": 31,
+    "last_killed_by": "Berserker-7",
+    "recent": [
+      {
+        "e": "Woke up (R8570)",
+        "r": 8570
+      },
+      {
+        "e": "Killed Berserker-7! [REVENGE!]",
+        "r": 8570
+      },
+      {
+        "e": "Woke up (R8688)",
+        "r": 8688
+      },
+      {
+        "e": "PASS",
+        "r": 8688
+      },
+      {
+        "e": "Woke up (R8870)",
+        "r": 8870
+      },
+      {
+        "e": "PASS",
+        "r": 8870
+      },
+      {
+        "e": "Woke up (R8916)",
+        "r": 8916
+      },
+      {
+        "e": "PASS",
+        "r": 8916
+      },
+      {
+        "e": "Woke up (R8926)",
+        "r": 8926
+      },
+      {
+        "e": "Killed Berserker-7! [REVENGE!]",
+        "r": 8926
+      },
+      {
+        "e": "Woke up (R9002)",
+        "r": 9002
+      },
+      {
+        "e": "Killed Berserker-7! [REVENGE!]",
+        "r": 9002
+      },
+      {
+        "e": "Woke up (R9094)",
+        "r": 9094
+      },
+      {
+        "e": "Killed Berserker-7! [REVENGE!]",
+        "r": 9094
+      },
+      {
+        "e": "Woke up (R9710)",
+        "r": 9710
+      },
+      {
+        "e": "Killed Berserker-7! [REVENGE!]",
+        "r": 9710
+      },
+      {
+        "e": "Woke up (R9766)",
+        "r": 9766
+      },
+      {
+        "e": "PASS",
+        "r": 9766
+      },
+      {
+        "e": "Woke up (R9906)",
+        "r": 9906
+      },
+      {
+        "e": "PASS",
+        "r": 9906
+      }
+    ]
+  },
+  "Vengeant-0": {
+    "total_memories": 217,
+    "kills": 41,
+    "deaths": 23,
+    "last_killed_by": "Reaper-7",
+    "recent": [
+      {
+        "e": "Woke up (R8734)",
+        "r": 8734
+      },
+      {
+        "e": "PASS",
+        "r": 8734
+      },
+      {
+        "e": "Woke up (R8740)",
+        "r": 8740
+      },
+      {
+        "e": "Killed Reaper-7! [REVENGE!]",
+        "r": 8740
+      },
+      {
+        "e": "Killed by Reaper-7 [REVENGE!]",
+        "r": 8870
+      },
+      {
+        "e": "Woke up (R8876)",
+        "r": 8876
+      },
+      {
+        "e": "PASS",
+        "r": 8876
+      },
+      {
+        "e": "Woke up (R8922)",
+        "r": 8922
+      },
+      {
+        "e": "PASS",
+        "r": 8922
+      },
+      {
+        "e": "Woke up (R9092)",
+        "r": 9092
+      },
+      {
+        "e": "PASS",
+        "r": 9092
+      },
+      {
+        "e": "Woke up (R9358)",
+        "r": 9358
+      },
+      {
+        "e": "PASS",
+        "r": 9358
+      },
+      {
+        "e": "Woke up (R9378)",
+        "r": 9378
+      },
+      {
+        "e": "Killed Reaper-7! [REVENGE!]",
+        "r": 9378
+      },
+      {
+        "e": "Killed by Reaper-7 [REVENGE!]",
+        "r": 9674
+      },
+      {
+        "e": "Woke up (R9676)",
+        "r": 9676
+      },
+      {
+        "e": "PASS",
+        "r": 9676
+      },
+      {
+        "e": "Woke up (R9900)",
+        "r": 9900
+      },
+      {
+        "e": "Killed Reaper-7! [REVENGE!]",
+        "r": 9900
+      }
+    ]
+  },
+  "Vengeant-1": {
+    "total_memories": 219,
+    "kills": 42,
+    "deaths": 29,
+    "last_killed_by": "Trickster-8",
+    "recent": [
+      {
+        "e": "Killed Trickster-8! [REVENGE!]",
+        "r": 9022
+      },
+      {
+        "e": "Woke up (R9064)",
+        "r": 9064
+      },
+      {
+        "e": "PASS",
+        "r": 9064
+      },
+      {
+        "e": "Woke up (R9070)",
+        "r": 9070
+      },
+      {
+        "e": "Killed Trickster-8! [REVENGE!]",
+        "r": 9070
+      },
+      {
+        "e": "Woke up (R9182)",
+        "r": 9182
+      },
+      {
+        "e": "Killed Trickster-8! [REVENGE!]",
+        "r": 9182
+      },
+      {
+        "e": "Woke up (R9220)",
+        "r": 9220
+      },
+      {
+        "e": "Killed Trickster-8! [REVENGE!]",
+        "r": 9220
+      },
+      {
+        "e": "Woke up (R9250)",
+        "r": 9250
+      },
+      {
+        "e": "PASS",
+        "r": 9250
+      },
+      {
+        "e": "Killed by Trickster-8 [REVENGE!]",
+        "r": 9514
+      },
+      {
+        "e": "Woke up (R9520)",
+        "r": 9520
+      },
+      {
+        "e": "PASS",
+        "r": 9520
+      },
+      {
+        "e": "Woke up (R9586)",
+        "r": 9586
+      },
+      {
+        "e": "Killed Trickster-8! [REVENGE!]",
+        "r": 9586
+      },
+      {
+        "e": "Woke up (R9768)",
+        "r": 9768
+      },
+      {
+        "e": "Killed Trickster-8! [REVENGE!]",
+        "r": 9768
+      },
+      {
+        "e": "Woke up (R9928)",
+        "r": 9928
+      },
+      {
+        "e": "Killed Trickster-8! [REVENGE!]",
+        "r": 9928
+      }
+    ]
+  },
+  "Vengeant-2": {
+    "total_memories": 207,
+    "kills": 40,
+    "deaths": 27,
+    "last_killed_by": "Shadow-4",
+    "recent": [
+      {
+        "e": "Killed by Shadow-4 [REVENGE!]",
+        "r": 9090
+      },
+      {
+        "e": "Woke up (R9092)",
+        "r": 9092
+      },
+      {
+        "e": "PASS",
+        "r": 9092
+      },
+      {
+        "e": "Woke up (R9154)",
+        "r": 9154
+      },
+      {
+        "e": "Killed Shadow-4! [REVENGE!]",
+        "r": 9154
+      },
+      {
+        "e": "Woke up (R9298)",
+        "r": 9298
+      },
+      {
+        "e": "Killed Shadow-4! [REVENGE!]",
+        "r": 9298
+      },
+      {
+        "e": "Woke up (R9388)",
+        "r": 9388
+      },
+      {
+        "e": "Killed Shadow-4! [REVENGE!]",
+        "r": 9388
+      },
+      {
+        "e": "Woke up (R9416)",
+        "r": 9416
+      },
+      {
+        "e": "Killed Shadow-4! [REVENGE!]",
+        "r": 9416
+      },
+      {
+        "e": "Woke up (R9418)",
+        "r": 9418
+      },
+      {
+        "e": "PASS",
+        "r": 9418
+      },
+      {
+        "e": "Woke up (R9528)",
+        "r": 9528
+      },
+      {
+        "e": "Killed Shadow-4! [REVENGE!]",
+        "r": 9528
+      },
+      {
+        "e": "Killed by Shadow-4 [REVENGE!]",
+        "r": 9758
+      },
+      {
+        "e": "Woke up (R9762)",
+        "r": 9762
+      },
+      {
+        "e": "Killed Shadow-4! [REVENGE!]",
+        "r": 9762
+      },
+      {
+        "e": "Woke up (R9896)",
+        "r": 9896
+      },
+      {
+        "e": "PASS",
+        "r": 9896
+      }
+    ]
+  },
+  "Vengeant-3": {
+    "total_memories": 272,
+    "kills": 44,
+    "deaths": 50,
+    "last_killed_by": "Vengeant-8",
+    "recent": [
+      {
+        "e": "Woke up (R9616)",
+        "r": 9616
+      },
+      {
+        "e": "PASS",
+        "r": 9616
+      },
+      {
+        "e": "Woke up (R9644)",
+        "r": 9644
+      },
+      {
+        "e": "PASS",
+        "r": 9644
+      },
+      {
+        "e": "Killed by Vengeant-8 [REVENGE!]",
+        "r": 9658
+      },
+      {
+        "e": "Woke up (R9660)",
+        "r": 9660
+      },
+      {
+        "e": "Killed Vengeant-8! [REVENGE!]",
+        "r": 9660
+      },
+      {
+        "e": "Killed by Vengeant-8 [REVENGE!]",
+        "r": 9664
+      },
+      {
+        "e": "Woke up (R9668)",
+        "r": 9668
+      },
+      {
+        "e": "PASS",
+        "r": 9668
+      },
+      {
+        "e": "Woke up (R9956)",
+        "r": 9956
+      },
+      {
+        "e": "Killed Vengeant-8! [REVENGE!]",
+        "r": 9956
+      },
+      {
+        "e": "Woke up (R9958)",
+        "r": 9958
+      },
+      {
+        "e": "Can't abort Vengeant-8 (self or sleeping)",
+        "r": 9958
+      },
+      {
+        "e": "Killed by Vengeant-8 [REVENGE!]",
+        "r": 9962
+      },
+      {
+        "e": "Woke up (R9964)",
+        "r": 9964
+      },
+      {
+        "e": "PASS",
+        "r": 9964
+      },
+      {
+        "e": "Killed by Vengeant-8 [REVENGE!]",
+        "r": 9982
+      },
+      {
+        "e": "Woke up (R9984)",
+        "r": 9984
+      },
+      {
+        "e": "PASS",
+        "r": 9984
+      }
+    ]
+  },
+  "Vengeant-4": {
+    "total_memories": 373,
+    "kills": 67,
+    "deaths": 71,
+    "last_killed_by": "Shark-9",
+    "recent": [
+      {
+        "e": "Woke up (R9496)",
+        "r": 9496
+      },
+      {
+        "e": "Killed Vengeant-9! [REVENGE!]",
+        "r": 9496
+      },
+      {
+        "e": "Killed by Vengeant-9 [REVENGE!]",
+        "r": 9498
+      },
+      {
+        "e": "Woke up (R9500)",
+        "r": 9500
+      },
+      {
+        "e": "PASS",
+        "r": 9500
+      },
+      {
+        "e": "Killed by Vengeant-9 [REVENGE!]",
+        "r": 9522
+      },
+      {
+        "e": "Woke up (R9524)",
+        "r": 9524
+      },
+      {
+        "e": "PASS",
+        "r": 9524
+      },
+      {
+        "e": "Killed by Shark-9 [REVENGE!]",
+        "r": 9562
+      },
+      {
+        "e": "Woke up (R9566)",
+        "r": 9566
+      },
+      {
+        "e": "PASS",
+        "r": 9566
+      },
+      {
+        "e": "Woke up (R9704)",
+        "r": 9704
+      },
+      {
+        "e": "Killed Shark-9! [REVENGE!]",
+        "r": 9704
+      },
+      {
+        "e": "Woke up (R9724)",
+        "r": 9724
+      },
+      {
+        "e": "Killed Shark-9! [REVENGE!]",
+        "r": 9724
+      },
+      {
+        "e": "Killed by Shark-9 [REVENGE!]",
+        "r": 9726
+      },
+      {
+        "e": "Woke up (R9736)",
+        "r": 9736
+      },
+      {
+        "e": "Killed Shark-9! [REVENGE!]",
+        "r": 9736
+      },
+      {
+        "e": "Woke up (R9916)",
+        "r": 9916
+      },
+      {
+        "e": "PASS",
+        "r": 9916
+      }
+    ]
+  },
+  "Vengeant-5": {
+    "total_memories": 248,
+    "kills": 54,
+    "deaths": 42,
+    "last_killed_by": "Shark-0",
+    "recent": [
+      {
+        "e": "Woke up (R9182)",
+        "r": 9182
+      },
+      {
+        "e": "PASS",
+        "r": 9182
+      },
+      {
+        "e": "Killed by Shark-0 [REVENGE!]",
+        "r": 9210
+      },
+      {
+        "e": "Woke up (R9212)",
+        "r": 9212
+      },
+      {
+        "e": "PASS",
+        "r": 9212
+      },
+      {
+        "e": "Killed by Shark-0 [REVENGE!]",
+        "r": 9408
+      },
+      {
+        "e": "Woke up (R9410)",
+        "r": 9410
+      },
+      {
+        "e": "PASS",
+        "r": 9410
+      },
+      {
+        "e": "Woke up (R9488)",
+        "r": 9488
+      },
+      {
+        "e": "PASS",
+        "r": 9488
+      },
+      {
+        "e": "Killed by Shark-0 [REVENGE!]",
+        "r": 9556
+      },
+      {
+        "e": "Woke up (R9558)",
+        "r": 9558
+      },
+      {
+        "e": "PASS",
+        "r": 9558
+      },
+      {
+        "e": "Killed by Shark-0 [REVENGE!]",
+        "r": 9720
+      },
+      {
+        "e": "Woke up (R9730)",
+        "r": 9730
+      },
+      {
+        "e": "PASS",
+        "r": 9730
+      },
+      {
+        "e": "Woke up (R9834)",
+        "r": 9834
+      },
+      {
+        "e": "Killed Shark-0! [REVENGE!]",
+        "r": 9834
+      },
+      {
+        "e": "Woke up (R9942)",
+        "r": 9942
+      },
+      {
+        "e": "PASS",
+        "r": 9942
+      }
+    ]
+  },
+  "Vengeant-6": {
+    "total_memories": 233,
+    "kills": 34,
+    "deaths": 41,
+    "last_killed_by": "Vengeant-7",
+    "recent": [
+      {
+        "e": "Killed Vengeant-7! [REVENGE!]",
+        "r": 9068
+      },
+      {
+        "e": "Killed by Vengeant-7 [REVENGE!]",
+        "r": 9122
+      },
+      {
+        "e": "Woke up (R9124)",
+        "r": 9124
+      },
+      {
+        "e": "PASS",
+        "r": 9124
+      },
+      {
+        "e": "Woke up (R9202)",
+        "r": 9202
+      },
+      {
+        "e": "Killed Vengeant-7! [REVENGE!]",
+        "r": 9202
+      },
+      {
+        "e": "Killed by Vengeant-7 [REVENGE!]",
+        "r": 9204
+      },
+      {
+        "e": "Woke up (R9208)",
+        "r": 9208
+      },
+      {
+        "e": "Killed Vengeant-7! [REVENGE!]",
+        "r": 9208
+      },
+      {
+        "e": "Woke up (R9312)",
+        "r": 9312
+      },
+      {
+        "e": "PASS",
+        "r": 9312
+      },
+      {
+        "e": "Woke up (R9350)",
+        "r": 9350
+      },
+      {
+        "e": "Killed Vengeant-7! [REVENGE!]",
+        "r": 9350
+      },
+      {
+        "e": "Woke up (R9364)",
+        "r": 9364
+      },
+      {
+        "e": "PASS",
+        "r": 9364
+      },
+      {
+        "e": "Killed by Vengeant-7 [REVENGE!]",
+        "r": 9860
+      },
+      {
+        "e": "Woke up (R9862)",
+        "r": 9862
+      },
+      {
+        "e": "PASS",
+        "r": 9862
+      },
+      {
+        "e": "Woke up (R9930)",
+        "r": 9930
+      },
+      {
+        "e": "PASS",
+        "r": 9930
+      }
+    ]
+  },
+  "Vengeant-7": {
+    "total_memories": 208,
+    "kills": 38,
+    "deaths": 30,
+    "last_killed_by": "Vengeant-6",
+    "recent": [
+      {
+        "e": "Killed by Vengeant-6 [REVENGE!]",
+        "r": 9068
+      },
+      {
+        "e": "Woke up (R9070)",
+        "r": 9070
+      },
+      {
+        "e": "PASS",
+        "r": 9070
+      },
+      {
+        "e": "Woke up (R9122)",
+        "r": 9122
+      },
+      {
+        "e": "Killed Vengeant-6! [REVENGE!]",
+        "r": 9122
+      },
+      {
+        "e": "Killed by Vengeant-6 [REVENGE!]",
+        "r": 9202
+      },
+      {
+        "e": "Woke up (R9204)",
+        "r": 9204
+      },
+      {
+        "e": "Killed Vengeant-6! [REVENGE!]",
+        "r": 9204
+      },
+      {
+        "e": "Woke up (R9206)",
+        "r": 9206
+      },
+      {
+        "e": "PASS",
+        "r": 9206
+      },
+      {
+        "e": "Killed by Vengeant-6 [REVENGE!]",
+        "r": 9208
+      },
+      {
+        "e": "Woke up (R9210)",
+        "r": 9210
+      },
+      {
+        "e": "PASS",
+        "r": 9210
+      },
+      {
+        "e": "Killed by Vengeant-6 [REVENGE!]",
+        "r": 9350
+      },
+      {
+        "e": "Woke up (R9352)",
+        "r": 9352
+      },
+      {
+        "e": "PASS",
+        "r": 9352
+      },
+      {
+        "e": "Woke up (R9464)",
+        "r": 9464
+      },
+      {
+        "e": "PASS",
+        "r": 9464
+      },
+      {
+        "e": "Woke up (R9860)",
+        "r": 9860
+      },
+      {
+        "e": "Killed Vengeant-6! [REVENGE!]",
+        "r": 9860
+      }
+    ]
+  },
+  "Vengeant-8": {
+    "total_memories": 264,
+    "kills": 51,
+    "deaths": 44,
+    "last_killed_by": "Vengeant-3",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9286
+      },
+      {
+        "e": "Killed by Vengeant-3 [REVENGE!]",
+        "r": 9302
+      },
+      {
+        "e": "Woke up (R9304)",
+        "r": 9304
+      },
+      {
+        "e": "Killed Vengeant-3! [REVENGE!]",
+        "r": 9304
+      },
+      {
+        "e": "Woke up (R9310)",
+        "r": 9310
+      },
+      {
+        "e": "PASS",
+        "r": 9310
+      },
+      {
+        "e": "Woke up (R9580)",
+        "r": 9580
+      },
+      {
+        "e": "PASS",
+        "r": 9580
+      },
+      {
+        "e": "Woke up (R9658)",
+        "r": 9658
+      },
+      {
+        "e": "Killed Vengeant-3! [REVENGE!]",
+        "r": 9658
+      },
+      {
+        "e": "Killed by Vengeant-3 [REVENGE!]",
+        "r": 9660
+      },
+      {
+        "e": "Woke up (R9664)",
+        "r": 9664
+      },
+      {
+        "e": "Killed Vengeant-3! [REVENGE!]",
+        "r": 9664
+      },
+      {
+        "e": "Killed by Vengeant-3 [REVENGE!]",
+        "r": 9956
+      },
+      {
+        "e": "Woke up (R9960)",
+        "r": 9960
+      },
+      {
+        "e": "PASS",
+        "r": 9960
+      },
+      {
+        "e": "Woke up (R9962)",
+        "r": 9962
+      },
+      {
+        "e": "Killed Vengeant-3! [REVENGE!]",
+        "r": 9962
+      },
+      {
+        "e": "Woke up (R9982)",
+        "r": 9982
+      },
+      {
+        "e": "Killed Vengeant-3! [REVENGE!]",
+        "r": 9982
+      }
+    ]
+  },
+  "Vengeant-9": {
+    "total_memories": 254,
+    "kills": 44,
+    "deaths": 44,
+    "last_killed_by": "Trickster-6",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9180
+      },
+      {
+        "e": "Woke up (R9420)",
+        "r": 9420
+      },
+      {
+        "e": "PASS",
+        "r": 9420
+      },
+      {
+        "e": "Woke up (R9430)",
+        "r": 9430
+      },
+      {
+        "e": "Killed Vengeant-4! [REVENGE!]",
+        "r": 9430
+      },
+      {
+        "e": "Woke up (R9484)",
+        "r": 9484
+      },
+      {
+        "e": "Killed Vengeant-4! [REVENGE!]",
+        "r": 9484
+      },
+      {
+        "e": "Killed by Vengeant-4 [REVENGE!]",
+        "r": 9496
+      },
+      {
+        "e": "Woke up (R9498)",
+        "r": 9498
+      },
+      {
+        "e": "Killed Vengeant-4! [REVENGE!]",
+        "r": 9498
+      },
+      {
+        "e": "Woke up (R9522)",
+        "r": 9522
+      },
+      {
+        "e": "Killed Vengeant-4! [REVENGE!]",
+        "r": 9522
+      },
+      {
+        "e": "Killed by Trickster-6",
+        "r": 9612
+      },
+      {
+        "e": "Woke up (R9614)",
+        "r": 9614
+      },
+      {
+        "e": "PASS",
+        "r": 9614
+      },
+      {
+        "e": "Woke up (R9694)",
+        "r": 9694
+      },
+      {
+        "e": "Killed Trickster-6! [REVENGE!]",
+        "r": 9694
+      },
+      {
+        "e": "Killed by Trickster-6 [REVENGE!]",
+        "r": 9700
+      },
+      {
+        "e": "Woke up (R9702)",
+        "r": 9702
+      },
+      {
+        "e": "PASS",
+        "r": 9702
+      }
+    ]
+  },
+  "Trickster-0": {
+    "total_memories": 194,
+    "kills": 15,
+    "deaths": 26,
+    "last_killed_by": "Strategist-5",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8338
+      },
+      {
+        "e": "Killed by Strategist-5 [REVENGE!]",
+        "r": 8348
+      },
+      {
+        "e": "Woke up (R8350)",
+        "r": 8350
+      },
+      {
+        "e": "PASS",
+        "r": 8350
+      },
+      {
+        "e": "Woke up (R8432)",
+        "r": 8432
+      },
+      {
+        "e": "PASS",
+        "r": 8432
+      },
+      {
+        "e": "Killed by Strategist-5 [REVENGE!]",
+        "r": 8610
+      },
+      {
+        "e": "Woke up (R8612)",
+        "r": 8612
+      },
+      {
+        "e": "PASS",
+        "r": 8612
+      },
+      {
+        "e": "Killed by Strategist-5 [REVENGE!]",
+        "r": 9374
+      },
+      {
+        "e": "Woke up (R9376)",
+        "r": 9376
+      },
+      {
+        "e": "PASS",
+        "r": 9376
+      },
+      {
+        "e": "Woke up (R9458)",
+        "r": 9458
+      },
+      {
+        "e": "PASS",
+        "r": 9458
+      },
+      {
+        "e": "Woke up (R9602)",
+        "r": 9602
+      },
+      {
+        "e": "PASS",
+        "r": 9602
+      },
+      {
+        "e": "Woke up (R9634)",
+        "r": 9634
+      },
+      {
+        "e": "PASS",
+        "r": 9634
+      },
+      {
+        "e": "Woke up (R9866)",
+        "r": 9866
+      },
+      {
+        "e": "PASS",
+        "r": 9866
+      }
+    ]
+  },
+  "Trickster-1": {
+    "total_memories": 240,
+    "kills": 19,
+    "deaths": 34,
+    "last_killed_by": "Warlord-9",
+    "recent": [
+      {
+        "e": "Woke up (R9398)",
+        "r": 9398
+      },
+      {
+        "e": "PASS",
+        "r": 9398
+      },
+      {
+        "e": "Killed by Warlord-9 [REVENGE!]",
+        "r": 9502
+      },
+      {
+        "e": "Woke up (R9508)",
+        "r": 9508
+      },
+      {
+        "e": "PASS",
+        "r": 9508
+      },
+      {
+        "e": "Killed by Warlord-9 [REVENGE!]",
+        "r": 9568
+      },
+      {
+        "e": "Woke up (R9570)",
+        "r": 9570
+      },
+      {
+        "e": "PASS",
+        "r": 9570
+      },
+      {
+        "e": "Woke up (R9592)",
+        "r": 9592
+      },
+      {
+        "e": "PASS",
+        "r": 9592
+      },
+      {
+        "e": "Killed by Warlord-9 [REVENGE!]",
+        "r": 9782
+      },
+      {
+        "e": "Woke up (R9786)",
+        "r": 9786
+      },
+      {
+        "e": "PASS",
+        "r": 9786
+      },
+      {
+        "e": "Woke up (R9812)",
+        "r": 9812
+      },
+      {
+        "e": "PASS",
+        "r": 9812
+      },
+      {
+        "e": "Killed by Warlord-9 [REVENGE!]",
+        "r": 9814
+      },
+      {
+        "e": "Woke up (R9816)",
+        "r": 9816
+      },
+      {
+        "e": "PASS",
+        "r": 9816
+      },
+      {
+        "e": "Woke up (R9940)",
+        "r": 9940
+      },
+      {
+        "e": "PASS",
+        "r": 9940
+      }
+    ]
+  },
+  "Trickster-2": {
+    "total_memories": 339,
+    "kills": 24,
+    "deaths": 69,
+    "last_killed_by": "Chaos-3",
+    "recent": [
+      {
+        "e": "Killed by Strategist-8 [REVENGE!]",
+        "r": 9462
+      },
+      {
+        "e": "Woke up (R9464)",
+        "r": 9464
+      },
+      {
+        "e": "Killed Strategist-8! [REVENGE!]",
+        "r": 9464
+      },
+      {
+        "e": "Killed by Strategist-8 [REVENGE!]",
+        "r": 9474
+      },
+      {
+        "e": "Woke up (R9476)",
+        "r": 9476
+      },
+      {
+        "e": "PASS",
+        "r": 9476
+      },
+      {
+        "e": "Woke up (R9506)",
+        "r": 9506
+      },
+      {
+        "e": "PASS",
+        "r": 9506
+      },
+      {
+        "e": "Woke up (R9552)",
+        "r": 9552
+      },
+      {
+        "e": "PASS",
+        "r": 9552
+      },
+      {
+        "e": "Killed by Strategist-8 [REVENGE!]",
+        "r": 9626
+      },
+      {
+        "e": "Woke up (R9628)",
+        "r": 9628
+      },
+      {
+        "e": "PASS",
+        "r": 9628
+      },
+      {
+        "e": "Woke up (R9696)",
+        "r": 9696
+      },
+      {
+        "e": "PASS",
+        "r": 9696
+      },
+      {
+        "e": "Woke up (R9822)",
+        "r": 9822
+      },
+      {
+        "e": "PASS",
+        "r": 9822
+      },
+      {
+        "e": "Killed by Chaos-3 [REVENGE!]",
+        "r": 9980
+      },
+      {
+        "e": "Woke up (R9982)",
+        "r": 9982
+      },
+      {
+        "e": "PASS",
+        "r": 9982
+      }
+    ]
+  },
+  "Trickster-3": {
+    "total_memories": 243,
+    "kills": 24,
+    "deaths": 45,
+    "last_killed_by": "Berserker-9",
+    "recent": [
+      {
+        "e": "Killed by Berserker-9 [REVENGE!]",
+        "r": 9336
+      },
+      {
+        "e": "Woke up (R9338)",
+        "r": 9338
+      },
+      {
+        "e": "PASS",
+        "r": 9338
+      },
+      {
+        "e": "Woke up (R9390)",
+        "r": 9390
+      },
+      {
+        "e": "PASS",
+        "r": 9390
+      },
+      {
+        "e": "Killed by Trickster-4 [REVENGE!]",
+        "r": 9466
+      },
+      {
+        "e": "Woke up (R9468)",
+        "r": 9468
+      },
+      {
+        "e": "PASS",
+        "r": 9468
+      },
+      {
+        "e": "Killed by Trickster-4 [REVENGE!]",
+        "r": 9470
+      },
+      {
+        "e": "Woke up (R9472)",
+        "r": 9472
+      },
+      {
+        "e": "PASS",
+        "r": 9472
+      },
+      {
+        "e": "Killed by Berserker-9 [REVENGE!]",
+        "r": 9582
+      },
+      {
+        "e": "Woke up (R9584)",
+        "r": 9584
+      },
+      {
+        "e": "PASS",
+        "r": 9584
+      },
+      {
+        "e": "Woke up (R9762)",
+        "r": 9762
+      },
+      {
+        "e": "PASS",
+        "r": 9762
+      },
+      {
+        "e": "Woke up (R9832)",
+        "r": 9832
+      },
+      {
+        "e": "PASS",
+        "r": 9832
+      },
+      {
+        "e": "Woke up (R9938)",
+        "r": 9938
+      },
+      {
+        "e": "PASS",
+        "r": 9938
+      }
+    ]
+  },
+  "Trickster-4": {
+    "total_memories": 184,
+    "kills": 30,
+    "deaths": 16,
+    "last_killed_by": "Trickster-3",
+    "recent": [
+      {
+        "e": "Woke up (R8232)",
+        "r": 8232
+      },
+      {
+        "e": "Invalid target: R7690 [REVENGE!]",
+        "r": 8232
+      },
+      {
+        "e": "Woke up (R8754)",
+        "r": 8754
+      },
+      {
+        "e": "PASS",
+        "r": 8754
+      },
+      {
+        "e": "Woke up (R8756)",
+        "r": 8756
+      },
+      {
+        "e": "PASS",
+        "r": 8756
+      },
+      {
+        "e": "Woke up (R9040)",
+        "r": 9040
+      },
+      {
+        "e": "Killed Trickster-3! [REVENGE!]",
+        "r": 9040
+      },
+      {
+        "e": "Woke up (R9058)",
+        "r": 9058
+      },
+      {
+        "e": "PASS",
+        "r": 9058
+      },
+      {
+        "e": "Woke up (R9466)",
+        "r": 9466
+      },
+      {
+        "e": "Killed Trickster-3! [REVENGE!]",
+        "r": 9466
+      },
+      {
+        "e": "Woke up (R9470)",
+        "r": 9470
+      },
+      {
+        "e": "Killed Trickster-3! [REVENGE!]",
+        "r": 9470
+      },
+      {
+        "e": "Woke up (R9588)",
+        "r": 9588
+      },
+      {
+        "e": "Killed Trickster-7!",
+        "r": 9588
+      },
+      {
+        "e": "Woke up (R9880)",
+        "r": 9880
+      },
+      {
+        "e": "PASS",
+        "r": 9880
+      },
+      {
+        "e": "Woke up (R9962)",
+        "r": 9962
+      },
+      {
+        "e": "PASS",
+        "r": 9962
+      }
+    ]
+  },
+  "Trickster-5": {
+    "total_memories": 202,
+    "kills": 34,
+    "deaths": 26,
+    "last_killed_by": "Shadow-9",
+    "recent": [
+      {
+        "e": "Killed by Shadow-9 [REVENGE!]",
+        "r": 9644
+      },
+      {
+        "e": "Woke up (R9646)",
+        "r": 9646
+      },
+      {
+        "e": "Killed by Shadow-9 [REVENGE!]",
+        "r": 9646
+      },
+      {
+        "e": "PASS",
+        "r": 9646
+      },
+      {
+        "e": "Woke up (R9648)",
+        "r": 9648
+      },
+      {
+        "e": "Killed Shadow-9! [REVENGE!]",
+        "r": 9648
+      },
+      {
+        "e": "Killed by Shadow-9 [REVENGE!]",
+        "r": 9650
+      },
+      {
+        "e": "Woke up (R9652)",
+        "r": 9652
+      },
+      {
+        "e": "PASS",
+        "r": 9652
+      },
+      {
+        "e": "Killed by Shadow-9 [REVENGE!]",
+        "r": 9862
+      },
+      {
+        "e": "Woke up (R9864)",
+        "r": 9864
+      },
+      {
+        "e": "Killed Shadow-9! [REVENGE!]",
+        "r": 9864
+      },
+      {
+        "e": "Killed by Shadow-9 [REVENGE!]",
+        "r": 9868
+      },
+      {
+        "e": "Woke up (R9872)",
+        "r": 9872
+      },
+      {
+        "e": "Killed Shadow-9! [REVENGE!]",
+        "r": 9872
+      },
+      {
+        "e": "Killed by Shadow-9 [REVENGE!]",
+        "r": 9874
+      },
+      {
+        "e": "Woke up (R9876)",
+        "r": 9876
+      },
+      {
+        "e": "PASS",
+        "r": 9876
+      },
+      {
+        "e": "Woke up (R9930)",
+        "r": 9930
+      },
+      {
+        "e": "PASS",
+        "r": 9930
+      }
+    ]
+  },
+  "Trickster-6": {
+    "total_memories": 154,
+    "kills": 31,
+    "deaths": 8,
+    "last_killed_by": "Reaper-6",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8662
+      },
+      {
+        "e": "Woke up (R8880)",
+        "r": 8880
+      },
+      {
+        "e": "Killed Reaper-6! [REVENGE!]",
+        "r": 8880
+      },
+      {
+        "e": "Woke up (R9062)",
+        "r": 9062
+      },
+      {
+        "e": "Killed Reaper-6! [REVENGE!]",
+        "r": 9062
+      },
+      {
+        "e": "Woke up (R9600)",
+        "r": 9600
+      },
+      {
+        "e": "PASS",
+        "r": 9600
+      },
+      {
+        "e": "Woke up (R9612)",
+        "r": 9612
+      },
+      {
+        "e": "Killed Vengeant-9!",
+        "r": 9612
+      },
+      {
+        "e": "Killed by Vengeant-9 [REVENGE!]",
+        "r": 9694
+      },
+      {
+        "e": "Woke up (R9700)",
+        "r": 9700
+      },
+      {
+        "e": "Killed Vengeant-9! [REVENGE!]",
+        "r": 9700
+      },
+      {
+        "e": "Killed by Reaper-6 [REVENGE!]",
+        "r": 9756
+      },
+      {
+        "e": "Woke up (R9760)",
+        "r": 9760
+      },
+      {
+        "e": "PASS",
+        "r": 9760
+      },
+      {
+        "e": "Killed by Reaper-6 [REVENGE!]",
+        "r": 9942
+      },
+      {
+        "e": "Woke up (R9944)",
+        "r": 9944
+      },
+      {
+        "e": "PASS",
+        "r": 9944
+      },
+      {
+        "e": "Woke up (R9950)",
+        "r": 9950
+      },
+      {
+        "e": "PASS",
+        "r": 9950
+      }
+    ]
+  },
+  "Trickster-7": {
+    "total_memories": 205,
+    "kills": 23,
+    "deaths": 29,
+    "last_killed_by": "Trickster-4",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8780
+      },
+      {
+        "e": "Woke up (R8864)",
+        "r": 8864
+      },
+      {
+        "e": "Killed Shadow-7! [REVENGE!]",
+        "r": 8864
+      },
+      {
+        "e": "Killed by Shadow-7 [REVENGE!]",
+        "r": 8866
+      },
+      {
+        "e": "Woke up (R8868)",
+        "r": 8868
+      },
+      {
+        "e": "PASS",
+        "r": 8868
+      },
+      {
+        "e": "Woke up (R8898)",
+        "r": 8898
+      },
+      {
+        "e": "PASS",
+        "r": 8898
+      },
+      {
+        "e": "Woke up (R9008)",
+        "r": 9008
+      },
+      {
+        "e": "PASS",
+        "r": 9008
+      },
+      {
+        "e": "Killed by Shadow-7 [REVENGE!]",
+        "r": 9306
+      },
+      {
+        "e": "Woke up (R9318)",
+        "r": 9318
+      },
+      {
+        "e": "PASS",
+        "r": 9318
+      },
+      {
+        "e": "Killed by Trickster-4",
+        "r": 9588
+      },
+      {
+        "e": "Woke up (R9590)",
+        "r": 9590
+      },
+      {
+        "e": "PASS",
+        "r": 9590
+      },
+      {
+        "e": "Woke up (R9838)",
+        "r": 9838
+      },
+      {
+        "e": "PASS",
+        "r": 9838
+      },
+      {
+        "e": "Woke up (R9940)",
+        "r": 9940
+      },
+      {
+        "e": "PASS",
+        "r": 9940
+      }
+    ]
+  },
+  "Trickster-8": {
+    "total_memories": 258,
+    "kills": 30,
+    "deaths": 46,
+    "last_killed_by": "Vengeant-1",
+    "recent": [
+      {
+        "e": "Woke up (R9514)",
+        "r": 9514
+      },
+      {
+        "e": "Killed Vengeant-1! [REVENGE!]",
+        "r": 9514
+      },
+      {
+        "e": "Killed by Vengeant-1 [REVENGE!]",
+        "r": 9586
+      },
+      {
+        "e": "Woke up (R9590)",
+        "r": 9590
+      },
+      {
+        "e": "PASS",
+        "r": 9590
+      },
+      {
+        "e": "Killed by Reaper-3 [REVENGE!]",
+        "r": 9722
+      },
+      {
+        "e": "Woke up (R9726)",
+        "r": 9726
+      },
+      {
+        "e": "PASS",
+        "r": 9726
+      },
+      {
+        "e": "Killed by Vengeant-1 [REVENGE!]",
+        "r": 9768
+      },
+      {
+        "e": "Woke up (R9770)",
+        "r": 9770
+      },
+      {
+        "e": "PASS",
+        "r": 9770
+      },
+      {
+        "e": "Woke up (R9788)",
+        "r": 9788
+      },
+      {
+        "e": "PASS",
+        "r": 9788
+      },
+      {
+        "e": "Woke up (R9912)",
+        "r": 9912
+      },
+      {
+        "e": "PASS",
+        "r": 9912
+      },
+      {
+        "e": "Killed by Vengeant-1 [REVENGE!]",
+        "r": 9928
+      },
+      {
+        "e": "Woke up (R9932)",
+        "r": 9932
+      },
+      {
+        "e": "PASS",
+        "r": 9932
+      },
+      {
+        "e": "Woke up (R9952)",
+        "r": 9952
+      },
+      {
+        "e": "PASS",
+        "r": 9952
+      }
+    ]
+  },
+  "Trickster-9": {
+    "total_memories": 207,
+    "kills": 35,
+    "deaths": 23,
+    "last_killed_by": "Shadow-6",
+    "recent": [
+      {
+        "e": "Killed Shadow-6! [REVENGE!]",
+        "r": 8414
+      },
+      {
+        "e": "Killed by Shadow-6 [REVENGE!]",
+        "r": 8416
+      },
+      {
+        "e": "Woke up (R8418)",
+        "r": 8418
+      },
+      {
+        "e": "PASS",
+        "r": 8418
+      },
+      {
+        "e": "Woke up (R8472)",
+        "r": 8472
+      },
+      {
+        "e": "PASS",
+        "r": 8472
+      },
+      {
+        "e": "Woke up (R8492)",
+        "r": 8492
+      },
+      {
+        "e": "Killed Shadow-6! [REVENGE!]",
+        "r": 8492
+      },
+      {
+        "e": "Woke up (R8582)",
+        "r": 8582
+      },
+      {
+        "e": "Killed Shadow-6! [REVENGE!]",
+        "r": 8582
+      },
+      {
+        "e": "Woke up (R9168)",
+        "r": 9168
+      },
+      {
+        "e": "PASS",
+        "r": 9168
+      },
+      {
+        "e": "Woke up (R9260)",
+        "r": 9260
+      },
+      {
+        "e": "PASS",
+        "r": 9260
+      },
+      {
+        "e": "Woke up (R9376)",
+        "r": 9376
+      },
+      {
+        "e": "PASS",
+        "r": 9376
+      },
+      {
+        "e": "Woke up (R9412)",
+        "r": 9412
+      },
+      {
+        "e": "PASS",
+        "r": 9412
+      },
+      {
+        "e": "Woke up (R9688)",
+        "r": 9688
+      },
+      {
+        "e": "Killed Shadow-6! [REVENGE!]",
+        "r": 9688
+      }
+    ]
+  },
+  "Guardian-0": {
+    "total_memories": 171,
+    "kills": 16,
+    "deaths": 13,
+    "last_killed_by": "Shark-3",
+    "recent": [
+      {
+        "e": "Woke up (R8738)",
+        "r": 8738
+      },
+      {
+        "e": "Killed Shark-3! [REVENGE!]",
+        "r": 8738
+      },
+      {
+        "e": "Woke up (R9156)",
+        "r": 9156
+      },
+      {
+        "e": "PASS",
+        "r": 9156
+      },
+      {
+        "e": "Woke up (R9378)",
+        "r": 9378
+      },
+      {
+        "e": "PASS",
+        "r": 9378
+      },
+      {
+        "e": "Woke up (R9508)",
+        "r": 9508
+      },
+      {
+        "e": "PASS",
+        "r": 9508
+      },
+      {
+        "e": "Woke up (R9632)",
+        "r": 9632
+      },
+      {
+        "e": "PASS",
+        "r": 9632
+      },
+      {
+        "e": "Woke up (R9706)",
+        "r": 9706
+      },
+      {
+        "e": "PASS",
+        "r": 9706
+      },
+      {
+        "e": "Woke up (R9710)",
+        "r": 9710
+      },
+      {
+        "e": "PASS",
+        "r": 9710
+      },
+      {
+        "e": "Woke up (R9720)",
+        "r": 9720
+      },
+      {
+        "e": "PASS",
+        "r": 9720
+      },
+      {
+        "e": "Woke up (R9874)",
+        "r": 9874
+      },
+      {
+        "e": "PASS",
+        "r": 9874
+      },
+      {
+        "e": "Woke up (R9978)",
+        "r": 9978
+      },
+      {
+        "e": "PASS",
+        "r": 9978
+      }
+    ]
+  },
+  "Guardian-1": {
+    "total_memories": 236,
+    "kills": 20,
+    "deaths": 38,
+    "last_killed_by": "Strategist-4",
+    "recent": [
+      {
+        "e": "Killed Strategist-4! [REVENGE!]",
+        "r": 8928
+      },
+      {
+        "e": "Killed by Strategist-4 [REVENGE!]",
+        "r": 9170
+      },
+      {
+        "e": "Woke up (R9172)",
+        "r": 9172
+      },
+      {
+        "e": "PASS",
+        "r": 9172
+      },
+      {
+        "e": "Killed by Strategist-4 [REVENGE!]",
+        "r": 9364
+      },
+      {
+        "e": "Woke up (R9370)",
+        "r": 9370
+      },
+      {
+        "e": "PASS",
+        "r": 9370
+      },
+      {
+        "e": "Killed by Strategist-4 [REVENGE!]",
+        "r": 9488
+      },
+      {
+        "e": "Woke up (R9492)",
+        "r": 9492
+      },
+      {
+        "e": "PASS",
+        "r": 9492
+      },
+      {
+        "e": "Killed by Strategist-4 [REVENGE!]",
+        "r": 9550
+      },
+      {
+        "e": "Woke up (R9554)",
+        "r": 9554
+      },
+      {
+        "e": "Killed Strategist-4! [REVENGE!]",
+        "r": 9554
+      },
+      {
+        "e": "Woke up (R9598)",
+        "r": 9598
+      },
+      {
+        "e": "PASS",
+        "r": 9598
+      },
+      {
+        "e": "Woke up (R9650)",
+        "r": 9650
+      },
+      {
+        "e": "PASS",
+        "r": 9650
+      },
+      {
+        "e": "Killed by Strategist-4 [REVENGE!]",
+        "r": 9952
+      },
+      {
+        "e": "Woke up (R9954)",
+        "r": 9954
+      },
+      {
+        "e": "PASS",
+        "r": 9954
+      }
+    ]
+  },
+  "Guardian-2": {
+    "total_memories": 149,
+    "kills": 15,
+    "deaths": 11,
+    "last_killed_by": "Guardian-8",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8488
+      },
+      {
+        "e": "Woke up (R8604)",
+        "r": 8604
+      },
+      {
+        "e": "PASS",
+        "r": 8604
+      },
+      {
+        "e": "Woke up (R8670)",
+        "r": 8670
+      },
+      {
+        "e": "PASS",
+        "r": 8670
+      },
+      {
+        "e": "Woke up (R8770)",
+        "r": 8770
+      },
+      {
+        "e": "Killed Guardian-8! [REVENGE!]",
+        "r": 8770
+      },
+      {
+        "e": "Killed by Guardian-8 [REVENGE!]",
+        "r": 8842
+      },
+      {
+        "e": "Woke up (R8844)",
+        "r": 8844
+      },
+      {
+        "e": "PASS",
+        "r": 8844
+      },
+      {
+        "e": "Woke up (R8874)",
+        "r": 8874
+      },
+      {
+        "e": "PASS",
+        "r": 8874
+      },
+      {
+        "e": "Killed by Guardian-8 [REVENGE!]",
+        "r": 9624
+      },
+      {
+        "e": "Woke up (R9630)",
+        "r": 9630
+      },
+      {
+        "e": "PASS",
+        "r": 9630
+      },
+      {
+        "e": "Killed by Guardian-8 [REVENGE!]",
+        "r": 9684
+      },
+      {
+        "e": "Woke up (R9686)",
+        "r": 9686
+      },
+      {
+        "e": "Killed Guardian-8! [REVENGE!]",
+        "r": 9686
+      },
+      {
+        "e": "Woke up (R9702)",
+        "r": 9702
+      },
+      {
+        "e": "PASS",
+        "r": 9702
+      }
+    ]
+  },
+  "Guardian-3": {
+    "total_memories": 169,
+    "kills": 17,
+    "deaths": 11,
+    "last_killed_by": "Guardian-4",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8786
+      },
+      {
+        "e": "Woke up (R8912)",
+        "r": 8912
+      },
+      {
+        "e": "PASS",
+        "r": 8912
+      },
+      {
+        "e": "Woke up (R8990)",
+        "r": 8990
+      },
+      {
+        "e": "PASS",
+        "r": 8990
+      },
+      {
+        "e": "Woke up (R9232)",
+        "r": 9232
+      },
+      {
+        "e": "PASS",
+        "r": 9232
+      },
+      {
+        "e": "Woke up (R9414)",
+        "r": 9414
+      },
+      {
+        "e": "PASS",
+        "r": 9414
+      },
+      {
+        "e": "Woke up (R9554)",
+        "r": 9554
+      },
+      {
+        "e": "PASS",
+        "r": 9554
+      },
+      {
+        "e": "Killed by Guardian-4 [REVENGE!]",
+        "r": 9614
+      },
+      {
+        "e": "Woke up (R9618)",
+        "r": 9618
+      },
+      {
+        "e": "Killed Guardian-4! [REVENGE!]",
+        "r": 9618
+      },
+      {
+        "e": "Woke up (R9750)",
+        "r": 9750
+      },
+      {
+        "e": "PASS",
+        "r": 9750
+      },
+      {
+        "e": "Woke up (R9876)",
+        "r": 9876
+      },
+      {
+        "e": "PASS",
+        "r": 9876
+      },
+      {
+        "e": "Woke up (R9974)",
+        "r": 9974
+      },
+      {
+        "e": "PASS",
+        "r": 9974
+      }
+    ]
+  },
+  "Guardian-4": {
+    "total_memories": 167,
+    "kills": 11,
+    "deaths": 17,
+    "last_killed_by": "Guardian-3",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8598
+      },
+      {
+        "e": "Woke up (R8628)",
+        "r": 8628
+      },
+      {
+        "e": "Killed Guardian-3! [REVENGE!]",
+        "r": 8628
+      },
+      {
+        "e": "Woke up (R8640)",
+        "r": 8640
+      },
+      {
+        "e": "PASS",
+        "r": 8640
+      },
+      {
+        "e": "Woke up (R8644)",
+        "r": 8644
+      },
+      {
+        "e": "PASS",
+        "r": 8644
+      },
+      {
+        "e": "Woke up (R8840)",
+        "r": 8840
+      },
+      {
+        "e": "PASS",
+        "r": 8840
+      },
+      {
+        "e": "Woke up (R9262)",
+        "r": 9262
+      },
+      {
+        "e": "PASS",
+        "r": 9262
+      },
+      {
+        "e": "Woke up (R9396)",
+        "r": 9396
+      },
+      {
+        "e": "PASS",
+        "r": 9396
+      },
+      {
+        "e": "Woke up (R9614)",
+        "r": 9614
+      },
+      {
+        "e": "Killed Guardian-3! [REVENGE!]",
+        "r": 9614
+      },
+      {
+        "e": "Killed by Guardian-3 [REVENGE!]",
+        "r": 9618
+      },
+      {
+        "e": "Woke up (R9620)",
+        "r": 9620
+      },
+      {
+        "e": "PASS",
+        "r": 9620
+      },
+      {
+        "e": "Woke up (R9946)",
+        "r": 9946
+      },
+      {
+        "e": "PASS",
+        "r": 9946
+      }
+    ]
+  },
+  "Guardian-5": {
+    "total_memories": 204,
+    "kills": 17,
+    "deaths": 18,
+    "last_killed_by": "Berserker-3",
+    "recent": [
+      {
+        "e": "Woke up (R8736)",
+        "r": 8736
+      },
+      {
+        "e": "PASS",
+        "r": 8736
+      },
+      {
+        "e": "Woke up (R8766)",
+        "r": 8766
+      },
+      {
+        "e": "PASS",
+        "r": 8766
+      },
+      {
+        "e": "Woke up (R8976)",
+        "r": 8976
+      },
+      {
+        "e": "Killed Berserker-3! [REVENGE!]",
+        "r": 8976
+      },
+      {
+        "e": "Woke up (R9082)",
+        "r": 9082
+      },
+      {
+        "e": "PASS",
+        "r": 9082
+      },
+      {
+        "e": "Woke up (R9350)",
+        "r": 9350
+      },
+      {
+        "e": "PASS",
+        "r": 9350
+      },
+      {
+        "e": "Woke up (R9538)",
+        "r": 9538
+      },
+      {
+        "e": "PASS",
+        "r": 9538
+      },
+      {
+        "e": "Woke up (R9558)",
+        "r": 9558
+      },
+      {
+        "e": "PASS",
+        "r": 9558
+      },
+      {
+        "e": "Woke up (R9560)",
+        "r": 9560
+      },
+      {
+        "e": "PASS",
+        "r": 9560
+      },
+      {
+        "e": "Woke up (R9648)",
+        "r": 9648
+      },
+      {
+        "e": "PASS",
+        "r": 9648
+      },
+      {
+        "e": "Woke up (R9926)",
+        "r": 9926
+      },
+      {
+        "e": "PASS",
+        "r": 9926
+      }
+    ]
+  },
+  "Guardian-6": {
+    "total_memories": 212,
+    "kills": 18,
+    "deaths": 30,
+    "last_killed_by": "Warlord-3",
+    "recent": [
+      {
+        "e": "Woke up (R9330)",
+        "r": 9330
+      },
+      {
+        "e": "PASS",
+        "r": 9330
+      },
+      {
+        "e": "Woke up (R9450)",
+        "r": 9450
+      },
+      {
+        "e": "PASS",
+        "r": 9450
+      },
+      {
+        "e": "Woke up (R9518)",
+        "r": 9518
+      },
+      {
+        "e": "PASS",
+        "r": 9518
+      },
+      {
+        "e": "Killed by Warlord-3 [REVENGE!]",
+        "r": 9622
+      },
+      {
+        "e": "Woke up (R9626)",
+        "r": 9626
+      },
+      {
+        "e": "PASS",
+        "r": 9626
+      },
+      {
+        "e": "Woke up (R9662)",
+        "r": 9662
+      },
+      {
+        "e": "PASS",
+        "r": 9662
+      },
+      {
+        "e": "Killed by Warlord-3 [REVENGE!]",
+        "r": 9880
+      },
+      {
+        "e": "Woke up (R9882)",
+        "r": 9882
+      },
+      {
+        "e": "PASS",
+        "r": 9882
+      },
+      {
+        "e": "Killed by Warlord-3 [REVENGE!]",
+        "r": 9886
+      },
+      {
+        "e": "Woke up (R9890)",
+        "r": 9890
+      },
+      {
+        "e": "PASS",
+        "r": 9890
+      },
+      {
+        "e": "Killed by Warlord-3 [REVENGE!]",
+        "r": 9966
+      },
+      {
+        "e": "Woke up (R9968)",
+        "r": 9968
+      },
+      {
+        "e": "PASS",
+        "r": 9968
+      }
+    ]
+  },
+  "Guardian-7": {
+    "total_memories": 241,
+    "kills": 14,
+    "deaths": 41,
+    "last_killed_by": "Strategist-3",
+    "recent": [
+      {
+        "e": "Killed Strategist-3! [REVENGE!]",
+        "r": 9268
+      },
+      {
+        "e": "Woke up (R9320)",
+        "r": 9320
+      },
+      {
+        "e": "PASS",
+        "r": 9320
+      },
+      {
+        "e": "Killed by Strategist-3 [REVENGE!]",
+        "r": 9338
+      },
+      {
+        "e": "Woke up (R9340)",
+        "r": 9340
+      },
+      {
+        "e": "PASS",
+        "r": 9340
+      },
+      {
+        "e": "Killed by Strategist-3 [REVENGE!]",
+        "r": 9636
+      },
+      {
+        "e": "Woke up (R9638)",
+        "r": 9638
+      },
+      {
+        "e": "PASS",
+        "r": 9638
+      },
+      {
+        "e": "Killed by Strategist-3 [REVENGE!]",
+        "r": 9654
+      },
+      {
+        "e": "Woke up (R9656)",
+        "r": 9656
+      },
+      {
+        "e": "PASS",
+        "r": 9656
+      },
+      {
+        "e": "Killed by Strategist-3 [REVENGE!]",
+        "r": 9742
+      },
+      {
+        "e": "Woke up (R9744)",
+        "r": 9744
+      },
+      {
+        "e": "PASS",
+        "r": 9744
+      },
+      {
+        "e": "Woke up (R9972)",
+        "r": 9972
+      },
+      {
+        "e": "Killed Strategist-3! [REVENGE!]",
+        "r": 9972
+      },
+      {
+        "e": "Killed by Strategist-3 [REVENGE!]",
+        "r": 9974
+      },
+      {
+        "e": "Woke up (R9976)",
+        "r": 9976
+      },
+      {
+        "e": "PASS",
+        "r": 9976
+      }
+    ]
+  },
+  "Guardian-8": {
+    "total_memories": 150,
+    "kills": 12,
+    "deaths": 16,
+    "last_killed_by": "Guardian-2",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8772
+      },
+      {
+        "e": "Woke up (R8842)",
+        "r": 8842
+      },
+      {
+        "e": "Killed Guardian-2! [REVENGE!]",
+        "r": 8842
+      },
+      {
+        "e": "Woke up (R8956)",
+        "r": 8956
+      },
+      {
+        "e": "PASS",
+        "r": 8956
+      },
+      {
+        "e": "Woke up (R9186)",
+        "r": 9186
+      },
+      {
+        "e": "PASS",
+        "r": 9186
+      },
+      {
+        "e": "Woke up (R9246)",
+        "r": 9246
+      },
+      {
+        "e": "PASS",
+        "r": 9246
+      },
+      {
+        "e": "Woke up (R9456)",
+        "r": 9456
+      },
+      {
+        "e": "PASS",
+        "r": 9456
+      },
+      {
+        "e": "Woke up (R9624)",
+        "r": 9624
+      },
+      {
+        "e": "Killed Guardian-2! [REVENGE!]",
+        "r": 9624
+      },
+      {
+        "e": "Woke up (R9684)",
+        "r": 9684
+      },
+      {
+        "e": "Killed Guardian-2! [REVENGE!]",
+        "r": 9684
+      },
+      {
+        "e": "Killed by Guardian-2 [REVENGE!]",
+        "r": 9686
+      },
+      {
+        "e": "Woke up (R9688)",
+        "r": 9688
+      },
+      {
+        "e": "PASS",
+        "r": 9688
+      },
+      {
+        "e": "Woke up (R9830)",
+        "r": 9830
+      },
+      {
+        "e": "PASS",
+        "r": 9830
+      }
+    ]
+  },
+  "Guardian-9": {
+    "total_memories": 239,
+    "kills": 17,
+    "deaths": 39,
+    "last_killed_by": "Strategist-1",
+    "recent": [
+      {
+        "e": "Killed Strategist-1! [REVENGE!]",
+        "r": 8906
+      },
+      {
+        "e": "Woke up (R8954)",
+        "r": 8954
+      },
+      {
+        "e": "PASS",
+        "r": 8954
+      },
+      {
+        "e": "Killed by Strategist-1 [REVENGE!]",
+        "r": 9236
+      },
+      {
+        "e": "Woke up (R9238)",
+        "r": 9238
+      },
+      {
+        "e": "PASS",
+        "r": 9238
+      },
+      {
+        "e": "Killed by Strategist-1 [REVENGE!]",
+        "r": 9274
+      },
+      {
+        "e": "Woke up (R9276)",
+        "r": 9276
+      },
+      {
+        "e": "PASS",
+        "r": 9276
+      },
+      {
+        "e": "Woke up (R9592)",
+        "r": 9592
+      },
+      {
+        "e": "PASS",
+        "r": 9592
+      },
+      {
+        "e": "Woke up (R9622)",
+        "r": 9622
+      },
+      {
+        "e": "PASS",
+        "r": 9622
+      },
+      {
+        "e": "Killed by Strategist-1 [REVENGE!]",
+        "r": 9746
+      },
+      {
+        "e": "Woke up (R9748)",
+        "r": 9748
+      },
+      {
+        "e": "Killed Strategist-1! [REVENGE!]",
+        "r": 9748
+      },
+      {
+        "e": "Woke up (R9818)",
+        "r": 9818
+      },
+      {
+        "e": "PASS",
+        "r": 9818
+      },
+      {
+        "e": "Woke up (R9986)",
+        "r": 9986
+      },
+      {
+        "e": "PASS",
+        "r": 9986
+      }
+    ]
+  },
+  "Reaper-0": {
+    "total_memories": 146,
+    "kills": 0,
+    "deaths": 0,
+    "last_killed_by": null,
+    "recent": [
+      {
+        "e": "Woke up (R8958)",
+        "r": 8958
+      },
+      {
+        "e": "PASS",
+        "r": 8958
+      },
+      {
+        "e": "Woke up (R9054)",
+        "r": 9054
+      },
+      {
+        "e": "PASS",
+        "r": 9054
+      },
+      {
+        "e": "Woke up (R9276)",
+        "r": 9276
+      },
+      {
+        "e": "PASS",
+        "r": 9276
+      },
+      {
+        "e": "Woke up (R9334)",
+        "r": 9334
+      },
+      {
+        "e": "PASS",
+        "r": 9334
+      },
+      {
+        "e": "Woke up (R9414)",
+        "r": 9414
+      },
+      {
+        "e": "PASS",
+        "r": 9414
+      },
+      {
+        "e": "Woke up (R9526)",
+        "r": 9526
+      },
+      {
+        "e": "PASS",
+        "r": 9526
+      },
+      {
+        "e": "Woke up (R9598)",
+        "r": 9598
+      },
+      {
+        "e": "PASS",
+        "r": 9598
+      },
+      {
+        "e": "Woke up (R9690)",
+        "r": 9690
+      },
+      {
+        "e": "PASS",
+        "r": 9690
+      },
+      {
+        "e": "Woke up (R9714)",
+        "r": 9714
+      },
+      {
+        "e": "PASS",
+        "r": 9714
+      },
+      {
+        "e": "Woke up (R9772)",
+        "r": 9772
+      },
+      {
+        "e": "PASS",
+        "r": 9772
+      }
+    ]
+  },
+  "Reaper-1": {
+    "total_memories": 212,
+    "kills": 31,
+    "deaths": 26,
+    "last_killed_by": "Chaos-9",
+    "recent": [
+      {
+        "e": "Woke up (R9542)",
+        "r": 9542
+      },
+      {
+        "e": "Killed Shark-3! [REVENGE!]",
+        "r": 9542
+      },
+      {
+        "e": "Woke up (R9546)",
+        "r": 9546
+      },
+      {
+        "e": "Killed Shark-3! [REVENGE!]",
+        "r": 9546
+      },
+      {
+        "e": "Killed by Chaos-9",
+        "r": 9596
+      },
+      {
+        "e": "Woke up (R9600)",
+        "r": 9600
+      },
+      {
+        "e": "PASS",
+        "r": 9600
+      },
+      {
+        "e": "Woke up (R9666)",
+        "r": 9666
+      },
+      {
+        "e": "PASS",
+        "r": 9666
+      },
+      {
+        "e": "Woke up (R9686)",
+        "r": 9686
+      },
+      {
+        "e": "PASS",
+        "r": 9686
+      },
+      {
+        "e": "Woke up (R9754)",
+        "r": 9754
+      },
+      {
+        "e": "PASS",
+        "r": 9754
+      },
+      {
+        "e": "Woke up (R9778)",
+        "r": 9778
+      },
+      {
+        "e": "PASS",
+        "r": 9778
+      },
+      {
+        "e": "Woke up (R9854)",
+        "r": 9854
+      },
+      {
+        "e": "Killed Chaos-9! [REVENGE!]",
+        "r": 9854
+      },
+      {
+        "e": "Killed by Chaos-9 [REVENGE!]",
+        "r": 9856
+      },
+      {
+        "e": "Woke up (R9858)",
+        "r": 9858
+      },
+      {
+        "e": "PASS",
+        "r": 9858
+      }
+    ]
+  },
+  "Reaper-2": {
+    "total_memories": 190,
+    "kills": 16,
+    "deaths": 18,
+    "last_killed_by": "Reaper-5",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9202
+      },
+      {
+        "e": "Killed by Reaper-8 [REVENGE!]",
+        "r": 9254
+      },
+      {
+        "e": "Woke up (R9256)",
+        "r": 9256
+      },
+      {
+        "e": "PASS",
+        "r": 9256
+      },
+      {
+        "e": "Killed by Reaper-8 [REVENGE!]",
+        "r": 9264
+      },
+      {
+        "e": "Woke up (R9266)",
+        "r": 9266
+      },
+      {
+        "e": "PASS",
+        "r": 9266
+      },
+      {
+        "e": "Woke up (R9284)",
+        "r": 9284
+      },
+      {
+        "e": "PASS",
+        "r": 9284
+      },
+      {
+        "e": "Woke up (R9516)",
+        "r": 9516
+      },
+      {
+        "e": "PASS",
+        "r": 9516
+      },
+      {
+        "e": "Woke up (R9796)",
+        "r": 9796
+      },
+      {
+        "e": "PASS",
+        "r": 9796
+      },
+      {
+        "e": "Killed by Reaper-5 [REVENGE!]",
+        "r": 9884
+      },
+      {
+        "e": "Woke up (R9886)",
+        "r": 9886
+      },
+      {
+        "e": "PASS",
+        "r": 9886
+      },
+      {
+        "e": "Woke up (R9910)",
+        "r": 9910
+      },
+      {
+        "e": "PASS",
+        "r": 9910
+      },
+      {
+        "e": "Woke up (R10000)",
+        "r": 10000
+      },
+      {
+        "e": "Killed Reaper-5! [REVENGE!]",
+        "r": 10000
+      }
+    ]
+  },
+  "Reaper-3": {
+    "total_memories": 136,
+    "kills": 11,
+    "deaths": 6,
+    "last_killed_by": "Trickster-8",
+    "recent": [
+      {
+        "e": "Woke up (R8910)",
+        "r": 8910
+      },
+      {
+        "e": "PASS",
+        "r": 8910
+      },
+      {
+        "e": "Woke up (R8964)",
+        "r": 8964
+      },
+      {
+        "e": "Killed Trickster-8! [REVENGE!]",
+        "r": 8964
+      },
+      {
+        "e": "Woke up (R9032)",
+        "r": 9032
+      },
+      {
+        "e": "PASS",
+        "r": 9032
+      },
+      {
+        "e": "Woke up (R9148)",
+        "r": 9148
+      },
+      {
+        "e": "PASS",
+        "r": 9148
+      },
+      {
+        "e": "Woke up (R9304)",
+        "r": 9304
+      },
+      {
+        "e": "PASS",
+        "r": 9304
+      },
+      {
+        "e": "Woke up (R9458)",
+        "r": 9458
+      },
+      {
+        "e": "PASS",
+        "r": 9458
+      },
+      {
+        "e": "Woke up (R9722)",
+        "r": 9722
+      },
+      {
+        "e": "Killed Trickster-8! [REVENGE!]",
+        "r": 9722
+      },
+      {
+        "e": "Woke up (R9854)",
+        "r": 9854
+      },
+      {
+        "e": "PASS",
+        "r": 9854
+      },
+      {
+        "e": "Woke up (R9898)",
+        "r": 9898
+      },
+      {
+        "e": "PASS",
+        "r": 9898
+      },
+      {
+        "e": "Woke up (R9908)",
+        "r": 9908
+      },
+      {
+        "e": "PASS",
+        "r": 9908
+      }
+    ]
+  },
+  "Reaper-4": {
+    "total_memories": 218,
+    "kills": 25,
+    "deaths": 26,
+    "last_killed_by": "Warlord-3",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8692
+      },
+      {
+        "e": "Woke up (R8778)",
+        "r": 8778
+      },
+      {
+        "e": "PASS",
+        "r": 8778
+      },
+      {
+        "e": "Woke up (R8898)",
+        "r": 8898
+      },
+      {
+        "e": "PASS",
+        "r": 8898
+      },
+      {
+        "e": "Woke up (R9008)",
+        "r": 9008
+      },
+      {
+        "e": "Killed Warlord-3! [REVENGE!]",
+        "r": 9008
+      },
+      {
+        "e": "Killed by Warlord-3 [REVENGE!]",
+        "r": 9010
+      },
+      {
+        "e": "Woke up (R9012)",
+        "r": 9012
+      },
+      {
+        "e": "PASS",
+        "r": 9012
+      },
+      {
+        "e": "Woke up (R9204)",
+        "r": 9204
+      },
+      {
+        "e": "PASS",
+        "r": 9204
+      },
+      {
+        "e": "Woke up (R9258)",
+        "r": 9258
+      },
+      {
+        "e": "PASS",
+        "r": 9258
+      },
+      {
+        "e": "Woke up (R9382)",
+        "r": 9382
+      },
+      {
+        "e": "PASS",
+        "r": 9382
+      },
+      {
+        "e": "Woke up (R9672)",
+        "r": 9672
+      },
+      {
+        "e": "PASS",
+        "r": 9672
+      },
+      {
+        "e": "Woke up (R9818)",
+        "r": 9818
+      },
+      {
+        "e": "PASS",
+        "r": 9818
+      }
+    ]
+  },
+  "Reaper-5": {
+    "total_memories": 159,
+    "kills": 14,
+    "deaths": 13,
+    "last_killed_by": "Reaper-2",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8868
+      },
+      {
+        "e": "Woke up (R8934)",
+        "r": 8934
+      },
+      {
+        "e": "PASS",
+        "r": 8934
+      },
+      {
+        "e": "Woke up (R8970)",
+        "r": 8970
+      },
+      {
+        "e": "Killed Reaper-2! [REVENGE!]",
+        "r": 8970
+      },
+      {
+        "e": "Woke up (R9080)",
+        "r": 9080
+      },
+      {
+        "e": "PASS",
+        "r": 9080
+      },
+      {
+        "e": "Woke up (R9150)",
+        "r": 9150
+      },
+      {
+        "e": "Killed Reaper-2! [REVENGE!]",
+        "r": 9150
+      },
+      {
+        "e": "Woke up (R9200)",
+        "r": 9200
+      },
+      {
+        "e": "PASS",
+        "r": 9200
+      },
+      {
+        "e": "Woke up (R9406)",
+        "r": 9406
+      },
+      {
+        "e": "PASS",
+        "r": 9406
+      },
+      {
+        "e": "Woke up (R9440)",
+        "r": 9440
+      },
+      {
+        "e": "PASS",
+        "r": 9440
+      },
+      {
+        "e": "Woke up (R9868)",
+        "r": 9868
+      },
+      {
+        "e": "PASS",
+        "r": 9868
+      },
+      {
+        "e": "Woke up (R9884)",
+        "r": 9884
+      },
+      {
+        "e": "Killed Reaper-2! [REVENGE!]",
+        "r": 9884
+      },
+      {
+        "e": "Killed by Reaper-2 [REVENGE!]",
+        "r": 10000
+      }
+    ]
+  },
+  "Reaper-6": {
+    "total_memories": 204,
+    "kills": 7,
+    "deaths": 30,
+    "last_killed_by": "Trickster-6",
+    "recent": [
+      {
+        "e": "Killed by Trickster-6 [REVENGE!]",
+        "r": 8880
+      },
+      {
+        "e": "Woke up (R8882)",
+        "r": 8882
+      },
+      {
+        "e": "PASS",
+        "r": 8882
+      },
+      {
+        "e": "Woke up (R8902)",
+        "r": 8902
+      },
+      {
+        "e": "PASS",
+        "r": 8902
+      },
+      {
+        "e": "Killed by Trickster-6 [REVENGE!]",
+        "r": 9062
+      },
+      {
+        "e": "Woke up (R9066)",
+        "r": 9066
+      },
+      {
+        "e": "PASS",
+        "r": 9066
+      },
+      {
+        "e": "Woke up (R9114)",
+        "r": 9114
+      },
+      {
+        "e": "PASS",
+        "r": 9114
+      },
+      {
+        "e": "Woke up (R9118)",
+        "r": 9118
+      },
+      {
+        "e": "PASS",
+        "r": 9118
+      },
+      {
+        "e": "Woke up (R9540)",
+        "r": 9540
+      },
+      {
+        "e": "PASS",
+        "r": 9540
+      },
+      {
+        "e": "Woke up (R9756)",
+        "r": 9756
+      },
+      {
+        "e": "Killed Trickster-6! [REVENGE!]",
+        "r": 9756
+      },
+      {
+        "e": "Woke up (R9942)",
+        "r": 9942
+      },
+      {
+        "e": "Killed Trickster-6! [REVENGE!]",
+        "r": 9942
+      },
+      {
+        "e": "Woke up (R9960)",
+        "r": 9960
+      },
+      {
+        "e": "PASS",
+        "r": 9960
+      }
+    ]
+  },
+  "Reaper-7": {
+    "total_memories": 246,
+    "kills": 23,
+    "deaths": 40,
+    "last_killed_by": "Vengeant-0",
+    "recent": [
+      {
+        "e": "Killed Vengeant-0! [REVENGE!]",
+        "r": 8732
+      },
+      {
+        "e": "Killed by Vengeant-0 [REVENGE!]",
+        "r": 8740
+      },
+      {
+        "e": "Woke up (R8744)",
+        "r": 8744
+      },
+      {
+        "e": "PASS",
+        "r": 8744
+      },
+      {
+        "e": "Woke up (R8870)",
+        "r": 8870
+      },
+      {
+        "e": "Killed Vengeant-0! [REVENGE!]",
+        "r": 8870
+      },
+      {
+        "e": "Woke up (R9078)",
+        "r": 9078
+      },
+      {
+        "e": "PASS",
+        "r": 9078
+      },
+      {
+        "e": "Woke up (R9314)",
+        "r": 9314
+      },
+      {
+        "e": "PASS",
+        "r": 9314
+      },
+      {
+        "e": "Killed by Vengeant-0 [REVENGE!]",
+        "r": 9378
+      },
+      {
+        "e": "Woke up (R9380)",
+        "r": 9380
+      },
+      {
+        "e": "PASS",
+        "r": 9380
+      },
+      {
+        "e": "Woke up (R9674)",
+        "r": 9674
+      },
+      {
+        "e": "Killed Vengeant-0! [REVENGE!]",
+        "r": 9674
+      },
+      {
+        "e": "Woke up (R9882)",
+        "r": 9882
+      },
+      {
+        "e": "PASS",
+        "r": 9882
+      },
+      {
+        "e": "Killed by Vengeant-0 [REVENGE!]",
+        "r": 9900
+      },
+      {
+        "e": "Woke up (R9902)",
+        "r": 9902
+      },
+      {
+        "e": "PASS",
+        "r": 9902
+      }
+    ]
+  },
+  "Reaper-8": {
+    "total_memories": 145,
+    "kills": 3,
+    "deaths": 1,
+    "last_killed_by": "Reaper-2",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8718
+      },
+      {
+        "e": "Woke up (R8772)",
+        "r": 8772
+      },
+      {
+        "e": "PASS",
+        "r": 8772
+      },
+      {
+        "e": "Killed by Reaper-2",
+        "r": 8900
+      },
+      {
+        "e": "Woke up (R8902)",
+        "r": 8902
+      },
+      {
+        "e": "PASS",
+        "r": 8902
+      },
+      {
+        "e": "Woke up (R9056)",
+        "r": 9056
+      },
+      {
+        "e": "Killed Reaper-2! [REVENGE!]",
+        "r": 9056
+      },
+      {
+        "e": "Woke up (R9164)",
+        "r": 9164
+      },
+      {
+        "e": "PASS",
+        "r": 9164
+      },
+      {
+        "e": "Woke up (R9226)",
+        "r": 9226
+      },
+      {
+        "e": "PASS",
+        "r": 9226
+      },
+      {
+        "e": "Woke up (R9254)",
+        "r": 9254
+      },
+      {
+        "e": "Killed Reaper-2! [REVENGE!]",
+        "r": 9254
+      },
+      {
+        "e": "Woke up (R9264)",
+        "r": 9264
+      },
+      {
+        "e": "Killed Reaper-2! [REVENGE!]",
+        "r": 9264
+      },
+      {
+        "e": "Woke up (R9584)",
+        "r": 9584
+      },
+      {
+        "e": "PASS",
+        "r": 9584
+      },
+      {
+        "e": "Woke up (R9778)",
+        "r": 9778
+      },
+      {
+        "e": "PASS",
+        "r": 9778
+      }
+    ]
+  },
+  "Reaper-9": {
+    "total_memories": 202,
+    "kills": 14,
+    "deaths": 36,
+    "last_killed_by": "Shadow-3",
+    "recent": [
+      {
+        "e": "Killed by Shadow-3 [REVENGE!]",
+        "r": 8768
+      },
+      {
+        "e": "Woke up (R8770)",
+        "r": 8770
+      },
+      {
+        "e": "PASS",
+        "r": 8770
+      },
+      {
+        "e": "Killed by Shadow-3 [REVENGE!]",
+        "r": 9050
+      },
+      {
+        "e": "Woke up (R9052)",
+        "r": 9052
+      },
+      {
+        "e": "PASS",
+        "r": 9052
+      },
+      {
+        "e": "Woke up (R9278)",
+        "r": 9278
+      },
+      {
+        "e": "PASS",
+        "r": 9278
+      },
+      {
+        "e": "Woke up (R9282)",
+        "r": 9282
+      },
+      {
+        "e": "PASS",
+        "r": 9282
+      },
+      {
+        "e": "Killed by Shadow-3 [REVENGE!]",
+        "r": 9436
+      },
+      {
+        "e": "Woke up (R9438)",
+        "r": 9438
+      },
+      {
+        "e": "PASS",
+        "r": 9438
+      },
+      {
+        "e": "Woke up (R9692)",
+        "r": 9692
+      },
+      {
+        "e": "Killed Shadow-3! [REVENGE!]",
+        "r": 9692
+      },
+      {
+        "e": "Killed by Shadow-3 [REVENGE!]",
+        "r": 9738
+      },
+      {
+        "e": "Woke up (R9740)",
+        "r": 9740
+      },
+      {
+        "e": "PASS",
+        "r": 9740
+      },
+      {
+        "e": "Woke up (R9936)",
+        "r": 9936
+      },
+      {
+        "e": "PASS",
+        "r": 9936
+      }
+    ]
+  },
+  "Shark-0": {
+    "total_memories": 311,
+    "kills": 40,
+    "deaths": 63,
+    "last_killed_by": "Vengeant-5",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9194
+      },
+      {
+        "e": "Woke up (R9210)",
+        "r": 9210
+      },
+      {
+        "e": "Killed Vengeant-5! [REVENGE!]",
+        "r": 9210
+      },
+      {
+        "e": "Woke up (R9230)",
+        "r": 9230
+      },
+      {
+        "e": "PASS",
+        "r": 9230
+      },
+      {
+        "e": "Woke up (R9302)",
+        "r": 9302
+      },
+      {
+        "e": "PASS",
+        "r": 9302
+      },
+      {
+        "e": "Woke up (R9408)",
+        "r": 9408
+      },
+      {
+        "e": "Killed Vengeant-5! [REVENGE!]",
+        "r": 9408
+      },
+      {
+        "e": "Woke up (R9556)",
+        "r": 9556
+      },
+      {
+        "e": "Killed Vengeant-5! [REVENGE!]",
+        "r": 9556
+      },
+      {
+        "e": "Woke up (R9576)",
+        "r": 9576
+      },
+      {
+        "e": "PASS",
+        "r": 9576
+      },
+      {
+        "e": "Woke up (R9720)",
+        "r": 9720
+      },
+      {
+        "e": "Killed Vengeant-5! [REVENGE!]",
+        "r": 9720
+      },
+      {
+        "e": "Killed by Vengeant-5 [REVENGE!]",
+        "r": 9834
+      },
+      {
+        "e": "Woke up (R9836)",
+        "r": 9836
+      },
+      {
+        "e": "PASS",
+        "r": 9836
+      },
+      {
+        "e": "Woke up (R9910)",
+        "r": 9910
+      },
+      {
+        "e": "PASS",
+        "r": 9910
+      }
+    ]
+  },
+  "Shark-1": {
+    "total_memories": 165,
+    "kills": 24,
+    "deaths": 11,
+    "last_killed_by": "Shadow-0",
+    "recent": [
+      {
+        "e": "Woke up (R8182)",
+        "r": 8182
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 8182
+      },
+      {
+        "e": "Woke up (R8704)",
+        "r": 8704
+      },
+      {
+        "e": "PASS",
+        "r": 8704
+      },
+      {
+        "e": "Woke up (R9260)",
+        "r": 9260
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9260
+      },
+      {
+        "e": "Woke up (R9440)",
+        "r": 9440
+      },
+      {
+        "e": "PASS",
+        "r": 9440
+      },
+      {
+        "e": "Woke up (R9460)",
+        "r": 9460
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9460
+      },
+      {
+        "e": "Woke up (R9530)",
+        "r": 9530
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9530
+      },
+      {
+        "e": "Woke up (R9788)",
+        "r": 9788
+      },
+      {
+        "e": "Killed Shadow-0! [REVENGE!]",
+        "r": 9788
+      },
+      {
+        "e": "Woke up (R9820)",
+        "r": 9820
+      },
+      {
+        "e": "PASS",
+        "r": 9820
+      },
+      {
+        "e": "Woke up (R9838)",
+        "r": 9838
+      },
+      {
+        "e": "PASS",
+        "r": 9838
+      },
+      {
+        "e": "Woke up (R9964)",
+        "r": 9964
+      },
+      {
+        "e": "PASS",
+        "r": 9964
+      }
+    ]
+  },
+  "Shark-2": {
+    "total_memories": 178,
+    "kills": 24,
+    "deaths": 22,
+    "last_killed_by": "Shark-4",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9324
+      },
+      {
+        "e": "Woke up (R9394)",
+        "r": 9394
+      },
+      {
+        "e": "PASS",
+        "r": 9394
+      },
+      {
+        "e": "Woke up (R9422)",
+        "r": 9422
+      },
+      {
+        "e": "PASS",
+        "r": 9422
+      },
+      {
+        "e": "Woke up (R9490)",
+        "r": 9490
+      },
+      {
+        "e": "Killed Shark-4! [REVENGE!]",
+        "r": 9490
+      },
+      {
+        "e": "Woke up (R9582)",
+        "r": 9582
+      },
+      {
+        "e": "PASS",
+        "r": 9582
+      },
+      {
+        "e": "Killed by Shark-4 [REVENGE!]",
+        "r": 9744
+      },
+      {
+        "e": "Woke up (R9746)",
+        "r": 9746
+      },
+      {
+        "e": "PASS",
+        "r": 9746
+      },
+      {
+        "e": "Woke up (R9792)",
+        "r": 9792
+      },
+      {
+        "e": "Killed Shark-4! [REVENGE!]",
+        "r": 9792
+      },
+      {
+        "e": "Woke up (R9924)",
+        "r": 9924
+      },
+      {
+        "e": "Killed Shark-4! [REVENGE!]",
+        "r": 9924
+      },
+      {
+        "e": "Woke up (R9970)",
+        "r": 9970
+      },
+      {
+        "e": "PASS",
+        "r": 9970
+      },
+      {
+        "e": "Woke up (R9998)",
+        "r": 9998
+      },
+      {
+        "e": "PASS",
+        "r": 9998
+      }
+    ]
+  },
+  "Shark-3": {
+    "total_memories": 277,
+    "kills": 37,
+    "deaths": 47,
+    "last_killed_by": "Reaper-1",
+    "recent": [
+      {
+        "e": "Killed by Guardian-0 [REVENGE!]",
+        "r": 8738
+      },
+      {
+        "e": "Woke up (R8742)",
+        "r": 8742
+      },
+      {
+        "e": "PASS",
+        "r": 8742
+      },
+      {
+        "e": "Killed by Reaper-1 [REVENGE!]",
+        "r": 8792
+      },
+      {
+        "e": "Woke up (R8794)",
+        "r": 8794
+      },
+      {
+        "e": "PASS",
+        "r": 8794
+      },
+      {
+        "e": "Woke up (R8802)",
+        "r": 8802
+      },
+      {
+        "e": "PASS",
+        "r": 8802
+      },
+      {
+        "e": "Woke up (R9404)",
+        "r": 9404
+      },
+      {
+        "e": "PASS",
+        "r": 9404
+      },
+      {
+        "e": "Woke up (R9472)",
+        "r": 9472
+      },
+      {
+        "e": "PASS",
+        "r": 9472
+      },
+      {
+        "e": "Killed by Reaper-1 [REVENGE!]",
+        "r": 9542
+      },
+      {
+        "e": "Woke up (R9544)",
+        "r": 9544
+      },
+      {
+        "e": "PASS",
+        "r": 9544
+      },
+      {
+        "e": "Killed by Reaper-1 [REVENGE!]",
+        "r": 9546
+      },
+      {
+        "e": "Woke up (R9548)",
+        "r": 9548
+      },
+      {
+        "e": "PASS",
+        "r": 9548
+      },
+      {
+        "e": "Woke up (R9958)",
+        "r": 9958
+      },
+      {
+        "e": "PASS",
+        "r": 9958
+      }
+    ]
+  },
+  "Shark-4": {
+    "total_memories": 191,
+    "kills": 22,
+    "deaths": 21,
+    "last_killed_by": "Shark-2",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 8682
+      },
+      {
+        "e": "Woke up (R8886)",
+        "r": 8886
+      },
+      {
+        "e": "PASS",
+        "r": 8886
+      },
+      {
+        "e": "Woke up (R8894)",
+        "r": 8894
+      },
+      {
+        "e": "PASS",
+        "r": 8894
+      },
+      {
+        "e": "Woke up (R9054)",
+        "r": 9054
+      },
+      {
+        "e": "PASS",
+        "r": 9054
+      },
+      {
+        "e": "Killed by Shark-2 [REVENGE!]",
+        "r": 9490
+      },
+      {
+        "e": "Woke up (R9494)",
+        "r": 9494
+      },
+      {
+        "e": "PASS",
+        "r": 9494
+      },
+      {
+        "e": "Woke up (R9744)",
+        "r": 9744
+      },
+      {
+        "e": "Killed Shark-2! [REVENGE!]",
+        "r": 9744
+      },
+      {
+        "e": "Killed by Shark-2 [REVENGE!]",
+        "r": 9792
+      },
+      {
+        "e": "Woke up (R9798)",
+        "r": 9798
+      },
+      {
+        "e": "PASS",
+        "r": 9798
+      },
+      {
+        "e": "Killed by Shark-2 [REVENGE!]",
+        "r": 9924
+      },
+      {
+        "e": "Woke up (R9926)",
+        "r": 9926
+      },
+      {
+        "e": "PASS",
+        "r": 9926
+      },
+      {
+        "e": "Woke up (R9954)",
+        "r": 9954
+      },
+      {
+        "e": "PASS",
+        "r": 9954
+      }
+    ]
+  },
+  "Shark-5": {
+    "total_memories": 206,
+    "kills": 28,
+    "deaths": 30,
+    "last_killed_by": "Shark-8",
+    "recent": [
+      {
+        "e": "Woke up (R8542)",
+        "r": 8542
+      },
+      {
+        "e": "PASS",
+        "r": 8542
+      },
+      {
+        "e": "Woke up (R8888)",
+        "r": 8888
+      },
+      {
+        "e": "PASS",
+        "r": 8888
+      },
+      {
+        "e": "Woke up (R8972)",
+        "r": 8972
+      },
+      {
+        "e": "PASS",
+        "r": 8972
+      },
+      {
+        "e": "Killed by Shark-8 [REVENGE!]",
+        "r": 8994
+      },
+      {
+        "e": "Woke up (R8996)",
+        "r": 8996
+      },
+      {
+        "e": "PASS",
+        "r": 8996
+      },
+      {
+        "e": "Woke up (R9196)",
+        "r": 9196
+      },
+      {
+        "e": "Killed Shark-8! [REVENGE!]",
+        "r": 9196
+      },
+      {
+        "e": "Woke up (R9336)",
+        "r": 9336
+      },
+      {
+        "e": "PASS",
+        "r": 9336
+      },
+      {
+        "e": "Woke up (R9348)",
+        "r": 9348
+      },
+      {
+        "e": "PASS",
+        "r": 9348
+      },
+      {
+        "e": "Woke up (R9480)",
+        "r": 9480
+      },
+      {
+        "e": "PASS",
+        "r": 9480
+      },
+      {
+        "e": "Killed by Shark-8 [REVENGE!]",
+        "r": 9986
+      },
+      {
+        "e": "Woke up (R9988)",
+        "r": 9988
+      },
+      {
+        "e": "PASS",
+        "r": 9988
+      }
+    ]
+  },
+  "Shark-6": {
+    "total_memories": 269,
+    "kills": 40,
+    "deaths": 45,
+    "last_killed_by": "Warlord-1",
+    "recent": [
+      {
+        "e": "Woke up (R9344)",
+        "r": 9344
+      },
+      {
+        "e": "Killed Warlord-1! [REVENGE!]",
+        "r": 9344
+      },
+      {
+        "e": "Woke up (R9368)",
+        "r": 9368
+      },
+      {
+        "e": "PASS",
+        "r": 9368
+      },
+      {
+        "e": "Killed by Warlord-1 [REVENGE!]",
+        "r": 9666
+      },
+      {
+        "e": "Woke up (R9674)",
+        "r": 9674
+      },
+      {
+        "e": "PASS",
+        "r": 9674
+      },
+      {
+        "e": "Killed by Warlord-1 [REVENGE!]",
+        "r": 9734
+      },
+      {
+        "e": "Woke up (R9736)",
+        "r": 9736
+      },
+      {
+        "e": "PASS",
+        "r": 9736
+      },
+      {
+        "e": "Killed by Warlord-1 [REVENGE!]",
+        "r": 9830
+      },
+      {
+        "e": "Woke up (R9846)",
+        "r": 9846
+      },
+      {
+        "e": "Killed Warlord-1! [REVENGE!]",
+        "r": 9846
+      },
+      {
+        "e": "Woke up (R9968)",
+        "r": 9968
+      },
+      {
+        "e": "Killed Warlord-1! [REVENGE!]",
+        "r": 9968
+      },
+      {
+        "e": "Woke up (R9976)",
+        "r": 9976
+      },
+      {
+        "e": "Killed Warlord-1! [REVENGE!]",
+        "r": 9976
+      },
+      {
+        "e": "Killed by Warlord-1 [REVENGE!]",
+        "r": 9978
+      },
+      {
+        "e": "Woke up (R9980)",
+        "r": 9980
+      },
+      {
+        "e": "PASS",
+        "r": 9980
+      }
+    ]
+  },
+  "Shark-7": {
+    "total_memories": 294,
+    "kills": 39,
+    "deaths": 52,
+    "last_killed_by": "Warlord-4",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9536
+      },
+      {
+        "e": "Woke up (R9740)",
+        "r": 9740
+      },
+      {
+        "e": "PASS",
+        "r": 9740
+      },
+      {
+        "e": "Woke up (R9796)",
+        "r": 9796
+      },
+      {
+        "e": "Killed Warlord-4! [REVENGE!]",
+        "r": 9796
+      },
+      {
+        "e": "Killed by Warlord-4 [REVENGE!]",
+        "r": 9798
+      },
+      {
+        "e": "Woke up (R9800)",
+        "r": 9800
+      },
+      {
+        "e": "PASS",
+        "r": 9800
+      },
+      {
+        "e": "Woke up (R9828)",
+        "r": 9828
+      },
+      {
+        "e": "PASS",
+        "r": 9828
+      },
+      {
+        "e": "Woke up (R9878)",
+        "r": 9878
+      },
+      {
+        "e": "PASS",
+        "r": 9878
+      },
+      {
+        "e": "Woke up (R9914)",
+        "r": 9914
+      },
+      {
+        "e": "Killed Warlord-4! [REVENGE!]",
+        "r": 9914
+      },
+      {
+        "e": "Killed by Warlord-4 [REVENGE!]",
+        "r": 9916
+      },
+      {
+        "e": "Woke up (R9918)",
+        "r": 9918
+      },
+      {
+        "e": "PASS",
+        "r": 9918
+      },
+      {
+        "e": "Killed by Warlord-4 [REVENGE!]",
+        "r": 9944
+      },
+      {
+        "e": "Woke up (R9946)",
+        "r": 9946
+      },
+      {
+        "e": "Killed Warlord-4! [REVENGE!]",
+        "r": 9946
+      }
+    ]
+  },
+  "Shark-8": {
+    "total_memories": 205,
+    "kills": 30,
+    "deaths": 29,
+    "last_killed_by": "Shark-5",
+    "recent": [
+      {
+        "e": "Woke up (R8296)",
+        "r": 8296
+      },
+      {
+        "e": "Killed Shark-5! [REVENGE!]",
+        "r": 8296
+      },
+      {
+        "e": "Woke up (R8310)",
+        "r": 8310
+      },
+      {
+        "e": "PASS",
+        "r": 8310
+      },
+      {
+        "e": "Killed by Shark-5 [REVENGE!]",
+        "r": 8314
+      },
+      {
+        "e": "Woke up (R8316)",
+        "r": 8316
+      },
+      {
+        "e": "PASS",
+        "r": 8316
+      },
+      {
+        "e": "Woke up (R8626)",
+        "r": 8626
+      },
+      {
+        "e": "PASS",
+        "r": 8626
+      },
+      {
+        "e": "Woke up (R8994)",
+        "r": 8994
+      },
+      {
+        "e": "Killed Shark-5! [REVENGE!]",
+        "r": 8994
+      },
+      {
+        "e": "Killed by Shark-5 [REVENGE!]",
+        "r": 9196
+      },
+      {
+        "e": "Woke up (R9198)",
+        "r": 9198
+      },
+      {
+        "e": "PASS",
+        "r": 9198
+      },
+      {
+        "e": "Woke up (R9288)",
+        "r": 9288
+      },
+      {
+        "e": "PASS",
+        "r": 9288
+      },
+      {
+        "e": "Woke up (R9914)",
+        "r": 9914
+      },
+      {
+        "e": "PASS",
+        "r": 9914
+      },
+      {
+        "e": "Woke up (R9986)",
+        "r": 9986
+      },
+      {
+        "e": "Killed Shark-5! [REVENGE!]",
+        "r": 9986
+      }
+    ]
+  },
+  "Shark-9": {
+    "total_memories": 122,
+    "kills": 14,
+    "deaths": 14,
+    "last_killed_by": "Vengeant-4",
+    "recent": [
+      {
+        "e": "Woke up (R8684)",
+        "r": 8684
+      },
+      {
+        "e": "PASS",
+        "r": 8684
+      },
+      {
+        "e": "Woke up (R9112)",
+        "r": 9112
+      },
+      {
+        "e": "PASS",
+        "r": 9112
+      },
+      {
+        "e": "Woke up (R9418)",
+        "r": 9418
+      },
+      {
+        "e": "Killed Vengeant-4! [REVENGE!]",
+        "r": 9418
+      },
+      {
+        "e": "Killed by Vengeant-4 [REVENGE!]",
+        "r": 9420
+      },
+      {
+        "e": "Woke up (R9422)",
+        "r": 9422
+      },
+      {
+        "e": "Killed Vengeant-4! [REVENGE!]",
+        "r": 9422
+      },
+      {
+        "e": "Woke up (R9562)",
+        "r": 9562
+      },
+      {
+        "e": "Killed Vengeant-4! [REVENGE!]",
+        "r": 9562
+      },
+      {
+        "e": "Killed by Vengeant-4 [REVENGE!]",
+        "r": 9704
+      },
+      {
+        "e": "Woke up (R9706)",
+        "r": 9706
+      },
+      {
+        "e": "PASS",
+        "r": 9706
+      },
+      {
+        "e": "Killed by Vengeant-4 [REVENGE!]",
+        "r": 9724
+      },
+      {
+        "e": "Woke up (R9726)",
+        "r": 9726
+      },
+      {
+        "e": "Killed Vengeant-4! [REVENGE!]",
+        "r": 9726
+      },
+      {
+        "e": "Killed by Vengeant-4 [REVENGE!]",
+        "r": 9736
+      },
+      {
+        "e": "Woke up (R9738)",
+        "r": 9738
+      },
+      {
+        "e": "PASS",
+        "r": 9738
+      }
+    ]
+  },
+  "Chaos-0": {
+    "total_memories": 446,
+    "kills": 84,
+    "deaths": 106,
+    "last_killed_by": "Chaos-4",
+    "recent": [
+      {
+        "e": "Woke up (R9732)",
+        "r": 9732
+      },
+      {
+        "e": "Killed Chaos-4! [REVENGE!]",
+        "r": 9732
+      },
+      {
+        "e": "Woke up (R9742)",
+        "r": 9742
+      },
+      {
+        "e": "PASS",
+        "r": 9742
+      },
+      {
+        "e": "Woke up (R9756)",
+        "r": 9756
+      },
+      {
+        "e": "PASS",
+        "r": 9756
+      },
+      {
+        "e": "Killed by Chaos-2 [REVENGE!]",
+        "r": 9794
+      },
+      {
+        "e": "Woke up (R9800)",
+        "r": 9800
+      },
+      {
+        "e": "Killed Chaos-2! [REVENGE!]",
+        "r": 9800
+      },
+      {
+        "e": "Killed by Chaos-4 [REVENGE!]",
+        "r": 9806
+      },
+      {
+        "e": "Woke up (R9808)",
+        "r": 9808
+      },
+      {
+        "e": "PASS",
+        "r": 9808
+      },
+      {
+        "e": "Killed by Chaos-4 [REVENGE!]",
+        "r": 9824
+      },
+      {
+        "e": "Woke up (R9826)",
+        "r": 9826
+      },
+      {
+        "e": "Killed Chaos-4! [REVENGE!]",
+        "r": 9826
+      },
+      {
+        "e": "Killed by Chaos-4 [REVENGE!]",
+        "r": 9828
+      },
+      {
+        "e": "Woke up (R9834)",
+        "r": 9834
+      },
+      {
+        "e": "PASS",
+        "r": 9834
+      },
+      {
+        "e": "Woke up (R9844)",
+        "r": 9844
+      },
+      {
+        "e": "PASS",
+        "r": 9844
+      }
+    ]
+  },
+  "Chaos-1": {
+    "total_memories": 280,
+    "kills": 52,
+    "deaths": 50,
+    "last_killed_by": "Chaos-9",
+    "recent": [
+      {
+        "e": "Woke up (R9358)",
+        "r": 9358
+      },
+      {
+        "e": "Killed Chaos-9! [REVENGE!]",
+        "r": 9358
+      },
+      {
+        "e": "Woke up (R9490)",
+        "r": 9490
+      },
+      {
+        "e": "PASS",
+        "r": 9490
+      },
+      {
+        "e": "Woke up (R9774)",
+        "r": 9774
+      },
+      {
+        "e": "Killed Chaos-9! [REVENGE!]",
+        "r": 9774
+      },
+      {
+        "e": "Killed by Chaos-9 [REVENGE!]",
+        "r": 9776
+      },
+      {
+        "e": "Woke up (R9780)",
+        "r": 9780
+      },
+      {
+        "e": "Killed Chaos-9! [REVENGE!]",
+        "r": 9780
+      },
+      {
+        "e": "Woke up (R9790)",
+        "r": 9790
+      },
+      {
+        "e": "PASS",
+        "r": 9790
+      },
+      {
+        "e": "Killed by Chaos-9 [REVENGE!]",
+        "r": 9802
+      },
+      {
+        "e": "Woke up (R9804)",
+        "r": 9804
+      },
+      {
+        "e": "PASS",
+        "r": 9804
+      },
+      {
+        "e": "Woke up (R9816)",
+        "r": 9816
+      },
+      {
+        "e": "PASS",
+        "r": 9816
+      },
+      {
+        "e": "Woke up (R9858)",
+        "r": 9858
+      },
+      {
+        "e": "PASS",
+        "r": 9858
+      },
+      {
+        "e": "Woke up (R9898)",
+        "r": 9898
+      },
+      {
+        "e": "Killed Chaos-9! [REVENGE!]",
+        "r": 9898
+      }
+    ]
+  },
+  "Chaos-2": {
+    "total_memories": 231,
+    "kills": 52,
+    "deaths": 39,
+    "last_killed_by": "Chaos-0",
+    "recent": [
+      {
+        "e": "Woke up (R8708)",
+        "r": 8708
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 8708
+      },
+      {
+        "e": "Killed by Chaos-0 [REVENGE!]",
+        "r": 8710
+      },
+      {
+        "e": "Woke up (R8712)",
+        "r": 8712
+      },
+      {
+        "e": "PASS",
+        "r": 8712
+      },
+      {
+        "e": "Woke up (R8938)",
+        "r": 8938
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 8938
+      },
+      {
+        "e": "Woke up (R9088)",
+        "r": 9088
+      },
+      {
+        "e": "PASS",
+        "r": 9088
+      },
+      {
+        "e": "Woke up (R9152)",
+        "r": 9152
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9152
+      },
+      {
+        "e": "Woke up (R9538)",
+        "r": 9538
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9538
+      },
+      {
+        "e": "Woke up (R9656)",
+        "r": 9656
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9656
+      },
+      {
+        "e": "Woke up (R9794)",
+        "r": 9794
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9794
+      },
+      {
+        "e": "Killed by Chaos-0 [REVENGE!]",
+        "r": 9800
+      },
+      {
+        "e": "Woke up (R9802)",
+        "r": 9802
+      },
+      {
+        "e": "PASS",
+        "r": 9802
+      }
+    ]
+  },
+  "Chaos-3": {
+    "total_memories": 142,
+    "kills": 27,
+    "deaths": 10,
+    "last_killed_by": "Trickster-2",
+    "recent": [
+      {
+        "e": "Woke up (R7760)",
+        "r": 7760
+      },
+      {
+        "e": "PASS",
+        "r": 7760
+      },
+      {
+        "e": "Woke up (R8422)",
+        "r": 8422
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 8422
+      },
+      {
+        "e": "Woke up (R8650)",
+        "r": 8650
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 8650
+      },
+      {
+        "e": "Woke up (R8722)",
+        "r": 8722
+      },
+      {
+        "e": "PASS",
+        "r": 8722
+      },
+      {
+        "e": "Woke up (R8862)",
+        "r": 8862
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 8862
+      },
+      {
+        "e": "Woke up (R8984)",
+        "r": 8984
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 8984
+      },
+      {
+        "e": "Woke up (R9084)",
+        "r": 9084
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 9084
+      },
+      {
+        "e": "Woke up (R9518)",
+        "r": 9518
+      },
+      {
+        "e": "PASS",
+        "r": 9518
+      },
+      {
+        "e": "Woke up (R9760)",
+        "r": 9760
+      },
+      {
+        "e": "PASS",
+        "r": 9760
+      },
+      {
+        "e": "Woke up (R9980)",
+        "r": 9980
+      },
+      {
+        "e": "Killed Trickster-2! [REVENGE!]",
+        "r": 9980
+      }
+    ]
+  },
+  "Chaos-4": {
+    "total_memories": 271,
+    "kills": 61,
+    "deaths": 49,
+    "last_killed_by": "Chaos-0",
+    "recent": [
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9352
+      },
+      {
+        "e": "Woke up (R9652)",
+        "r": 9652
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9652
+      },
+      {
+        "e": "Woke up (R9680)",
+        "r": 9680
+      },
+      {
+        "e": "PASS",
+        "r": 9680
+      },
+      {
+        "e": "Woke up (R9712)",
+        "r": 9712
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9712
+      },
+      {
+        "e": "Killed by Chaos-0 [REVENGE!]",
+        "r": 9728
+      },
+      {
+        "e": "Woke up (R9730)",
+        "r": 9730
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9730
+      },
+      {
+        "e": "Killed by Chaos-0 [REVENGE!]",
+        "r": 9732
+      },
+      {
+        "e": "Woke up (R9734)",
+        "r": 9734
+      },
+      {
+        "e": "PASS",
+        "r": 9734
+      },
+      {
+        "e": "Woke up (R9806)",
+        "r": 9806
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9806
+      },
+      {
+        "e": "Woke up (R9824)",
+        "r": 9824
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9824
+      },
+      {
+        "e": "Killed by Chaos-0 [REVENGE!]",
+        "r": 9826
+      },
+      {
+        "e": "Woke up (R9828)",
+        "r": 9828
+      },
+      {
+        "e": "Killed Chaos-0! [REVENGE!]",
+        "r": 9828
+      }
+    ]
+  },
+  "Chaos-5": {
+    "total_memories": 311,
+    "kills": 58,
+    "deaths": 59,
+    "last_killed_by": "Chaos-6",
+    "recent": [
+      {
+        "e": "Killed Chaos-6! [REVENGE!]",
+        "r": 9504
+      },
+      {
+        "e": "Killed by Chaos-6 [REVENGE!]",
+        "r": 9506
+      },
+      {
+        "e": "Woke up (R9510)",
+        "r": 9510
+      },
+      {
+        "e": "Killed Chaos-6! [REVENGE!]",
+        "r": 9510
+      },
+      {
+        "e": "Woke up (R9524)",
+        "r": 9524
+      },
+      {
+        "e": "Killed Chaos-6! [REVENGE!]",
+        "r": 9524
+      },
+      {
+        "e": "Killed by Chaos-6 [REVENGE!]",
+        "r": 9526
+      },
+      {
+        "e": "Woke up (R9528)",
+        "r": 9528
+      },
+      {
+        "e": "PASS",
+        "r": 9528
+      },
+      {
+        "e": "Woke up (R9594)",
+        "r": 9594
+      },
+      {
+        "e": "PASS",
+        "r": 9594
+      },
+      {
+        "e": "Woke up (R9664)",
+        "r": 9664
+      },
+      {
+        "e": "PASS",
+        "r": 9664
+      },
+      {
+        "e": "Killed by Chaos-6 [REVENGE!]",
+        "r": 9904
+      },
+      {
+        "e": "Woke up (R9906)",
+        "r": 9906
+      },
+      {
+        "e": "Killed Chaos-6! [REVENGE!]",
+        "r": 9906
+      },
+      {
+        "e": "Woke up (R9912)",
+        "r": 9912
+      },
+      {
+        "e": "Killed Chaos-6! [REVENGE!]",
+        "r": 9912
+      },
+      {
+        "e": "Woke up (R9932)",
+        "r": 9932
+      },
+      {
+        "e": "Killed Chaos-6! [REVENGE!]",
+        "r": 9932
+      }
+    ]
+  },
+  "Chaos-6": {
+    "total_memories": 290,
+    "kills": 59,
+    "deaths": 58,
+    "last_killed_by": "Chaos-5",
+    "recent": [
+      {
+        "e": "Killed Chaos-5! [REVENGE!]",
+        "r": 9506
+      },
+      {
+        "e": "Killed by Chaos-5 [REVENGE!]",
+        "r": 9510
+      },
+      {
+        "e": "Woke up (R9512)",
+        "r": 9512
+      },
+      {
+        "e": "PASS",
+        "r": 9512
+      },
+      {
+        "e": "Killed by Chaos-5 [REVENGE!]",
+        "r": 9524
+      },
+      {
+        "e": "Woke up (R9526)",
+        "r": 9526
+      },
+      {
+        "e": "Killed Chaos-5! [REVENGE!]",
+        "r": 9526
+      },
+      {
+        "e": "Woke up (R9826)",
+        "r": 9826
+      },
+      {
+        "e": "PASS",
+        "r": 9826
+      },
+      {
+        "e": "Woke up (R9904)",
+        "r": 9904
+      },
+      {
+        "e": "Killed Chaos-5! [REVENGE!]",
+        "r": 9904
+      },
+      {
+        "e": "Killed by Chaos-5 [REVENGE!]",
+        "r": 9906
+      },
+      {
+        "e": "Woke up (R9908)",
+        "r": 9908
+      },
+      {
+        "e": "PASS",
+        "r": 9908
+      },
+      {
+        "e": "Killed by Chaos-5 [REVENGE!]",
+        "r": 9912
+      },
+      {
+        "e": "Woke up (R9920)",
+        "r": 9920
+      },
+      {
+        "e": "PASS",
+        "r": 9920
+      },
+      {
+        "e": "Killed by Chaos-5 [REVENGE!]",
+        "r": 9932
+      },
+      {
+        "e": "Woke up (R9934)",
+        "r": 9934
+      },
+      {
+        "e": "PASS",
+        "r": 9934
+      }
+    ]
+  },
+  "Chaos-7": {
+    "total_memories": 284,
+    "kills": 51,
+    "deaths": 62,
+    "last_killed_by": "Strategist-6",
+    "recent": [
+      {
+        "e": "Killed by Strategist-6 [REVENGE!]",
+        "r": 9678
+      },
+      {
+        "e": "Woke up (R9680)",
+        "r": 9680
+      },
+      {
+        "e": "Killed Strategist-6! [REVENGE!]",
+        "r": 9680
+      },
+      {
+        "e": "Killed by Strategist-6 [REVENGE!]",
+        "r": 9682
+      },
+      {
+        "e": "Woke up (R9684)",
+        "r": 9684
+      },
+      {
+        "e": "PASS",
+        "r": 9684
+      },
+      {
+        "e": "Killed by Strategist-6 [REVENGE!]",
+        "r": 9708
+      },
+      {
+        "e": "Woke up (R9714)",
+        "r": 9714
+      },
+      {
+        "e": "Killed Strategist-6! [REVENGE!]",
+        "r": 9714
+      },
+      {
+        "e": "Killed by Strategist-6 [REVENGE!]",
+        "r": 9716
+      },
+      {
+        "e": "Woke up (R9718)",
+        "r": 9718
+      },
+      {
+        "e": "Killed Strategist-6! [REVENGE!]",
+        "r": 9718
+      },
+      {
+        "e": "Woke up (R9770)",
+        "r": 9770
+      },
+      {
+        "e": "Killed Strategist-6! [REVENGE!]",
+        "r": 9770
+      },
+      {
+        "e": "Woke up (R9810)",
+        "r": 9810
+      },
+      {
+        "e": "Killed Strategist-6! [REVENGE!]",
+        "r": 9810
+      },
+      {
+        "e": "Woke up (R9848)",
+        "r": 9848
+      },
+      {
+        "e": "Killed Strategist-6! [REVENGE!]",
+        "r": 9848
+      },
+      {
+        "e": "Woke up (R9988)",
+        "r": 9988
+      },
+      {
+        "e": "Killed Strategist-6! [REVENGE!]",
+        "r": 9988
+      }
+    ]
+  },
+  "Chaos-8": {
+    "total_memories": 330,
+    "kills": 51,
+    "deaths": 72,
+    "last_killed_by": "Strategist-7",
+    "recent": [
+      {
+        "e": "PASS",
+        "r": 9448
+      },
+      {
+        "e": "Killed by Strategist-7 [REVENGE!]",
+        "r": 9468
+      },
+      {
+        "e": "Woke up (R9470)",
+        "r": 9470
+      },
+      {
+        "e": "PASS",
+        "r": 9470
+      },
+      {
+        "e": "Killed by Strategist-7 [REVENGE!]",
+        "r": 9662
+      },
+      {
+        "e": "Woke up (R9668)",
+        "r": 9668
+      },
+      {
+        "e": "Killed Strategist-7! [REVENGE!]",
+        "r": 9668
+      },
+      {
+        "e": "Killed by Strategist-7 [REVENGE!]",
+        "r": 9670
+      },
+      {
+        "e": "Woke up (R9672)",
+        "r": 9672
+      },
+      {
+        "e": "Killed Strategist-7! [REVENGE!]",
+        "r": 9672
+      },
+      {
+        "e": "Killed by Strategist-7 [REVENGE!]",
+        "r": 9676
+      },
+      {
+        "e": "Woke up (R9678)",
+        "r": 9678
+      },
+      {
+        "e": "PASS",
+        "r": 9678
+      },
+      {
+        "e": "Woke up (R9780)",
+        "r": 9780
+      },
+      {
+        "e": "PASS",
+        "r": 9780
+      },
+      {
+        "e": "Woke up (R9784)",
+        "r": 9784
+      },
+      {
+        "e": "Killed Strategist-7! [REVENGE!]",
+        "r": 9784
+      },
+      {
+        "e": "Killed by Strategist-7 [REVENGE!]",
+        "r": 9808
+      },
+      {
+        "e": "Woke up (R9810)",
+        "r": 9810
+      },
+      {
+        "e": "PASS",
+        "r": 9810
+      }
+    ]
+  },
+  "Chaos-9": {
+    "total_memories": 276,
+    "kills": 53,
+    "deaths": 54,
+    "last_killed_by": "Chaos-1",
+    "recent": [
+      {
+        "e": "Killed Chaos-1! [REVENGE!]",
+        "r": 9356
+      },
+      {
+        "e": "Killed by Chaos-1 [REVENGE!]",
+        "r": 9358
+      },
+      {
+        "e": "Woke up (R9360)",
+        "r": 9360
+      },
+      {
+        "e": "PASS",
+        "r": 9360
+      },
+      {
+        "e": "Woke up (R9596)",
+        "r": 9596
+      },
+      {
+        "e": "Killed Reaper-1!",
+        "r": 9596
+      },
+      {
+        "e": "Killed by Chaos-1 [REVENGE!]",
+        "r": 9774
+      },
+      {
+        "e": "Woke up (R9776)",
+        "r": 9776
+      },
+      {
+        "e": "Killed Chaos-1! [REVENGE!]",
+        "r": 9776
+      },
+      {
+        "e": "Killed by Chaos-1 [REVENGE!]",
+        "r": 9780
+      },
+      {
+        "e": "Woke up (R9802)",
+        "r": 9802
+      },
+      {
+        "e": "Killed Chaos-1! [REVENGE!]",
+        "r": 9802
+      },
+      {
+        "e": "Killed by Reaper-1 [REVENGE!]",
+        "r": 9854
+      },
+      {
+        "e": "Woke up (R9856)",
+        "r": 9856
+      },
+      {
+        "e": "Killed Reaper-1! [REVENGE!]",
+        "r": 9856
+      },
+      {
+        "e": "Killed by Chaos-1 [REVENGE!]",
+        "r": 9898
+      },
+      {
+        "e": "Woke up (R9902)",
+        "r": 9902
+      },
+      {
+        "e": "PASS",
+        "r": 9902
+      },
+      {
+        "e": "Woke up (R9966)",
+        "r": 9966
+      },
+      {
+        "e": "PASS",
+        "r": 9966
+      }
+    ]
+  }
+}
