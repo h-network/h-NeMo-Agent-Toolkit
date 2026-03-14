@@ -15,6 +15,29 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
+# H-Network's Take on NVIDIA NeMo Agent Toolkit
+
+This fork adds a production-grade **Redis Orchestration Middleware** (package: `nvidia_nat_redis_orchestration`) to address key gaps in the upstream toolkit, as proposed in [NVIDIA/NeMo-Agent-Toolkit#1793](https://github.com/NVIDIA/NeMo-Agent-Toolkit/issues/1793). It's fully opt-in, no core changes—enhancing auditability, task tracking, parallel execution, aborts, session continuity, and metrics for reliable multi-agent workflows.
+
+### Key Features
+- **Task State Machine**: Queued → Running → Completed/Failed/Aborted/Timed_Out with Redis persistence, TTLs, and Pub/Sub notifications.
+- **External Aborts**: Clean kill-switch via control channels and `os.killpg`.
+- **Session Continuity**: Per-agent history in Redis lists with size-based chunking and idle sweeps.
+- **Crash Recovery**: Startup scans for orphaned tasks.
+- **Metrics & Integrity**: Redis counters for observability, HMAC-signed results to prevent spoofing.
+- **Parallel Execution**: ThreadPoolExecutor with semaphores and per-chat locks.
+
+### Proof in Action
+Stress-tested on 100 agents in a "free-for-all" simulation (10,000 rounds, dual RTX 5090s + RTX 4070 Ti/3090 Ti):
+- Zero data loss, 96.6% revenge kill rate (persistent memory works!).
+- See [test_agent_wars_100.py](packages/nvidia_nat_redis_orchestration//tests/test_agent_wars_100.py) for the script, audit logs, and reports.
+- GPU utilization: [GPUUtil.png](packages/nvidia_nat_redis_orchestration/GPUutil.png)
+
+
+Star if useful! 🚀 Issues/PRs welcome.
+
+
+
 ![NVIDIA NeMo Agent Toolkit](./docs/source/_static/banner.png "NeMo Agent Toolkit banner image")
 
 # NVIDIA NeMo Agent Toolkit
