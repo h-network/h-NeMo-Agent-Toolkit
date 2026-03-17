@@ -33,6 +33,25 @@ Stress-tested on 100 agents in a "free-for-all" simulation (10,000 rounds, dual 
 - See [test_agent_wars_100.py](packages/nvidia_nat_redis_orchestration//tests/test_agent_wars_100.py) for the script, audit logs, and reports.
 - GPU utilization: [GPUUtil.png](packages/nvidia_nat_redis_orchestration/GPUutil.png)
 
+  <h2 align="center">Quick Start</h2>
+
+  ```bash
+  git clone https://github.com/h-network/h-NeMo-Agent-Toolkit.git
+  cd h-NeMo-Agent-Toolkit
+  git checkout h-dev
+  pip install -e "packages/nvidia_nat_redis_orchestration"
+
+  Then add the middleware to your agent config:
+
+  middleware:
+    orchestration:
+      _type: redis_orchestration
+      redis_url: redis://localhost:6379
+      enable_state_tracking: true
+      enable_abort: true
+      enable_session_continuity: true
+
+
 
 Star if useful! 🚀 Issues/PRs welcome.
   <p align="center">
