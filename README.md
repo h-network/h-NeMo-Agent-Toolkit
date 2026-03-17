@@ -35,6 +35,14 @@ Stress-tested on 100 agents in a "free-for-all" simulation (10,000 rounds, dual 
 
 
 Star if useful! 🚀 Issues/PRs welcome.
+  <p align="center">
+    <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit/issues/1793"><img src="https://img.shields.io/badge/NAT%20Issue-%231793-green.svg" alt="Issue #1793"></a>
+    <a href="https://github.com/h-network/h-NeMo-Agent-Toolkit/stargazers"><img src="https://img.shields.io/github/stars/h-network/h-NeMo-Agent-Toolkit" alt="Stars"></a>
+    <a href="https://github.com/h-network/h-NeMo-Agent-Toolkit/commits"><img src="https://img.shields.io/github/last-commit/h-network/h-NeMo-Agent-Toolkit" alt="Last commit"></a>
+    <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
+    <a href="https://img.shields.io/badge/Tests-828%2F828-brightgreen.svg"><img src="https://img.shields.io/badge/Stress%20Test-828%2F828-brightgreen.svg" alt="828/828"></a>
+    <a href="https://img.shields.io/badge/Multi--Instance-644%2F644-brightgreen.svg"><img src="https://img.shields.io/badge/Multi--Instance-644%2F644-brightgreen.svg" alt="644/644"></a>
+  </p>
 
 
 
