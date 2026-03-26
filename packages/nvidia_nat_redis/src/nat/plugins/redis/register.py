@@ -20,3 +20,4 @@
 
 from . import memory
 from . import object_store
+from .orchestration import register as _orchestration_register  # noqa: F401
