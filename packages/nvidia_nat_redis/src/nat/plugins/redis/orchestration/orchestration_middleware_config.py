@@ -12,7 +12,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-"""Configuration for Redis orchestration middleware."""
+"""Configuration for Redis orchestration integration."""
 
 from __future__ import annotations
 
@@ -23,7 +23,7 @@ from nat.middleware.dynamic.dynamic_middleware_config import DynamicMiddlewareCo
 
 
 class RedisOrchestrationConfig(DynamicMiddlewareConfig, name="redis_orchestration"):
-    """Configuration for Redis-backed task orchestration middleware.
+    """Configuration for Redis-backed task orchestration.
 
     Provides task lifecycle state tracking, external abort via Pub/Sub,
     and crash recovery for orphaned tasks.
@@ -61,7 +61,7 @@ class RedisOrchestrationConfig(DynamicMiddlewareConfig, name="redis_orchestratio
 
     crash_recovery_on_startup: bool = Field(
         default=True,
-        description="Run SCAN-based recovery for orphaned running tasks on middleware init.",
+        description="Run SCAN-based recovery for orphaned running tasks on startup.",
     )
 
     instance_id: str | None = Field(

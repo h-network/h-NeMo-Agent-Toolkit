@@ -34,6 +34,14 @@ class CrashRecovery:
     """
 
     def __init__(self, client: aioredis.Redis, key_prefix: str, state_ttl: int, instance_id: str) -> None:
+        """Initialize crash recovery.
+
+        Args:
+            client: Async Redis client.
+            key_prefix: Namespace prefix for state keys.
+            state_ttl: TTL in seconds for state entries.
+            instance_id: Identifier for this recovery instance.
+        """
         self._client = client
         self._key_prefix = key_prefix
         self._tracker = TaskStateTracker(client, key_prefix, state_ttl, instance_id)
@@ -57,7 +65,7 @@ class CrashRecovery:
                 if raw is None:
                     continue
 
-                info = self._tracker._deserialize(raw)
+                info = self._tracker.deserialize(raw)
                 if info.state == TaskState.RUNNING:
                     error_msg = f"Orphaned: process crashed (recovered by instance {self._instance_id})"
                     await self._tracker.set_failed(info.task_id, error_msg)

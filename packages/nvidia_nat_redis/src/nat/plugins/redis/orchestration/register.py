@@ -12,7 +12,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-"""Registration for Redis orchestration middleware."""
+"""Registration for Redis orchestration integration."""
 
 from __future__ import annotations
 
@@ -37,10 +37,10 @@ async def redis_orchestration_middleware(
     config: RedisOrchestrationConfig,
     builder: Builder,
 ) -> AsyncGenerator[RedisOrchestrationMiddleware, None]:
-    """Build a Redis orchestration middleware from configuration.
+    """Build Redis orchestration from configuration.
 
     Establishes the Redis connection, optionally runs crash recovery,
-    yields the middleware instance, and cleans up on teardown.
+    yields the orchestration instance, and cleans up on teardown.
     """
     instance_id = config.instance_id or uuid.uuid4().hex
 
@@ -56,7 +56,7 @@ async def redis_orchestration_middleware(
 
     # Verify connectivity
     await client.ping()
-    logger.info("Redis orchestration middleware connected to %s (instance=%s)", config.redis_url, instance_id)
+    logger.info("Redis orchestration connected to %s (instance=%s)", config.redis_url, instance_id)
 
     # Crash recovery — detect orphaned running tasks from a previous process
     if config.crash_recovery_on_startup and config.enable_state_tracking:
@@ -78,4 +78,4 @@ async def redis_orchestration_middleware(
 
     # Teardown — close the Redis connection
     await client.close()
-    logger.info("Redis orchestration middleware connection closed")
+    logger.info("Redis orchestration connection closed")

@@ -12,7 +12,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-"""Redis orchestration middleware — state tracking, external abort, session continuity."""
+"""Redis orchestration integration — state tracking, external abort, session continuity."""
 
 from __future__ import annotations
 
@@ -40,7 +40,7 @@ logger = logging.getLogger(__name__)
 
 
 class RedisOrchestrationMiddleware(DynamicFunctionMiddleware):
-    """Middleware that tracks task execution state in Redis, supports external abort,
+    """Tracks task execution state in Redis, supports external abort,
     and provides session continuity for conversation history.
 
     Wraps each intercepted function call with:
@@ -62,6 +62,14 @@ class RedisOrchestrationMiddleware(DynamicFunctionMiddleware):
         client: aioredis.Redis,
         instance_id: str,
     ) -> None:
+        """Initialize the orchestration integration.
+
+        Args:
+            config: Orchestration configuration.
+            builder: NAT workflow builder.
+            client: Async Redis client for state and Pub/Sub operations.
+            instance_id: Unique identifier for this process instance.
+        """
         super().__init__(config=config, builder=builder)
         self._orch_config = config
         self._client = client

@@ -45,6 +45,14 @@ class TaskStateTracker:
         state_ttl: int,
         instance_id: str,
     ) -> None:
+        """Initialize the task state tracker.
+
+        Args:
+            client: Async Redis client.
+            key_prefix: Namespace prefix for state keys.
+            state_ttl: TTL in seconds for state entries.
+            instance_id: Identifier for this process instance.
+        """
         self._client = client
         self._key_prefix = key_prefix
         self._state_ttl = state_ttl
@@ -97,7 +105,7 @@ class TaskStateTracker:
         raw = await self._client.get(self.state_key(task_id))
         if raw is None:
             return None
-        return self._deserialize(raw)
+        return self.deserialize(raw)
 
     # ---- Internals ----
 
@@ -144,10 +152,12 @@ class TaskStateTracker:
 
     @staticmethod
     def _serialize(info: TaskStateInfo) -> str:
+        """Serialize a TaskStateInfo to JSON."""
         return json.dumps(dataclasses.asdict(info))
 
     @staticmethod
-    def _deserialize(raw: str) -> TaskStateInfo:
+    def deserialize(raw: str) -> TaskStateInfo:
+        """Deserialize a JSON string to TaskStateInfo."""
         data = json.loads(raw)
         data["state"] = TaskState(data["state"])
         return TaskStateInfo(**data)

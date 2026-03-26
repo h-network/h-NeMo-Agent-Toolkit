@@ -29,11 +29,17 @@ logger = logging.getLogger(__name__)
 class AbortController:
     """Listens for (or sends) abort signals on per-task Redis Pub/Sub channels.
 
-    The middleware creates one listener per active task.  External callers
+    The orchestration layer creates one listener per active task.  External callers
     (UI, API, another agent) publish to the same channel to request cancellation.
     """
 
     def __init__(self, client: aioredis.Redis, key_prefix: str) -> None:
+        """Initialize the abort controller.
+
+        Args:
+            client: Async Redis client.
+            key_prefix: Namespace prefix for abort channel keys.
+        """
         self._client = client
         self._key_prefix = key_prefix
 

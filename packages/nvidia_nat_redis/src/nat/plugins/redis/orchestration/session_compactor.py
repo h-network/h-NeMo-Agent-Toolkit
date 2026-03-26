@@ -48,6 +48,13 @@ class SessionCompactor:
         compaction_threshold: int = 50,
         keep_recent: int = 10,
     ) -> None:
+        """Initialize the session compactor.
+
+        Args:
+            session_store: Session store to compact.
+            compaction_threshold: Turn count that triggers compaction.
+            keep_recent: Number of recent turns to preserve.
+        """
         self._store = session_store
         self._compaction_threshold = compaction_threshold
         self._keep_recent = keep_recent

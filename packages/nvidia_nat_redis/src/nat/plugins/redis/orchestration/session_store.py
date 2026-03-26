@@ -37,7 +37,7 @@ class SessionStore:
     Each session is stored as a Redis List of JSON-serialized turns.
     Sessions auto-expire via TTL and rotate when they exceed size limits.
 
-    Can be used standalone or wired into the orchestration middleware.
+    Can be used standalone or wired into the orchestration integration.
     """
 
     def __init__(
@@ -48,6 +48,15 @@ class SessionStore:
         max_turns: int,
         max_bytes: int,
     ) -> None:
+        """Initialize the session store.
+
+        Args:
+            client: Async Redis client.
+            key_prefix: Namespace prefix for session keys.
+            session_ttl: TTL in seconds for session data.
+            max_turns: Maximum turns before rotation.
+            max_bytes: Maximum bytes before rotation.
+        """
         self._client = client
         self._key_prefix = key_prefix
         self._session_ttl = session_ttl
@@ -185,6 +194,7 @@ class SessionStore:
 
     @staticmethod
     def _serialize_turn(turn: ConversationTurn) -> str:
+        """Serialize a conversation turn to JSON."""
         data = {
             "role": turn.role.value,
             "content": turn.content,
@@ -196,6 +206,7 @@ class SessionStore:
 
     @staticmethod
     def _deserialize_turn(raw: str) -> ConversationTurn:
+        """Deserialize a JSON string to a ConversationTurn."""
         data = json.loads(raw)
         return ConversationTurn(
             role=TurnRole(data["role"]),
